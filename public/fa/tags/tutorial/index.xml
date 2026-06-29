@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on کوانتستان</title>
+    <link>//localhost:1313/fa/tags/tutorial/</link>
+    <description>Recent content in Tutorial on کوانتستان</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <copyright>© 2026    محمد مهدی معصومیان</copyright>
+    <lastBuildDate>Wed, 03 Apr 1405 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/fa/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3-1- سیستم پشتیبان تصمیم گیری چیست؟</title>
+      <link>//localhost:1313/fa/tutorials/level1-basic/3-what-is-dss/</link>
+      <pubDate>Wed, 03 Apr 1405 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fa/tutorials/level1-basic/3-what-is-dss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2-1- مالی کمی یعنی چی؟</title>
+      <link>//localhost:1313/fa/tutorials/level1-basic/2-what-is-quant-fin/</link>
+      <pubDate>Tue, 02 Apr 1405 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fa/tutorials/level1-basic/2-what-is-quant-fin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>1-1- معاملات الگوریتمی یعنی چی؟</title>
+      <link>//localhost:1313/fa/tutorials/level1-basic/1-what-is-algo-trade/</link>
+      <pubDate>Mon, 01 Apr 1405 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fa/tutorials/level1-basic/1-what-is-algo-trade/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

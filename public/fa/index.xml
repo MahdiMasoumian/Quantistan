@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>کوانتستان</title>
+    <link>http://localhost:1313/fa/</link>
+    <description>Recent content on کوانتستان</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <copyright>© 2026    محمد مهدی معصومیان</copyright>
+    <lastBuildDate>Sat, 27 Jun 2026 17:22:21 +0000</lastBuildDate><atom:link href="http://localhost:1313/fa/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3-1- سیستم های پشتیبان تصمیم گیری چی هستند؟</title>
+      <link>http://localhost:1313/fa/tutorials/level1-basic/3-difrent-algo-manula/</link>
+      <pubDate>Sat, 27 Jun 2026 17:22:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fa/tutorials/level1-basic/3-difrent-algo-manula/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2-1- معاملات کمی چیست؟</title>
+      <link>http://localhost:1313/fa/tutorials/level1-basic/2-what-is-quant-trade/</link>
+      <pubDate>Sat, 27 Jun 2026 09:25:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fa/tutorials/level1-basic/2-what-is-quant-trade/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>1-1- معاملات الگوریتمی چیست؟</title>
+      <link>http://localhost:1313/fa/tutorials/level1-basic/1-what-is-algo-trade/</link>
+      <pubDate>Sat, 27 Jun 2026 08:14:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fa/tutorials/level1-basic/1-what-is-algo-trade/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>درباره کوانتستان</title>
+      <link>http://localhost:1313/fa/ourteam/quantistan/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fa/ourteam/quantistan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>راهنمای سایت کوانتستان</title>
+      <link>http://localhost:1313/fa/ourteam/help/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fa/ourteam/help/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>کُنت حشمت</title>
+      <link>http://localhost:1313/fa/ourteam/countheshmat/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fa/ourteam/countheshmat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مدیریت پرتفوی مبتنی بر ریسک در بورس اوراق بهادار تهران</title>
+      <link>http://localhost:1313/fa/publications/20260626/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fa/publications/20260626/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>دعوت به همکاری</title>
+      <link>http://localhost:1313/fa/ourteam/collaboration/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fa/ourteam/collaboration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>محمد مهدی معصومیان</title>
+      <link>http://localhost:1313/fa/ourteam/author/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fa/ourteam/author/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

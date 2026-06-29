@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beginner on Quantistan</title>
+    <link>//localhost:1313/en/tags/beginner/</link>
+    <description>Recent content in Beginner on Quantistan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
+    <lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/en/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1-3- What is Decision Support System?</title>
+      <link>//localhost:1313/en/tutorials/level1-basic/3-what-is-dss/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/en/tutorials/level1-basic/3-what-is-dss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>1-2- What is Quantitative Finance?</title>
+      <link>//localhost:1313/en/tutorials/level1-basic/2-what-is-quant-fin/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/en/tutorials/level1-basic/2-what-is-quant-fin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>1-1- What is Algorithmic Trading?</title>
+      <link>//localhost:1313/en/tutorials/level1-basic/1-what-is-algo-trade/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/en/tutorials/level1-basic/1-what-is-algo-trade/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

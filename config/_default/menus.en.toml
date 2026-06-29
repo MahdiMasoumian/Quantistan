@@ -1,0 +1,49 @@
+[[main]]
+  name = "Tutorials"
+  pageRef = "tutorials"
+  weight = 10
+
+[[main]]
+  name = "Publications"
+  pageRef = "Publications"
+  weight = 20
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 30
+
+[[main]]
+  name = "Collaboration"
+  pageRef = "ourteam/Collaboration"
+  weight = 50
+
+[[main]]
+  name = "about us"
+  pageRef = "ourteam"
+  weight = 60
+
+[[main]]
+  name = "Help"
+  pageRef = "ourteam/help"
+  weight = 70
+
+[[footer]]
+  name = "mm.masoumian@gmail.com"
+  url = "https://mailto:mm.masoumian@gmail.com"
+  weight = 10
+
+[[footer]]
+  name = "Telegram"
+  url = "https://t.me/quantistan"
+  weight = 20
+
+[[footer]]
+  name = "Instagram"
+  url = "https://www.instagram.com/quantistan?igsh=N2ptZW8ydnl2enps"
+  weight = 30
+
+[[footer]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/quantistan-online-academy-96a19a41a"
+  weight = 40

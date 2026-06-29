@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quantistan on Quantistan</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in quantistan on Quantistan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
+    <lastBuildDate>Sat, 27 Jun 2026 17:26:21 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1-3- What Are Decision Support Systems?</title>
+      <link>http://localhost:1313/en/tutorials/level1-basic/3-difrent-algo-manula/</link>
+      <pubDate>Sat, 27 Jun 2026 17:26:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level1-basic/3-difrent-algo-manula/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>1-2- What is Quantitative Trading?</title>
+      <link>http://localhost:1313/en/tutorials/level1-basic/2-what-is-quant-trade/</link>
+      <pubDate>Sat, 27 Jun 2026 09:25:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level1-basic/2-what-is-quant-trade/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>1-1- What is Algorithmic Trading?</title>
+      <link>http://localhost:1313/en/tutorials/level1-basic/1-what-is-algo-trade/</link>
+      <pubDate>Sat, 27 Jun 2026 08:30:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level1-basic/1-what-is-algo-trade/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Risk-Aware Portfolio Management for Tehran Stock Exchange</title>
+      <link>http://localhost:1313/en/publications/risk-aware-portfolio-management-tehran-stock-exchange/</link>
+      <pubDate>Sat, 27 Jun 2026 07:37:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/publications/risk-aware-portfolio-management-tehran-stock-exchange/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>About Quantistan</title>
+      <link>http://localhost:1313/en/ourteam/quantistan/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/ourteam/quantistan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Count Heshmat</title>
+      <link>http://localhost:1313/en/ourteam/countheshmat/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/ourteam/countheshmat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quantistan site Guide</title>
+      <link>http://localhost:1313/en/ourteam/help/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/ourteam/help/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Collaboration</title>
+      <link>http://localhost:1313/en/ourteam/collaboration/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/ourteam/collaboration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mohammad Mahdi Masoumian</title>
+      <link>http://localhost:1313/en/ourteam/author/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/ourteam/author/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

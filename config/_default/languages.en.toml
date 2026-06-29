@@ -1,0 +1,18 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 2
+title = "Quantistan"
+
+[params]
+displayName = "English"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "logo.png"
+description = "Algorithmic Trading and Quantitative Finance online academy"
+copyright = "© 2026    Mohammad Mahdi Masoumian"
+
+[author]
+name = "Mohammad Mahdi Masoumian"
+email = "mm.masoumian@gmail.com"

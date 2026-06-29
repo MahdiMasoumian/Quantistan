@@ -1,0 +1,13 @@
+{{ define "main" }}
+  {{- with .Site.Params.homepage.layout | default "cards" -}}
+    {{- if eq . "profile" -}}
+      {{- partial "home/profile.html" $ -}}
+    {{- else if eq . "hero" -}}
+      {{- partial "home/hero.html" $ -}}
+    {{- else if eq . "background" -}}
+      {{- partial "home/background.html" $ -}}
+    {{- else if eq . "page" -}}
+      {{- partial "home/page.html" $ -}}
+    {{- end -}}
+  {{- end -}}
+{{ end }}

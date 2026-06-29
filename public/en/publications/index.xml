@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Quantistan</title>
+    <link>http://localhost:1313/en/publications/</link>
+    <description>Recent content in Publications on Quantistan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
+    <lastBuildDate>Sat, 27 Jun 2026 07:37:55 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Risk-Aware Portfolio Management for Tehran Stock Exchange</title>
+      <link>http://localhost:1313/en/publications/risk-aware-portfolio-management-tehran-stock-exchange/</link>
+      <pubDate>Sat, 27 Jun 2026 07:37:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/publications/risk-aware-portfolio-management-tehran-stock-exchange/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

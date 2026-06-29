@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>راهنما on کوانتستان</title>
+    <link>http://localhost:1313/fa/tags/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7/</link>
+    <description>Recent content in راهنما on کوانتستان</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <copyright>© 2026    محمد مهدی معصومیان</copyright>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fa/tags/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>راهنمای سایت کوانتستان</title>
+      <link>http://localhost:1313/fa/ourteam/help/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fa/ourteam/help/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

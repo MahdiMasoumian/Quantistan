@@ -1,0 +1,19 @@
+disabled = false
+locale = "fa"
+label = "فارسی"
+weight = 1
+title = "کوانتستان"
+
+[params]
+displayName = "فارسی"
+isoCode = "fa"
+rtl = true
+dateFormat = "2 January 2006"
+logo = "logo.png"
+description = "آکادمی آنلاین معاملات الگوریتمی و مالی کمی"
+copyright = "© 2026    محمد مهدی معصومیان"
+
+
+[author]
+name = "محمد مهدی معصومیان"
+email = "mm.masoumian@gmail.com"

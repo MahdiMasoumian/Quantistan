@@ -1,0 +1,62 @@
+<div class="carousel-container">
+  <div class="carousel-track">
+
+    {{/* 1. TUTORIALS */}}
+    {{ $tutorialsCount := 0 }}
+    {{ with .Site.GetPage "tutorials" }}
+      {{ $tutorialsCount = len .RegularPagesRecursive }}
+    {{ end }}
+    <a href="{{ "tutorials/" | relLangURL }}" class="showcase-card-link">
+      <div class="showcase-card" style="padding: 5px;">
+        <div class="card-banner-wrapper">
+          <img src="/images/showcase/tutorialsLight.png" alt="Tutorials" class="card-banner banner-light">
+          <img src="/images/showcase/tutorialsDark.png" alt="Tutorials" class="card-banner banner-dark">
+          <span class="card-count">{{ $tutorialsCount }}</span>
+        </div>
+        <div class="card-body" style="padding: 5px;">
+          <h3>{{ if eq .Lang "fa" }}محتوای آموزشی{{ else }}Tutorials{{ end }}</h3>
+          <p>{{ if eq .Lang "fa" }}آموزش معاملات الگوریتمی و مالی کمی{{ else }}Guide line algorithmic trading and quantitative finance.{{ end }}</p>
+        </div>
+      </div>
+    </a>
+
+    {{/* 2. PUBLICATIONS */}}
+    {{ $researchCount := 0 }}
+    {{ with .Site.GetPage "publications" }}
+      {{ $researchCount = len .RegularPagesRecursive }}
+    {{ end }}
+    <a href="{{ "publications/" | relLangURL }}" class="showcase-card-link">
+      <div class="showcase-card" style="padding: 5px;">
+        <div class="card-banner-wrapper">
+          <img src="/images/showcase/publicationsLight.png" alt="Publications" class="card-banner banner-light">
+          <img src="/images/showcase/publicationsDark.png" alt="Publications" class="card-banner banner-dark">
+          <span class="card-count">{{ $researchCount }}</span>
+        </div>
+        <div class="card-body" style="padding: 5px;">
+          <h3>{{ if eq .Lang "fa" }}مستندات پژوهشی{{ else }}Publications{{ end }}</h3>
+          <p>{{ if eq .Lang "fa" }}مقالات علمی، کتاب‌ها و پیش‌نویس‌ها{{ else }}Research articles, preprints and books.{{ end }}</p>
+        </div>
+      </div>
+    </a>
+
+    {{/* 3. PROJECTS */}}
+    {{ $projectsCount := 0 }}
+    {{ with .Site.GetPage "projects" }}
+      {{ $projectsCount = len .RegularPagesRecursive }}
+    {{ end }}
+    <a href="{{ "projects/" | relLangURL }}" class="showcase-card-link">
+      <div class="showcase-card" style="padding: 5px;">
+        <div class="card-banner-wrapper">
+          <img src="/images/showcase/projectsLight.png" alt="Projects" class="card-banner banner-light">
+          <img src="/images/showcase/projectsDark.png" alt="Projects" class="card-banner banner-dark">
+          <span class="card-count">{{ $projectsCount }}</span>
+        </div>
+        <div class="card-body" style="padding: 5px;">
+          <h3>{{ if eq .Lang "fa" }}پروژه‌ها{{ else }}Projects{{ end }}</h3>
+          <p>{{ if eq .Lang "fa" }}الگوریتم‌های پیاده‌سازی شده، ربات‌های تریدر و شبیه‌سازی‌ها{{ else }}Implemented algorithms, trading bots and simulations.{{ end }}</p>
+        </div>
+      </div>
+    </a>
+
+  </div><!-- .carousel-track -->
+</div><!-- .carousel-container -->

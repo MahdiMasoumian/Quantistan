@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantistan&#39;s Team Members on Quantistan</title>
+    <link>http://localhost:1313/en/ourteam/</link>
+    <description>Recent content in Quantistan&#39;s Team Members on Quantistan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/ourteam/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Quantistan</title>
+      <link>http://localhost:1313/en/ourteam/quantistan/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/ourteam/quantistan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Count Heshmat</title>
+      <link>http://localhost:1313/en/ourteam/countheshmat/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/ourteam/countheshmat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quantistan site Guide</title>
+      <link>http://localhost:1313/en/ourteam/help/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/ourteam/help/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Collaboration</title>
+      <link>http://localhost:1313/en/ourteam/collaboration/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/ourteam/collaboration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mohammad Mahdi Masoumian</title>
+      <link>http://localhost:1313/en/ourteam/author/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/ourteam/author/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
