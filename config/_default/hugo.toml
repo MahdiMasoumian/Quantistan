@@ -5,7 +5,8 @@
 theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://quantistan.com/"
 defaultContentLanguage = "fa"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
