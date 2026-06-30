@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/fa/tutorials/level1-basic/</loc>
+    <loc>http://localhost:1313/tutorials/level1-basic/</loc>
     <lastmod>2026-06-27T17:22:21+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -15,11 +15,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/tutorials/level1-basic/"
+      href="http://localhost:1313/tutorials/level1-basic/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/tutorials/level0-trade/</loc>
+    <loc>http://localhost:1313/tutorials/level0-trade/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -30,11 +30,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/tutorials/level0-trade/"
+      href="http://localhost:1313/tutorials/level0-trade/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/tutorials/level2/</loc>
+    <loc>http://localhost:1313/tutorials/level2/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -45,11 +45,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/tutorials/level2/"
+      href="http://localhost:1313/tutorials/level2/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/tutorials/level3/</loc>
+    <loc>http://localhost:1313/tutorials/level3/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -60,11 +60,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/tutorials/level3/"
+      href="http://localhost:1313/tutorials/level3/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/tutorials/level4/</loc>
+    <loc>http://localhost:1313/tutorials/level4/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -75,11 +75,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/tutorials/level4/"
+      href="http://localhost:1313/tutorials/level4/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/tutorials/level1-basic/3-difrent-algo-manula/</loc>
+    <loc>http://localhost:1313/tutorials/level1-basic/3-difrent-algo-manula/</loc>
     <lastmod>2026-06-27T17:22:21+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -91,11 +91,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/tutorials/level1-basic/3-difrent-algo-manula/"
+      href="http://localhost:1313/tutorials/level1-basic/3-difrent-algo-manula/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-27T17:22:21+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -107,11 +107,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/"
+      href="http://localhost:1313/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/tutorials/</loc>
+    <loc>http://localhost:1313/tutorials/</loc>
     <lastmod>2026-06-27T17:22:21+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -123,11 +123,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/tutorials/"
+      href="http://localhost:1313/tutorials/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/tutorials/level1-basic/2-what-is-quant-trade/</loc>
+    <loc>http://localhost:1313/tutorials/level1-basic/2-what-is-quant-trade/</loc>
     <lastmod>2026-06-27T09:25:19+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -139,11 +139,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/tutorials/level1-basic/2-what-is-quant-trade/"
+      href="http://localhost:1313/tutorials/level1-basic/2-what-is-quant-trade/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/tutorials/level1-basic/1-what-is-algo-trade/</loc>
+    <loc>http://localhost:1313/tutorials/level1-basic/1-what-is-algo-trade/</loc>
     <lastmod>2026-06-27T08:14:49+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -155,11 +155,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/tutorials/level1-basic/1-what-is-algo-trade/"
+      href="http://localhost:1313/tutorials/level1-basic/1-what-is-algo-trade/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/ourteam/</loc>
+    <loc>http://localhost:1313/ourteam/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -171,11 +171,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/ourteam/"
+      href="http://localhost:1313/ourteam/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/ourteam/quantistan/</loc>
+    <loc>http://localhost:1313/ourteam/quantistan/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -187,11 +187,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/ourteam/quantistan/"
+      href="http://localhost:1313/ourteam/quantistan/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/ourteam/help/</loc>
+    <loc>http://localhost:1313/ourteam/help/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -203,11 +203,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/ourteam/help/"
+      href="http://localhost:1313/ourteam/help/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/ourteam/countheshmat/</loc>
+    <loc>http://localhost:1313/ourteam/countheshmat/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -219,11 +219,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/ourteam/countheshmat/"
+      href="http://localhost:1313/ourteam/countheshmat/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/publications/20260626/</loc>
+    <loc>http://localhost:1313/publications/20260626/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -235,11 +235,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/publications/20260626/"
+      href="http://localhost:1313/publications/20260626/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -251,11 +251,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/publications/"
+      href="http://localhost:1313/publications/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/ourteam/collaboration/</loc>
+    <loc>http://localhost:1313/ourteam/collaboration/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -267,11 +267,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/ourteam/collaboration/"
+      href="http://localhost:1313/ourteam/collaboration/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/ourteam/author/</loc>
+    <loc>http://localhost:1313/ourteam/author/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -283,11 +283,11 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/ourteam/author/"
+      href="http://localhost:1313/ourteam/author/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/fa/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -298,7 +298,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/fa/projects/"
+      href="http://localhost:1313/projects/"
     />
   </url>
 </urlset>

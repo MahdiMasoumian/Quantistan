@@ -5,9 +5,7 @@ date: 2026-06-23
 layout: "simple"
 ---
 
-[Quantistan's team](/en/ourteam/), represented by [Mohammad Mahdi Masoumian](/en/ourteam/author/), is open to evaluating and executing research-oriented and technical projects in the fields of data analysis, systems modeling, and computational methods in financial markets.
-
-The core focus of activities is the design and implementation of data-driven systems for analysis, prediction, and decision-making in complex financial environments. These activities are conducted both in research settings and in applied project contexts, either on-site or remotely.
+[Mohammad Mahdi Masoumian](/fa/ourteam/author/) is available to undertake research and technical projects in areas related to data analysis, systems modeling, and the development of computational methods in financial markets. His work focuses on designing and implementing data‑driven systems for analysis, forecasting, and decision‑making within financial market environments. These activities can be defined in both research settings and applied projects, on‑site or remotely.
 
 ### Areas of collaboration:
 - Development of algorithmic trading systems and data-driven trading strategies

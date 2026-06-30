@@ -71,11 +71,6 @@ h2 { font-size: 1.75rem; }
 h3 { font-size: 1.45rem; }
 p, li { font-size: 1.2rem; }
 
-@media (max-width: 640px) {
-  html[lang="fa"] body { font-size: 1.05rem; }
-  html[lang="en"] body { font-size: 0.95rem; }
-}
-
 /* ==========================================================================
    3. HEADER MENU FONTS
    ========================================================================== */
@@ -88,10 +83,6 @@ html[lang="en"] .main-menu .text-base {
   font-family: "TimesNewRomanLocal", "Times New Roman", serif;
   font-size: 1.2rem;
   font-weight: 500;
-}
-@media (max-width: 767px) {
-  html[lang="fa"] .main-menu .text-base { font-size: 1.2rem; }
-  html[lang="en"] .main-menu .text-base { font-size: 0.95rem; }
 }
 
 /* ==========================================================================
@@ -337,27 +328,6 @@ footer p.text-xs {
 footer p.text-sm {
   font-size: 0.6rem !important;
   line-height: 1.4;
-}
-
-/* واکنش‌گرایی: بزرگ‌تر شدن متن‌های پایینی و کوچک‌تر شدن آیکن‌ها در صفحات کوچک */
-@media (max-width: 768px) {
-  footer p.text-xs {
-    font-size: 0.7rem !important;
-  }
-  footer p.text-sm {
-    font-size: 0.7rem !important;
-  }
-
-  footer nav ul li:not(:first-child) a {
-    width: 24px;
-    height: 24px;
-  }
-  html[lang="en"] footer nav ul li:not(:first-child) {
-    margin-left: 0.9rem;
-  }
-  html[lang="fa"] footer nav ul li:not(:first-child) {
-    margin-right: 0.9rem;
-  }
 }
 
 article footer.pt-8 {
@@ -751,31 +721,6 @@ html[lang="fa"] .homepage-cta-container { direction: rtl; }
   padding-inline-start: 1.5rem;
 }
 
-/* موبایل */
-@media (max-width: 640px) {
-  .author-header {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    gap: 1rem;
-  }
-
-  .author-header.rtl,
-  .author-header.ltr {
-    text-align: center;
-  }
-
-  .author-photo {
-    width: 150px;
-    height: 150px;
-  }
-
-  .author-summary ul {
-    padding-inline-start: 0;
-    list-style-position: inside;
-  }
-}
-
 /* ==========================================================================
    18. BACK BUTTON & LEVEL CARDS
    ========================================================================== */
@@ -844,55 +789,178 @@ html[lang="fa"] .homepage-cta-container { direction: rtl; }
 }
 
 /* ==========================================================================
-   20. RESPONSIVE (max-width: 768px)
+   RESPONSIVE STYLES (consolidated & scaled –20%)
    ========================================================================== */
-@media (max-width: 768px) {
-  h1 { font-size: 1.8rem; }
-  h2 { font-size: 1.5rem; }
-  h3 { font-size: 1.25rem; }
 
+/* ----- Very small screens (max‑width: 640px) ----- */
+@media (max-width: 640px) {
+  /* Base typography – reduced by 20% */
+  html[lang="fa"] body {
+    font-size: 0.84rem;   /* 1.05 * 0.8 */
+  }
+  html[lang="en"] body {
+    font-size: 0.76rem;   /* 0.95 * 0.8 */
+  }
+
+  /* Author header */
+  .author-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 0.8rem;          /* 1rem * 0.8 */
+  }
+  .author-header.rtl,
+  .author-header.ltr {
+    text-align: center;
+  }
+  .author-photo {
+    width: 120px;          /* 150 * 0.8 */
+    height: 120px;
+  }
+  .author-summary {
+    font-size: 1rem;       /* 1.25 * 0.8 */
+    line-height: 1.6;      /* 2 * 0.8 */
+  }
+  .author-summary ul {
+    padding-inline-start: 0;
+    list-style-position: inside;
+  }
+}
+
+/* ----- All mobile & tablet (max‑width: 768px) – values reduced by 20% ----- */
+@media (max-width: 768px) {
+  /* Headings */
+  h1 { font-size: 1.44rem; }   /* 1.8 * 0.8 */
+  h2 { font-size: 1.2rem; }    /* 1.5 * 0.8 */
+  h3 { font-size: 1rem; }      /* 1.25 * 0.8 */
+
+  /* Glass capsule headings */
   #main-content > header > h1,
   #main-content > div.showcase-wrapper > h2,
   #main-content > section > h2,
   #main-content > div.homepage-flex-wrapper > div > h2,
   #main-content > div.homepage-flex-wrapper > section > h2 {
-    padding: 0.5rem 1.5rem;
+    padding: 0.4rem 1.2rem;   /* 0.5 * 0.8, 1.5 * 0.8 */
   }
 
-  .showcase-card { min-width: 150px; width: 200px; height: auto; }
-  .card-count { bottom: -140px; font-size: 1rem; }
-  html[lang="fa"] .card-count, html[dir="rtl"] .card-count { left: 80px; }
-  html[lang="en"] .card-count { right: 80px; }
-  .showcase-card .card-body h3, .showcase-card .card-body p { font-size: 0.9rem; }
+  /* Showcase cards */
+  .showcase-card {
+    min-width: 120px;         /* 150 * 0.8 */
+    width: 160px;             /* 200 * 0.8 */
+    height: auto;
+  }
+  .card-count {
+    bottom: -112px;           /* -140 * 0.8 */
+    font-size: 0.8rem;        /* 1 * 0.8 */
+  }
+  html[lang="fa"] .card-count,
+  html[dir="rtl"] .card-count {
+    left: 64px;               /* 80 * 0.8 */
+  }
+  html[lang="en"] .card-count {
+    right: 64px;
+  }
+  .showcase-card .card-body h3,
+  .showcase-card .card-body p {
+    font-size: 0.72rem;       /* 0.9 * 0.8 */
+  }
 
-  .banner-wrapper { margin-top: -100px; margin-bottom: 10px; align-items: flex-start; }
-  .banner-img { max-width: 100%; border-radius: 8px; }
+  /* Banner */
+  .banner-wrapper {
+    margin-top: -80px;        /* -100 * 0.8 */
+    margin-bottom: 8px;       /* 10 * 0.8 */
+    align-items: flex-start;
+  }
+  .banner-img {
+    max-width: 100%;
+    border-radius: 6px;       /* 8 * 0.8 ≈ 6.4, rounded down */
+  }
 
+  /* Recent articles spacing */
   #main-content section.space-y-10 {
-    margin-top: calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));
-    margin-bottom: calc(0.5rem * var(--tw-space-y-reverse));
+    margin-top: calc(0.4rem * calc(1 - var(--tw-space-y-reverse)));   /* 0.5 * 0.8 */
+    margin-bottom: calc(0.4rem * var(--tw-space-y-reverse));
   }
-  #main-content section.space-y-10 > article { margin-top: -5px !important; }
+  #main-content section.space-y-10 > article {
+    margin-top: -4px !important;   /* -5 * 0.8 */
+  }
+
   #main-content > section > section > article,
   #main-content > div.homepage-flex-wrapper > section > section > article {
-    border-radius: 12px;
+    border-radius: 10px;          /* 12 * 0.8 = 9.6, rounded */
   }
   #main-content > section > section > article div.p-4 > header > a,
   #main-content > div.homepage-flex-wrapper > section > section > article div.p-4 > header > a {
-    font-size: 1rem;
+    font-size: 0.8rem;            /* 1 * 0.8 */
   }
   html[lang="fa"] #main-content > div.homepage-flex-wrapper > section > section > article div.p-4 > header > a * {
-    font-size: 1.2rem;
+    font-size: 0.96rem;           /* 1.2 * 0.8 */
   }
 
+  /* "Read More" button */
   .recent-articles-section a[href*="tutorials"] span,
   .recent-articles-section a[href*="tutorials"] button,
   .recent-articles-section a[href*="tutorials"] div {
-    padding: 0.5rem 1.4rem; font-size: 0.95rem;
+    padding: 0.4rem 1.12rem;      /* 0.5 * 0.8, 1.4 * 0.8 */
+    font-size: 0.76rem;           /* 0.95 * 0.8 */
   }
 
-  .homepage-cta-container { flex-direction: column; align-items: center; gap: 15px; }
-  .cta-btn { padding: 12px 24px; font-size: 1rem; width: 100%; text-align: center; }
+  /* CTA buttons */
+  .homepage-cta-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;                    /* 15 * 0.8 */
+  }
+  .cta-btn {
+    padding: 10px 20px;           /* 12 * 0.8 = 9.6→10, 24 * 0.8 = 19.2→20 */
+    font-size: 0.8rem;            /* 1 * 0.8 */
+    width: 100%;
+    text-align: center;
+  }
 
-  .glass-box { padding: 1.5rem; margin: 1rem 0 2rem; }
+  /* Glass boxes */
+  .glass-box {
+    padding: 1.2rem;              /* 1.5 * 0.8 */
+    margin: 0.8rem 0 1.6rem;      /* 1 * 0.8, 2 * 0.8 */
+  }
+
+  /* Footer */
+  footer p.text-xs {
+    font-size: 0.56rem !important; /* 0.7 * 0.8 */
+    line-height: 1.4;
+  }
+  footer p.text-sm {
+    font-size: 0.56rem !important;
+    line-height: 1.4;
+  }
+
+  footer nav ul li:not(:first-child) a {
+    width: 19px;                  /* 24 * 0.8 */
+    height: 19px;
+  }
+  html[lang="en"] footer nav ul li:not(:first-child) {
+    margin-left: 0.72rem;         /* 0.9 * 0.8 */
+  }
+  html[lang="fa"] footer nav ul li:not(:first-child) {
+    margin-right: 0.72rem;
+  }
+
+  /* Header menu (merged from 767px) */
+  html[lang="fa"] .main-menu .text-base {
+    font-size: 0.96rem;           /* 1.2 * 0.8 */
+  }
+  html[lang="en"] .main-menu .text-base {
+    font-size: 0.76rem;           /* 0.95 * 0.8 */
+  }
+}
+
+/* تنظیم اندازهٔ لوگو – هر چه کوچک‌تر خواستید تغییر دهید */
+.logo {
+  width: 48px !important;          /* ← مقدار دلخواه (پیشنهادی 36px تا 60px) */
+  height: 48px !important;
+  max-width: none !important;      /* خنثی‌سازی محدودیت max-w-20 */
+  max-height: none !important;
+  border-radius: 50%;              /* تضمین نمایش دایره‌ای */
+  object-fit: scale-down;          /* حفظ تناسب بدون برش */
+  object-position: center;         /* وسط‌چین تصویر داخل کادر دایره */
 }

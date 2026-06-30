@@ -26,6 +26,8 @@ keywords:
 
 **ناشر/تاریخ انتشار:** SSRN | 2026-06-02
 
+[**دانلود فایل مقاله**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6885240)
+
 **چکیده**
 
 
@@ -37,6 +39,4 @@ keywords:
 
 > Masoumian, Mohammad Mahdi, A Risk-Aware Rule-Based Portfolio Management Framework for the Tehran Stock Exchange Using Genetic Algorithm Optimization (June 02, 2026). Available at SSRN: https://ssrn.com/abstract=6885240
 
-
-### [دانلود فایل PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6885240)
 

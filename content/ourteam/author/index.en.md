@@ -11,7 +11,7 @@ layout: "simple"
 
   <div class="author-summary">
     <ul>
-      <p>* Quantitative Finance, Algorithmic Trading, and Machine Learning Specialist</p>
+      <p>* Quantitative Finance, Algorithmic Trading, and Machine Learning Researcher</p>
       <p>* M.Sc. in Systems Modeling and Data Analytics</p>
       <p>* National Scientific Olympiad Award Recipient in Industrial Engineering</p>
     </ul>
