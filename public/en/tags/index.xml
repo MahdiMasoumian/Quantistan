@@ -7,14 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 17:26:21 +0000</lastBuildDate><atom:link href="http://localhost:63530/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2026 23:20:43 +0000</lastBuildDate><atom:link href="http://localhost:63530/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Algorithmic Trading</title>
       <link>http://localhost:63530/en/tags/algorithmic-trading/</link>
-      <pubDate>Sat, 27 Jun 2026 17:26:21 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
       
       <guid>http://localhost:63530/en/tags/algorithmic-trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data-Driven Strategies</title>
+      <link>http://localhost:63530/en/tags/data-driven-strategies/</link>
+      <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
+      
+      <guid>http://localhost:63530/en/tags/data-driven-strategies/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Financial Modeling</title>
+      <link>http://localhost:63530/en/tags/financial-modeling/</link>
+      <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
+      
+      <guid>http://localhost:63530/en/tags/financial-modeling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Market Analysis</title>
+      <link>http://localhost:63530/en/tags/market-analysis/</link>
+      <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
+      
+      <guid>http://localhost:63530/en/tags/market-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading Indicators</title>
+      <link>http://localhost:63530/en/tags/trading-indicators/</link>
+      <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
+      
+      <guid>http://localhost:63530/en/tags/trading-indicators/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:63530/en/tags/machine-learning/</link>
+      <pubDate>Tue, 30 Jun 2026 22:08:04 +0000</pubDate>
+      
+      <guid>http://localhost:63530/en/tags/machine-learning/</guid>
       <description></description>
       
     </item>
@@ -70,16 +120,6 @@
     </item>
     
     <item>
-      <title>Market Analysis</title>
-      <link>http://localhost:63530/en/tags/market-analysis/</link>
-      <pubDate>Sat, 27 Jun 2026 17:26:21 +0000</pubDate>
-      
-      <guid>http://localhost:63530/en/tags/market-analysis/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Productivity</title>
       <link>http://localhost:63530/en/tags/productivity/</link>
       <pubDate>Sat, 27 Jun 2026 17:26:21 +0000</pubDate>
@@ -110,41 +150,11 @@
     </item>
     
     <item>
-      <title>Data-Driven Strategies</title>
-      <link>http://localhost:63530/en/tags/data-driven-strategies/</link>
-      <pubDate>Sat, 27 Jun 2026 09:25:15 +0000</pubDate>
-      
-      <guid>http://localhost:63530/en/tags/data-driven-strategies/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Evidence-Based Decision-Making</title>
       <link>http://localhost:63530/en/tags/evidence-based-decision-making/</link>
       <pubDate>Sat, 27 Jun 2026 09:25:15 +0000</pubDate>
       
       <guid>http://localhost:63530/en/tags/evidence-based-decision-making/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Financial Modeling</title>
-      <link>http://localhost:63530/en/tags/financial-modeling/</link>
-      <pubDate>Sat, 27 Jun 2026 09:25:15 +0000</pubDate>
-      
-      <guid>http://localhost:63530/en/tags/financial-modeling/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>http://localhost:63530/en/tags/machine-learning/</link>
-      <pubDate>Sat, 27 Jun 2026 09:25:15 +0000</pubDate>
-      
-      <guid>http://localhost:63530/en/tags/machine-learning/</guid>
       <description></description>
       
     </item>
