@@ -5,8 +5,7 @@ layout: "list"
 showTableOfContents: false
 cascade:
   showTableOfContents: true
-  layout: "single"
+  layout: "simple"
   params:
     searchable: true
-    navigation: false              # ← صفحه‌های داخلی Previous/Next نداشته باشند
 ---

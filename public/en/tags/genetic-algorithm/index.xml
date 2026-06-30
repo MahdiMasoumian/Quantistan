@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genetic Algorithm on Quantistan</title>
-    <link>http://localhost:1313/en/tags/genetic-algorithm/</link>
+    <link>http://localhost:63530/en/tags/genetic-algorithm/</link>
     <description>Recent content in Genetic Algorithm on Quantistan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 07:37:55 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/genetic-algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jun 2026 07:37:55 +0000</lastBuildDate><atom:link href="http://localhost:63530/en/tags/genetic-algorithm/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Risk-Aware Portfolio Management for Tehran Stock Exchange</title>
-      <link>http://localhost:1313/en/publications/risk-aware-portfolio-management-tehran-stock-exchange/</link>
+      <link>http://localhost:63530/en/publications/risk-aware-portfolio-management-tehran-stock-exchange/</link>
       <pubDate>Sat, 27 Jun 2026 07:37:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/publications/risk-aware-portfolio-management-tehran-stock-exchange/</guid>
+      <guid>http://localhost:63530/en/publications/risk-aware-portfolio-management-tehran-stock-exchange/</guid>
       <description></description>
       
     </item>

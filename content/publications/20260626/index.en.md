@@ -9,7 +9,7 @@ tags:
   - Tehran Stock Exchange
   - Risk Management
 params:
-  citation: "[10.1234/example](https://ssrn.com/abstract=6885240)"
+  citation: "https://ssrn.com/abstract=6885240"
 keywords:
   - Genetic Algorithm
   - Portfolio Management
@@ -23,7 +23,7 @@ categories:
 <br>
 full title:
 
-**A Risk-Aware Rule-Based Portfolio Management Framework for the Tehran Stock Exchange Using Genetic Algorithm Optimization**
+## **A Risk-Aware Rule-Based Portfolio Management Framework for the Tehran Stock Exchange Using Genetic Algorithm Optimization**
 
 **Author:** Mohammad Mahdi Masoumian, M.Sc in  Industrial Engineering K. N. Toosi University of Technology
 

@@ -9,7 +9,7 @@ tags:
   - بورس اوراق بهادار تهران
   - مدیریت ریسک
 params:
-  citation: "[10.1234/example](https://ssrn.com/abstract=6885240)"
+  citation: "https://ssrn.com/abstract=6885240"
 categories:
   - بورس تهران
   - دسترسی آزاد

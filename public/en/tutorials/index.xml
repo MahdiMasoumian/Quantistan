@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on Quantistan</title>
-    <link>http://localhost:1313/en/tutorials/</link>
+    <link>http://localhost:63530/en/tutorials/</link>
     <description>Recent content in Tutorials on Quantistan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/en/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:63530/en/tutorials/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

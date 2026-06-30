@@ -8,12 +8,7 @@ tags:
   - data-driven strategies
   - evidence-based decision-making
   - financial modeling
-  - investment decisions
   - machine learning
-  - market analysis
-  - Quantitative trading
-  - statistical methods
-  - trading strategies
 params:
   likes: 1
   views: 1

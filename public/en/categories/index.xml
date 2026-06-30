@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Quantistan</title>
-    <link>http://localhost:1313/en/categories/</link>
+    <link>http://localhost:63530/en/categories/</link>
     <description>Recent content in Categories on Quantistan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 17:26:21 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Basic Concepts</title>
-      <link>http://localhost:1313/en/categories/basic-concepts/</link>
-      <pubDate>Sat, 27 Jun 2026 17:26:21 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/categories/basic-concepts/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 22:08:04 +0000</lastBuildDate><atom:link href="http://localhost:63530/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Open Access</title>
-      <link>http://localhost:1313/en/categories/open-access/</link>
-      <pubDate>Sat, 27 Jun 2026 07:37:55 +0000</pubDate>
+      <link>http://localhost:63530/en/categories/open-access/</link>
+      <pubDate>Tue, 30 Jun 2026 22:08:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/categories/open-access/</guid>
+      <guid>http://localhost:63530/en/categories/open-access/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Preprint</title>
-      <link>http://localhost:1313/en/categories/preprint/</link>
-      <pubDate>Sat, 27 Jun 2026 07:37:55 +0000</pubDate>
+      <link>http://localhost:63530/en/categories/preprint/</link>
+      <pubDate>Tue, 30 Jun 2026 22:08:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/categories/preprint/</guid>
+      <guid>http://localhost:63530/en/categories/preprint/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tehran Stock</title>
-      <link>http://localhost:1313/en/categories/tehran-stock/</link>
-      <pubDate>Sat, 27 Jun 2026 07:37:55 +0000</pubDate>
+      <link>http://localhost:63530/en/categories/tehran-stock/</link>
+      <pubDate>Tue, 30 Jun 2026 22:08:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/categories/tehran-stock/</guid>
+      <guid>http://localhost:63530/en/categories/tehran-stock/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Basic Concepts</title>
+      <link>http://localhost:63530/en/categories/basic-concepts/</link>
+      <pubDate>Sat, 27 Jun 2026 17:26:21 +0000</pubDate>
+      
+      <guid>http://localhost:63530/en/categories/basic-concepts/</guid>
       <description></description>
       
     </item>
