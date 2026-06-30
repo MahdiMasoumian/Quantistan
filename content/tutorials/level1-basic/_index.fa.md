@@ -3,7 +3,7 @@ title: "سطح 1: مفاهیم پایه"
 description: "راهنما ها و مستندات آموزشی"
 layout: "list"                       # قالب لیست برای نمایش فهرست محتواها
 oldestFirst: true
-weight: 1
+weight: 2
 showTableOfContents: false
 cascade:
   showTableOfContents: true          # ارث‌بری به صفحات داخلی: فعال کردن فهرست مطالب

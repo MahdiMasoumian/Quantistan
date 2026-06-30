@@ -3,7 +3,7 @@ title: "سطح 2"
 description: "راهنما ها و مستندات آموزشی"
 layout: "list"                       # قالب لیست برای نمایش فهرست محتواها
 oldestFirst: true
-weight: 2
+weight: 3
 showTableOfContents: false
 cascade:
   showTableOfContents: true          # ارث‌بری به صفحات داخلی: فعال کردن فهرست مطالب

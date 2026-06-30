@@ -3,11 +3,11 @@ title: "About Quantistan"
 description: "An independent project focused on education, research, and practical development in algorithmic trading and quantitative finance"
 date: 2026-06-26
 layout: "simple"
-tags: ["algorithmic trading", "quantitative finance", "machine learning", "education", "research", "development", "Quantistan"]
+tags: ["Quantistan", 'algorithmic trading', 'quantitative finance']
 ---
 <div class="author-header ltr">
 
-  <img src="logo.png" alt="Quantistan" class="author-photo">
+  <img src="/images/team/logo.png" alt="Quantistan" class="author-photo">
 
   <div class="author-summary">
     <ul>

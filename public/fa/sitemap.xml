@@ -20,6 +20,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/tutorials/level0-trade/</loc>
+    <lastmod>2026-06-27T08:14:49+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -61,21 +62,6 @@
       rel="alternate"
       hreflang="fa"
       href="http://localhost:1313/tutorials/level3/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tutorials/level4/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/tutorials/level4/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fa"
-      href="http://localhost:1313/tutorials/level4/"
     />
   </url>
   <url>
@@ -140,6 +126,22 @@
       rel="alternate"
       hreflang="fa"
       href="http://localhost:1313/tutorials/level1-basic/2-what-is-quant-trade/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tutorials/level0-trade/1-what-is-trade/</loc>
+    <lastmod>2026-06-27T08:14:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tutorials/level0-trade/1-what-is-trade/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/tutorials/level0-trade/1-what-is-trade/"
     />
   </url>
   <url>

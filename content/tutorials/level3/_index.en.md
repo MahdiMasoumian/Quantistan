@@ -3,7 +3,7 @@ title: "Level 3"
 description: "Educational guides and documentation"
 layout: "list"                       # قالب لیست برای نمایش فهرست محتواها
 oldestFirst: true
-weight: 3
+weight: 4
 showTableOfContents: false
 cascade:
   showTableOfContents: true          # ارث‌بری به صفحات داخلی: فعال کردن فهرست مطالب

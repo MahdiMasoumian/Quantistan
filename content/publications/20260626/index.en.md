@@ -20,9 +20,12 @@ categories:
   - Tehran Stock
   - open access
 ---
+<br>
+full title:
+
 **A Risk-Aware Rule-Based Portfolio Management Framework for the Tehran Stock Exchange Using Genetic Algorithm Optimization**
 
-**Author:** Mohammad Mahdi Masoumian, K. N. Toosi University of Technology
+**Author:** Mohammad Mahdi Masoumian, M.Sc in  Industrial Engineering K. N. Toosi University of Technology
 
 **Publisher/Release date:** SSRN | 2026-06-02
 
