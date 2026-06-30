@@ -210,16 +210,6 @@
     </item>
     
     <item>
-      <title>راهنما</title>
-      <link>http://localhost:1313/tags/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7/</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>کوانتستان</title>
       <link>http://localhost:1313/tags/%DA%A9%D9%88%D8%A7%D9%86%D8%AA%D8%B3%D8%AA%D8%A7%D9%86/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
@@ -260,9 +250,19 @@
     </item>
     
     <item>
+      <title>راهنما</title>
+      <link>http://localhost:1313/tags/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>نقشه سایت</title>
       <link>http://localhost:1313/tags/%D9%86%D9%82%D8%B4%D9%87-%D8%B3%D8%A7%DB%8C%D8%AA/</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/%D9%86%D9%82%D8%B4%D9%87-%D8%B3%D8%A7%DB%8C%D8%AA/</guid>
       <description></description>

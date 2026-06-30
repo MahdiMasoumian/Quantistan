@@ -54,3 +54,6 @@ Quantistan was founded on the belief that knowledge becomes more valuable when i
 Its mission is to freely share knowledge and, whenever possible, contribute to the creation of new knowledge in this field. This journey begins with educational content, continues through research and the development of trading algorithms, and extends to sharing practical experience, software tools, and research outcomes with the broader community.
 
 The long-term goal of Quantistan is to become a trusted resource for learning, research, development, and collaboration in algorithmic trading and quantitative finance, while contributing, even in a small way, to the growth of this field and its community.
+
+
+online since 29 june 2026

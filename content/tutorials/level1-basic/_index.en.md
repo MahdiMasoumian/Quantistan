@@ -1,5 +1,5 @@
 ---
-title: "Level 1: basic consepts"
+title: "Level 1: Introduction to algo trading"
 description: "Educational guides and documentation"
 layout: "list"                       # قالب لیست برای نمایش فهرست محتواها
 oldestFirst: true

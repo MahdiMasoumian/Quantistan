@@ -725,15 +725,28 @@ html[lang="fa"] .homepage-cta-container { direction: rtl; }
    18. BACK BUTTON & LEVEL CARDS
    ========================================================================== */
 .back-button {
-  display: inline-block;
+  display: block;
+  width: fit-content;
   padding: 0.6rem 1.2rem;
   border-radius: 12px;
   text-decoration: none !important;
   color: #111;
   transition: color 0.25s, background 0.25s, border-color 0.25s, transform 0.25s;
 }
+
+/* موقعیت در انگلیسی: چپ */
+html[lang="en"] .back-button {
+  margin-right: auto;
+}
+
+/* موقعیت در فارسی: راست */
+html[lang="fa"] .back-button {
+  margin-left: auto;
+}
+
 .dark .back-button { color: #fff; }
 .light .back-button { color: #111; }
+
 .back-button:hover {
   color: var(--accent-hover) !important;
   transform: translateY(-5px);

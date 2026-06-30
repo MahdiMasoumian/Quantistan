@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>سطح 1: مفاهیم پایه on کوانتستان</title>
+    <title>سطح 1: مقدمه معاملات الگوریتمی on کوانتستان</title>
     <link>http://localhost:1313/tutorials/level1-basic/</link>
-    <description>Recent content in سطح 1: مفاهیم پایه on کوانتستان</description>
+    <description>Recent content in سطح 1: مقدمه معاملات الگوریتمی on کوانتستان</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <copyright>© 2026    محمد مهدی معصومیان</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>3-1- سیستم های پشتیبان تصمیم گیری چی هستند؟</title>
-      <link>http://localhost:1313/tutorials/level1-basic/3-difrent-algo-manula/</link>
+      <link>http://localhost:1313/tutorials/level1-basic/3-what-is-dss/</link>
       <pubDate>Sat, 27 Jun 2026 17:22:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/tutorials/level1-basic/3-difrent-algo-manula/</guid>
+      <guid>http://localhost:1313/tutorials/level1-basic/3-what-is-dss/</guid>
       <description></description>
       
     </item>

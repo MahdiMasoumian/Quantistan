@@ -3,7 +3,8 @@ title: "Quantistan site Guide"
 description: "A map of Quantistan's main sections – quick access to education, research, projects, team, and collaboration"
 date: 2026-06-26
 layout: "simple"
-tags: ["guide", "sitemap", "Quantistan"]
+tags:
+  - Quantistan
 ---
 
 ### [Quantistan](../ourteam/quantistan/)

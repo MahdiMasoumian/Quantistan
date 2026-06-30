@@ -7,7 +7,7 @@ layout: "simple"
 
 <div class="author-header ltr">
 
-  <img src="profile.png" alt="Mohammad Mahdi Masoumian" class="author-photo">
+  <img src="\images\team\mahdi.png" alt="Mohammad Mahdi Masoumian" class="author-photo">
 
   <div class="author-summary">
     <ul>
@@ -21,9 +21,9 @@ layout: "simple"
 
 ## About
 
-Mohammad Mahdi Masoumian is a researcher in [Quantitative Finance](/en/tutorials/level1-basic/2-what-is-quant-fin) and Machine Learning with an academic background in Industrial Engineering, specializing in Systems Modeling and Data Analytics. His work focuses on the design and development of [Algorithmic Trading](/en/tutorials/level1-basic/1-what-is-algo-trade/) systems, data-driven forecasting models for financial markets, and the application of artificial intelligence techniques to financial data analysis.
+Mohammad Mahdi Masoumian is a researcher in [Quantitative Finance](/tutorials/level1-basic/2-what-is-quant-trade/) and Machine Learning with an academic background in Industrial Engineering, specializing in Systems Modeling and Data Analytics. His work focuses on the design and development of [Algorithmic Trading](/tutorials/level1-basic/1-what-is-algo-trade/) systems, data-driven forecasting models for financial markets, and the application of artificial intelligence techniques to financial data analysis.
 
-His research interests include the development of data-driven [Decision Support Systems](/en/tutorials/level1-basic/3-what-is-dss/), trading algorithm design, and the evaluation of intelligent systems in dynamic financial environments. His master's research was dedicated to the practical application of data-driven forecasting models in financial markets.
+His research interests include the development of data-driven [Decision Support Systems](/tutorials/level1-basic/3-what-is-dss/), trading algorithm design, and the evaluation of intelligent systems in dynamic financial environments. His master's research was dedicated to the practical application of data-driven forecasting models in financial markets.
 
 ---
 

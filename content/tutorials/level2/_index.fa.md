@@ -1,5 +1,5 @@
 ---
-title: "سطح 2"
+title: "سطح 2: به زودی..."
 description: "راهنما ها و مستندات آموزشی"
 layout: "list"                       # قالب لیست برای نمایش فهرست محتواها
 oldestFirst: true
@@ -12,4 +12,4 @@ cascade:
     searchable: true                 # اجازه جستجو در محتوای این بخش
 ---
 
-<a class="back-button" href="/fa/tutorials/">← بازگشت به فهرست سطوح</a>
+<a class="back-button" href="/tutorials/">← بازگشت به فهرست سطوح</a>

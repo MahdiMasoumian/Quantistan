@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Level 1: basic consepts on Quantistan</title>
+    <title>Level 1: Introduction to algo trading on Quantistan</title>
     <link>http://localhost:1313/en/tutorials/level1-basic/</link>
-    <description>Recent content in Level 1: basic consepts on Quantistan</description>
+    <description>Recent content in Level 1: Introduction to algo trading on Quantistan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
@@ -11,16 +11,16 @@
     
     <item>
       <title>1-3- What Are Decision Support Systems?</title>
-      <link>http://localhost:1313/en/tutorials/level1-basic/3-difrent-algo-manula/</link>
+      <link>http://localhost:1313/en/tutorials/level1-basic/3-what-is-dss/</link>
       <pubDate>Sat, 27 Jun 2026 17:26:21 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/tutorials/level1-basic/3-difrent-algo-manula/</guid>
+      <guid>http://localhost:1313/en/tutorials/level1-basic/3-what-is-dss/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>1-2- What is Quantitative Trading?</title>
+      <title>1-2- What is Quantitative Finance?</title>
       <link>http://localhost:1313/en/tutorials/level1-basic/2-what-is-quant-trade/</link>
       <pubDate>Sat, 27 Jun 2026 09:25:15 +0000</pubDate>
       

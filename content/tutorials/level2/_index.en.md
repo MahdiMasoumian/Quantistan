@@ -1,5 +1,5 @@
 ---
-title: "Level 2"
+title: "Level 2: coming soon..."
 description: "Educational guides and documentation"
 layout: "list"                       # قالب لیست برای نمایش فهرست محتواها
 oldestFirst: true

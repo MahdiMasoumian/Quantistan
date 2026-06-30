@@ -6,17 +6,17 @@ layout: "simple"
 ---
 
 <div class="author-header ltr">
-  <img src="count_heshmat.jpg" alt="Count Heshmat" class="author-photo">
+  <img src="/images/team/heshmat.png/" alt="Count Heshmat" class="author-photo">
   <div class="author-summary">
     <ul>
-      <li>Quantistan’s proprietary algorithmic trading engine</li>
-      <li>Powered by machine learning & genetic algorithms</li>
-      <li>Fully automated trade execution</li>
+      <p>* Quantistan’s proprietary trading algorithm</p>
+      <p>* Powered by genetic algorithms & machine learning </p>
+      <p>* Fully automated trade execution</p>
     </ul>
   </div>
 </div>
 
-**Count Heshmat** is the proprietary algorithmic trading engine of the Quantistan team, designed to operate as a fully autonomous trading system in financial markets. The project was initiated from Mahdi Masoumian's M.Sc. thesis and continues to be one of Quantistan’s core R&D initiatives.
+**Count Heshmat** is the proprietary algorithmic trading engine of the Quantistan, designed to operate as a fully autonomous trading system in financial markets. The project was initiated from Mahdi Masoumian's M.Sc. thesis and continues to be one of Quantistan’s core R&D initiatives.
 
 The system's core relies on machine learning models for price prediction, with outputs filtered through genetically optimized trading rules to generate final signals. All decision‑making and trade execution are performed entirely automatically.
 
