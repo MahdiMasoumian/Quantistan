@@ -27,7 +27,7 @@ full title:
 
 **Author:** Mohammad Mahdi Masoumian, M.Sc in  Industrial Engineering K. N. Toosi University of Technology
 
-**Publisher/Release date:** SSRN | 2026-06-02
+**Publisher/Release date:** Annual National Conference on Management, Commercialization, Knowledge-Based Economy and Investment for Production | 2026
 
 [**Dwonload PDF**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6885240)
 

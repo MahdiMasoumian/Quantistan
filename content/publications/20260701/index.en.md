@@ -28,7 +28,7 @@ full title:
 
 **Author:** Mohammad Mahdi Masoumian, M.Sc in  Industrial Engineering K. N. Toosi University of Technology
 
-**Publisher/Release date:** ZENDO | 2026-07-01
+**Publisher/Release date:** 4th International Conference on Management, Economics, Entrepreneurship and Industrial Engineering | 2026
 
 [**Dwonload PDF**](https://zenodo.org/records/21085119)
 
