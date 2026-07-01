@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Level 0: Fundamental in Trade on Quantistan</title>
-    <link>http://localhost:63530/en/tutorials/level0-trade/</link>
+    <link>http://localhost:1313/en/tutorials/level0-trade/</link>
     <description>Recent content in Level 0: Fundamental in Trade on Quantistan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 08:30:44 +0000</lastBuildDate><atom:link href="http://localhost:63530/en/tutorials/level0-trade/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 00:02:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tutorials/level0-trade/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>1-1- What is Algorithmic Trading?</title>
-      <link>http://localhost:63530/en/tutorials/level0-trade/1-what-is-trade/</link>
-      <pubDate>Sat, 27 Jun 2026 08:30:44 +0000</pubDate>
+      <title>1-0- What is Trade?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/1-what-is-trade/</link>
+      <pubDate>Wed, 01 Jul 2026 00:02:57 +0000</pubDate>
       
-      <guid>http://localhost:63530/en/tutorials/level0-trade/1-what-is-trade/</guid>
+      <guid>http://localhost:1313/en/tutorials/level0-trade/1-what-is-trade/</guid>
       <description></description>
       
     </item>
