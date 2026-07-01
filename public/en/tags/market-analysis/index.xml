@@ -2,39 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Market Analysis on Quantistan</title>
-    <link>http://localhost:63530/en/tags/market-analysis/</link>
+    <link>http://localhost:1313/en/tags/market-analysis/</link>
     <description>Recent content in Market Analysis on Quantistan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 17:26:21 +0000</lastBuildDate><atom:link href="http://localhost:63530/en/tags/market-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2026 23:20:43 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/market-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Indicator for Measuring Tick Volume Delta </title>
+      <link>http://localhost:1313/en/projects/risk-aware-portfolio-management-tehran-stock-exchange/</link>
+      <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/projects/risk-aware-portfolio-management-tehran-stock-exchange/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>1-3- What Are Decision Support Systems?</title>
-      <link>http://localhost:63530/en/tutorials/level1-basic/3-what-is-dss/</link>
+      <link>http://localhost:1313/en/tutorials/level1-basic/3-what-is-dss/</link>
       <pubDate>Sat, 27 Jun 2026 17:26:21 +0000</pubDate>
       
-      <guid>http://localhost:63530/en/tutorials/level1-basic/3-what-is-dss/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>1-1- What is Algorithmic Trading?</title>
-      <link>http://localhost:63530/en/tutorials/level0-trade/1-what-is-trade/</link>
-      <pubDate>Sat, 27 Jun 2026 08:30:44 +0000</pubDate>
-      
-      <guid>http://localhost:63530/en/tutorials/level0-trade/1-what-is-trade/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>1-1- What is Algorithmic Trading?</title>
-      <link>http://localhost:63530/en/tutorials/level1-basic/1-what-is-algo-trade/</link>
-      <pubDate>Sat, 27 Jun 2026 08:30:44 +0000</pubDate>
-      
-      <guid>http://localhost:63530/en/tutorials/level1-basic/1-what-is-algo-trade/</guid>
+      <guid>http://localhost:1313/en/tutorials/level1-basic/3-what-is-dss/</guid>
       <description></description>
       
     </item>

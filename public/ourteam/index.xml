@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>اعضای تیم کوانتستان on کوانتستان</title>
-    <link>http://localhost:63530/ourteam/</link>
+    <link>http://localhost:1313/ourteam/</link>
     <description>Recent content in اعضای تیم کوانتستان on کوانتستان</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <copyright>© 2026    محمد مهدی معصومیان</copyright>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:63530/ourteam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ourteam/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>درباره کوانتستان</title>
-      <link>http://localhost:63530/ourteam/quantistan/</link>
+      <link>http://localhost:1313/ourteam/quantistan/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:63530/ourteam/quantistan/</guid>
+      <guid>http://localhost:1313/ourteam/quantistan/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>راهنمای سایت کوانتستان</title>
-      <link>http://localhost:63530/ourteam/help/</link>
+      <link>http://localhost:1313/ourteam/help/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:63530/ourteam/help/</guid>
+      <guid>http://localhost:1313/ourteam/help/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>کُنت حشمت</title>
-      <link>http://localhost:63530/ourteam/countheshmat/</link>
+      <link>http://localhost:1313/ourteam/countheshmat/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:63530/ourteam/countheshmat/</guid>
+      <guid>http://localhost:1313/ourteam/countheshmat/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>دعوت به همکاری</title>
-      <link>http://localhost:63530/ourteam/collaboration/</link>
+      <link>http://localhost:1313/ourteam/collaboration/</link>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:63530/ourteam/collaboration/</guid>
+      <guid>http://localhost:1313/ourteam/collaboration/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>محمد مهدی معصومیان</title>
-      <link>http://localhost:63530/ourteam/author/</link>
+      <link>http://localhost:1313/ourteam/author/</link>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:63530/ourteam/author/</guid>
+      <guid>http://localhost:1313/ourteam/author/</guid>
       <description></description>
       
     </item>
