@@ -6,7 +6,7 @@ layout: "simple"
 ---
 
 <div class="author-header rtl">
-  <img src="\images\team\heshmat.png\" alt="کنت حشمت" class="author-photo">
+  <img src="\images\team\heshmat.png" alt="کنت حشمت" class="author-photo">
   <div class="author-summary">
     <ul>
       <h3>* الگوریتم معامله گر اختصاصی کوانتستان</h3>

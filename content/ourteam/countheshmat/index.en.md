@@ -6,7 +6,7 @@ layout: "simple"
 ---
 
 <div class="author-header ltr">
-  <img src="\images\team\heshmat.png\" alt="Count Heshmat" class="author-photo">
+  <img src="\images\team\heshmat.png" alt="Count Heshmat" class="author-photo">
   <div class="author-summary">
     <ul>
       <p>* Quantistan’s proprietary trading algorithm</p>
