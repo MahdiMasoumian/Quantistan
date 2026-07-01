@@ -15,7 +15,7 @@ keywords:
   - refinery
   - Stocks
   - Machine Learning
-slug: risk-aware-portfolio-management-tehran-stock-exchange
+slug: Cross-Market-Forecasting-of-Iranian-Refinery-Stocks
 categories:
   - preprint
   - Tehran Stock
