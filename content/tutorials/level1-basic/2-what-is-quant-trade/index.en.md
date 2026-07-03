@@ -10,11 +10,19 @@ tags:
   - evidence-based decision-making
   - financial modeling
   - machine learning
+  - quantitative finance
 categories:
   - Basic
 params:
   citation: ""
-  Author: Mohammad Mahdi Masoumian
+  author: Mohammad Mahdi Masoumian
+homepage:
+  showRecent: true
+keywords:
+  - Machine Learning
+  - Quantitative Finance
+  - Quantitative Trading
+slug: 1-2-quantitative-finance
 ---
 
 ### Quantitative Finance

@@ -7,12 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <copyright>© 2026    محمد مهدی معصومیان</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 22:21:43 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Confrance</title>
+      <link>http://localhost:1313/categories/confrance/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/confrance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open Access</title>
+      <link>http://localhost:1313/categories/open-access/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/open-access/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tehran Stock</title>
+      <link>http://localhost:1313/categories/tehran-stock/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/tehran-stock/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>بورس تهران</title>
       <link>http://localhost:1313/categories/%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/</link>
-      <pubDate>Tue, 30 Jun 2026 22:21:43 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/</guid>
       <description></description>
@@ -22,7 +52,7 @@
     <item>
       <title>پیش چاپ</title>
       <link>http://localhost:1313/categories/%D9%BE%DB%8C%D8%B4-%DA%86%D8%A7%D9%BE/</link>
-      <pubDate>Tue, 30 Jun 2026 22:21:43 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/%D9%BE%DB%8C%D8%B4-%DA%86%D8%A7%D9%BE/</guid>
       <description></description>
@@ -32,7 +62,7 @@
     <item>
       <title>دسترسی آزاد</title>
       <link>http://localhost:1313/categories/%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF/</link>
-      <pubDate>Tue, 30 Jun 2026 22:21:43 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF/</guid>
       <description></description>
@@ -42,7 +72,7 @@
     <item>
       <title>مفاهیم پایه</title>
       <link>http://localhost:1313/categories/%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85-%D9%BE%D8%A7%DB%8C%D9%87/</link>
-      <pubDate>Sat, 27 Jun 2026 17:22:21 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85-%D9%BE%D8%A7%DB%8C%D9%87/</guid>
       <description></description>

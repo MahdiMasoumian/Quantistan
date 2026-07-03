@@ -5,9 +5,14 @@ draft: false
 description: "مقایسه معاملات الگوریتمی و دستی: بررسی سیستم‌های پشتیبان تصمیم‌گیری و مزایای آن‌ها در تحلیل بازار."
 params:
   author: Mohammad Mahdi Masoumian
-categories: []
+categories:
+  - Basic
 keywords:
   - سیستم‌های پشتیبان تصمیم‌گیری
+  - معاملات الگوریتمی
+homepage:
+  showRecent: true
+slug: 3-1-سیستم-های-پشتیبان-تصمیم-گیری-چی-هستند؟
 ---
 
 ### سیستم‌های پشتیبان تصمیم‌گیری

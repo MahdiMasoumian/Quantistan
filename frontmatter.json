@@ -93,6 +93,16 @@
             "معاملات الگوریتمی",
             "معاملات کمی"
           ]
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "preview",
+          "name": "preview",
+          "type": "string"
         }
       ]
     }

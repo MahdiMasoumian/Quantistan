@@ -5,10 +5,19 @@ date: 2026-06-26
 draft: false
 params:
   citation: https://ssrn.com/abstract=6885240
-categories: []
-keywords:
+  author: Mohammad Mahdi Masoumian
+categories:
+  - Confrance
+  - Tehran Stock
+  - open access
+keywords: ""
+homepage:
+  showRecent: true
+tags:
   - الگوریتم ژنتیک
   - بورس اوراق بهادار تهران
+  - سیستم معاملاتی مبتنی بر قانون
+  - مدیریت ریسک
   - مدیریت پرتفوی
 ---
 <br>

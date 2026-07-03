@@ -6,12 +6,22 @@ preview: ""
 draft: false
 tags:
   - معاملات الگوریتمی
-categories: []
+  - استراتژی‌های مبتنی بر داده
+  - تصمیم‌گیری مبتنی بر شواهد
+  - یادگیری ماشین
+  - امور مالی کمی
+categories:
+  - Basic
 params:
   citation: ""
-  Author: Mohammad Mahdi Masoumian
+  author: Mohammad Mahdi Masoumian
 keywords:
   - معاملات کمی
+  - یادگیری ماشین
+  - مالی کمی
+homepage:
+  showRecent: true
+slug: 2-1-معاملات-کمی-چیست؟
 ---
 
 ### مالی کمی

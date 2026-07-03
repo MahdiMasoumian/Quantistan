@@ -2,29 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>استراتژی‌های داده‌محور on کوانتستان</title>
-    <link>http://localhost:63783/tags/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AF%D9%87%D9%85%D8%AD%D9%88%D8%B1/</link>
+    <link>http://localhost:1313/tags/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AF%D9%87%D9%85%D8%AD%D9%88%D8%B1/</link>
     <description>Recent content in استراتژی‌های داده‌محور on کوانتستان</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <copyright>© 2026    محمد مهدی معصومیان</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 23:20:43 +0000</lastBuildDate><atom:link href="http://localhost:63783/tags/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AF%D9%87%D9%85%D8%AD%D9%88%D8%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jun 2026 08:14:49 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AF%D9%87%D9%85%D8%AD%D9%88%D8%B1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>اندیکاتور اندازه گیری تغییرات حجم (تیک)</title>
-      <link>http://localhost:63783/projects/risk-aware-portfolio-management-tehran-stock-exchange/</link>
-      <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
+      <title>1-0- ترید یعنی چی؟</title>
+      <link>http://localhost:1313/tutorials/level0-trade/1-what-is-trade/</link>
+      <pubDate>Sat, 27 Jun 2026 08:14:49 +0000</pubDate>
       
-      <guid>http://localhost:63783/projects/risk-aware-portfolio-management-tehran-stock-exchange/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>پیش‌بینی فرابازاری سهام پالایشگاهی ایران</title>
-      <link>http://localhost:63783/publications/risk-aware-portfolio-management-tehran-stock-exchange/</link>
-      <pubDate>Tue, 30 Jun 2026 22:21:43 +0000</pubDate>
-      
-      <guid>http://localhost:63783/publications/risk-aware-portfolio-management-tehran-stock-exchange/</guid>
+      <guid>http://localhost:1313/tutorials/level0-trade/1-what-is-trade/</guid>
       <description></description>
       
     </item>

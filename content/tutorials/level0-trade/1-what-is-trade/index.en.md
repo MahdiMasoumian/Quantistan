@@ -10,7 +10,14 @@ tags:
   - financial modeling
 categories:
   - Basic
-keywords: null
+keywords:
+  - profit
+  - Trading
+homepage:
+  showRecent: true
+params:
+  author: Mohammad Mahdi Masoumian
+slug: 1-0-trade
 ---
 Trading refers to the process of buying and selling financial assets with the goal of profiting from price movements. These assets may include stocks, currencies, commodities, or other financial instruments. In its simplest form, a trader aims to buy an asset at a lower price and sell it at a higher price, or profit from a decline in its price.
 

@@ -2,13 +2,23 @@
 title: 1-3- What Are Decision Support Systems?
 date: 2026-06-27T17:26:21.462Z
 draft: false
-description: An introduction to Decision Support Systems (DSS) and their role in algorithmic trading.
+description: Discover how Decision Support Systems enhance trading efficiency by monitoring markets and generating signals while keeping human control intact.
 params:
   author: Mohammad Mahdi Masoumian
 categories:
   - Basic
 keywords:
   - Decision Support Systems
+  - algorithmic trading
+homepage:
+  showRecent: true
+tags:
+  - algorithmic trading
+  - Decision Support Systems
+  - evidence-based decision-making
+  - financial modeling
+  - trading automation.
+slug: 1-3-decision-support-systems
 ---
 
 ### Decision Support Systems

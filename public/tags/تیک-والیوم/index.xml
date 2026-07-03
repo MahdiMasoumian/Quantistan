@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>تیک والیوم on کوانتستان</title>
-    <link>http://localhost:63783/tags/%D8%AA%DB%8C%DA%A9-%D9%88%D8%A7%D9%84%DB%8C%D9%88%D9%85/</link>
+    <link>http://localhost:1313/tags/%D8%AA%DB%8C%DA%A9-%D9%88%D8%A7%D9%84%DB%8C%D9%88%D9%85/</link>
     <description>Recent content in تیک والیوم on کوانتستان</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <copyright>© 2026    محمد مهدی معصومیان</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 23:20:43 +0000</lastBuildDate><atom:link href="http://localhost:63783/tags/%D8%AA%DB%8C%DA%A9-%D9%88%D8%A7%D9%84%DB%8C%D9%88%D9%85/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2026 23:20:43 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%D8%AA%DB%8C%DA%A9-%D9%88%D8%A7%D9%84%DB%8C%D9%88%D9%85/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>اندیکاتور اندازه گیری تغییرات حجم (تیک)</title>
-      <link>http://localhost:63783/projects/risk-aware-portfolio-management-tehran-stock-exchange/</link>
+      <link>http://localhost:1313/projects/tickvol/</link>
       <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
       
-      <guid>http://localhost:63783/projects/risk-aware-portfolio-management-tehran-stock-exchange/</guid>
+      <guid>http://localhost:1313/projects/tickvol/</guid>
       <description></description>
       
     </item>

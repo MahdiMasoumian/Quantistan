@@ -4,7 +4,11 @@ description: بررسی یک چارچوب مبتنی بر یادگیری ماش�
 date: 2026-06-30T22:21:43.180Z
 draft: false
 tags:
-  - معاملات الگوریتمی
+  - machine learning
+  - بورس اوراق بهادار تهران
+  - تحلیل بازار
+  - مدل‌سازی مالی
+  - یادگیری ماشین
 params:
   citation: https://doi.org/10.5281/zenodo.21085119
 keywords:
@@ -12,8 +16,13 @@ keywords:
   - شرکت‌های پالایشگاهی
   - یادگیری ماشین
   - پیش‌بینی
-slug: risk-aware-portfolio-management-tehran-stock-exchange
-categories: []
+slug: پیش‌بینی-فرابازاری-سهام-پالایشگاهی-ایران
+categories:
+  - Confrance
+  - open access
+  - Tehran Stock
+homepage:
+  showRecent: true
 ---
 
 <br>

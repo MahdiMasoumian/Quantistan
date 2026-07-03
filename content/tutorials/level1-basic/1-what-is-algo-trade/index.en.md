@@ -10,11 +10,17 @@ tags:
   - financial modeling
   - machine learning
 params:
-  likes: 1
-  views: 1
+  likes: null
+  views: null
   author: Mohammad Mahdi Masoumian
 categories:
   - Basic
+slug: 1-1-algorithmic-trading
+homepage:
+  showRecent: true
+keywords:
+  - Algorithmic Trading
+  - algorithms
 ---
 
 ### Algorithmic trading
