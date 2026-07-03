@@ -7,44 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 00:02:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/data-driven-strategies/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>1-0- What is Trade?</title>
-      <link>http://localhost:1313/en/tutorials/level0-trade/1-what-is-trade/</link>
-      <pubDate>Wed, 01 Jul 2026 00:02:57 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tutorials/level0-trade/1-what-is-trade/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 22:08:04 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/data-driven-strategies/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cross-Market Forecasting of Iranian Refinery Stocks</title>
-      <link>http://localhost:1313/en/publications/cross-market-forecasting-of-iranian-refinery-stocks/</link>
+      <link>http://localhost:1313/en/publications/cross-market-forecasting-iranian-refinery-stocks/</link>
       <pubDate>Tue, 30 Jun 2026 22:08:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/publications/cross-market-forecasting-of-iranian-refinery-stocks/</guid>
+      <guid>http://localhost:1313/en/publications/cross-market-forecasting-iranian-refinery-stocks/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>1-2- What is Quantitative Finance?</title>
-      <link>http://localhost:1313/en/tutorials/level1-basic/2-what-is-quant-trade/</link>
+      <link>http://localhost:1313/en/tutorials/level1-basic/1-2-quantitative-finance/</link>
       <pubDate>Sat, 27 Jun 2026 09:25:15 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/tutorials/level1-basic/2-what-is-quant-trade/</guid>
+      <guid>http://localhost:1313/en/tutorials/level1-basic/1-2-quantitative-finance/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>1-1- What is Algorithmic Trading?</title>
-      <link>http://localhost:1313/en/tutorials/level1-basic/1-what-is-algo-trade/</link>
+      <link>http://localhost:1313/en/tutorials/level1-basic/1-1-algorithmic-trading/</link>
       <pubDate>Sat, 27 Jun 2026 08:30:44 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/tutorials/level1-basic/1-what-is-algo-trade/</guid>
+      <guid>http://localhost:1313/en/tutorials/level1-basic/1-1-algorithmic-trading/</guid>
       <description></description>
       
     </item>

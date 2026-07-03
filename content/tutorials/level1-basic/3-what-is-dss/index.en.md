@@ -13,11 +13,10 @@ keywords:
 homepage:
   showRecent: true
 tags:
-  - algorithmic trading
   - Decision Support Systems
+  - algorithmic trading
   - evidence-based decision-making
   - financial modeling
-  - trading automation.
 slug: 1-3-decision-support-systems
 ---
 

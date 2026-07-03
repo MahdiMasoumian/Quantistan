@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>سطح 0 اصول اولیه ترید on کوانتستان</title>
+    <title>سطح 0 : اصول اولیه ترید on کوانتستان</title>
     <link>http://localhost:1313/tutorials/level0-trade/</link>
-    <description>Recent content in سطح 0 اصول اولیه ترید on کوانتستان</description>
+    <description>Recent content in سطح 0 : اصول اولیه ترید on کوانتستان</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <copyright>© 2026    محمد مهدی معصومیان</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 08:14:49 +0000</lastBuildDate><atom:link href="http://localhost:1313/tutorials/level0-trade/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jul 2026 07:14:36 +0000</lastBuildDate><atom:link href="http://localhost:1313/tutorials/level0-trade/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>0-3- دارایی های قابل معامله</title>
+      <link>http://localhost:1313/tutorials/level0-trade/0-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</link>
+      <pubDate>Fri, 03 Jul 2026 07:14:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tutorials/level0-trade/0-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2-0- بازار مالی چیست؟</title>
+      <link>http://localhost:1313/tutorials/level0-trade/2-0-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%A7%D9%84%DB%8C-%DA%86%DB%8C%D8%B3%D8%AA/</link>
+      <pubDate>Fri, 03 Jul 2026 05:59:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tutorials/level0-trade/2-0-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%A7%D9%84%DB%8C-%DA%86%DB%8C%D8%B3%D8%AA/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>1-0- ترید یعنی چی؟</title>

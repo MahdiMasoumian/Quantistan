@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 07:37:55 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/risk-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 00:02:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/risk-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>0-1- What is Trade?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/1-0-trade/</link>
+      <pubDate>Wed, 01 Jul 2026 00:02:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/1-0-trade/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Risk-Aware Portfolio Management for Tehran Stock Exchange</title>

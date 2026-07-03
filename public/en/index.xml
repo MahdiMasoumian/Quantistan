@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 00:02:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jul 2026 06:07:03 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>1-0- What is Trade?</title>
+      <title>0-2 What is Financial Market?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-2-financial-market/</link>
+      <pubDate>Fri, 03 Jul 2026 06:07:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-2-financial-market/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-1- What is Trade?</title>
       <link>http://localhost:1313/en/tutorials/level0-trade/1-0-trade/</link>
       <pubDate>Wed, 01 Jul 2026 00:02:57 +0000</pubDate>
       

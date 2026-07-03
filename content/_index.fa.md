@@ -4,9 +4,11 @@ description: آموزش رایگان معاملات الگوریتمی، مال�
 layout: homepage
 homepage:
   showRecent: true
-  recentItemsToShow: 6
+  recentItemsToShow: null
   cardView: true
 slug: کوانتستان
+params:
+  author: ""
 ---
 <div class="banner-wrapper">
     <img src="/baner_light_fa.png" class="banner-img banner-light">
