@@ -14,6 +14,7 @@ homepage:
   showRecent: true
 tags:
   - Decision Support Systems
+  - Human Supervision
   - algorithmic trading
   - evidence-based decision-making
   - financial modeling

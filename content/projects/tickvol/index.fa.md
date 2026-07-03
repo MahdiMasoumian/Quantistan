@@ -1,22 +1,23 @@
 ---
 title: اندیکاتور اندازه گیری تغییرات حجم (تیک)
 description: |
-    اندیکاتور دلتای حجم تیک در MQL5 تفاوت بین حجم تیک و میانگین متحرک ساده آن را محاسبه کرده و به‌صورت هیستوگرام نمایش می‌دهد.
+  اندیکاتور دلتای حجم تیک در MQL5 تفاوت بین حجم تیک و میانگین متحرک ساده آن را محاسبه کرده و به‌صورت هیستوگرام نمایش می‌دهد.
 date: 2026-06-30T23:20:43.420Z
 draft: false
 params:
-    citation: https://github.com/MahdiMasoumian/TickVolDelta_Indicator
+  citation: https://github.com/MahdiMasoumian/TickVolDelta_Indicator
 keywords:
-    - اندیکاتور
-    - حجم تیک
+  - اندیکاتور
+  - حجم تیک
 tags:
-    - MQL5
-    - اندیکاتور
-    - تحلیل بازار
-    - تیک والیوم
-    - حجم
+  - MQL5
+  - اندیکاتور
+  - تحلیل بازار
+  - تیک والیوم
+  - حجم
+  - متاتریدر 5
 categories:
-    - Indicator
+  - Indicator
 author: محمد مهدی معصومیان
 ---
 <br>
