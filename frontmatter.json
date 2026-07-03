@@ -17,31 +17,9 @@
           "type": "string"
         },
         {
-          "title": "layout",
-          "name": "layout",
-          "type": "string"
-        },
-        {
-          "title": "homepage",
-          "name": "homepage",
-          "type": "fields",
-          "fields": [
-            {
-              "title": "showRecent",
-              "name": "showRecent",
-              "type": "boolean"
-            },
-            {
-              "title": "recentItemsToShow",
-              "name": "recentItemsToShow",
-              "type": "number"
-            },
-            {
-              "title": "cardView",
-              "name": "cardView",
-              "type": "boolean"
-            }
-          ]
+          "title": "showRecent",
+          "name": "showRecent",
+          "type": "boolean"
         },
         {
           "title": "date",
@@ -59,28 +37,6 @@
           "type": "tags"
         },
         {
-          "title": "params",
-          "name": "params",
-          "type": "fields",
-          "fields": [
-            {
-              "title": "likes",
-              "name": "likes",
-              "type": "number"
-            },
-            {
-              "title": "views",
-              "name": "views",
-              "type": "number"
-            },
-            {
-              "title": "author",
-              "name": "author",
-              "type": "string"
-            }
-          ]
-        },
-        {
           "title": "categories",
           "name": "categories",
           "type": "categories"
@@ -88,20 +44,11 @@
         {
           "title": "keywords",
           "name": "keywords",
-          "type": "choice",
-          "choices": [
-            "معاملات الگوریتمی",
-            "معاملات کمی"
-          ]
+          "type": "keywords"
         },
         {
           "title": "author",
           "name": "author",
-          "type": "string"
-        },
-        {
-          "title": "preview",
-          "name": "preview",
           "type": "string"
         }
       ]
@@ -113,7 +60,7 @@
   "frontMatter.content.pageFolders": [
     {
       "title": "content",
-      "path": "[[workspace]]/content"
+      "path": "[[workspace]]/content/tutorials/level0-trade"
     }
   ],
   "frontMatter.git.enabled": true

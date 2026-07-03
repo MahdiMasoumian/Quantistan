@@ -7,12 +7,102 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 13:35:25 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jul 2026 15:28:36 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Derivatives Market</title>
+      <link>http://localhost:1313/en/tags/derivatives-market/</link>
+      <pubDate>Fri, 03 Jul 2026 15:28:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/derivatives-market/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>​​Financial Markets</title>
+      <link>http://localhost:1313/en/tags/financial-markets/</link>
+      <pubDate>Fri, 03 Jul 2026 15:28:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/financial-markets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Options</title>
+      <link>http://localhost:1313/en/tags/options/</link>
+      <pubDate>Fri, 03 Jul 2026 15:28:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/options/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Types of Financial Markets</title>
+      <link>http://localhost:1313/en/tags/types-of-financial-markets/</link>
+      <pubDate>Fri, 03 Jul 2026 15:28:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/types-of-financial-markets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Derivative Market</title>
+      <link>http://localhost:1313/en/tags/derivative-market/</link>
+      <pubDate>Fri, 03 Jul 2026 15:11:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/derivative-market/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Financial Markets</title>
+      <link>http://localhost:1313/en/tags/financial-markets/</link>
+      <pubDate>Fri, 03 Jul 2026 15:11:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/financial-markets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Futures</title>
+      <link>http://localhost:1313/en/tags/futures/</link>
+      <pubDate>Fri, 03 Jul 2026 15:11:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/futures/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Risk Management</title>
+      <link>http://localhost:1313/en/tags/risk-management/</link>
+      <pubDate>Fri, 03 Jul 2026 14:30:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/risk-management/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tradable Assets</title>
+      <link>http://localhost:1313/en/tags/tradable-assets/</link>
+      <pubDate>Fri, 03 Jul 2026 14:30:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/tradable-assets/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Market Analysis</title>
       <link>http://localhost:1313/en/tags/market-analysis/</link>
-      <pubDate>Fri, 03 Jul 2026 13:35:25 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 13:50:19 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/market-analysis/</guid>
       <description></description>
@@ -22,7 +112,7 @@
     <item>
       <title>Real Asset</title>
       <link>http://localhost:1313/en/tags/real-asset/</link>
-      <pubDate>Fri, 03 Jul 2026 13:35:25 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 13:50:19 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/real-asset/</guid>
       <description></description>
@@ -32,7 +122,7 @@
     <item>
       <title>Spot Market</title>
       <link>http://localhost:1313/en/tags/spot-market/</link>
-      <pubDate>Fri, 03 Jul 2026 13:35:25 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 13:50:19 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/spot-market/</guid>
       <description></description>
@@ -42,7 +132,7 @@
     <item>
       <title>Spot Transactions</title>
       <link>http://localhost:1313/en/tags/spot-transactions/</link>
-      <pubDate>Fri, 03 Jul 2026 13:35:25 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 13:50:19 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/spot-transactions/</guid>
       <description></description>
@@ -100,16 +190,6 @@
     </item>
     
     <item>
-      <title>Financial Markets</title>
-      <link>http://localhost:1313/en/tags/financial-markets/</link>
-      <pubDate>Fri, 03 Jul 2026 10:31:56 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/financial-markets/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Microeconomics</title>
       <link>http://localhost:1313/en/tags/microeconomics/</link>
       <pubDate>Fri, 03 Jul 2026 10:31:56 +0000</pubDate>
@@ -145,16 +225,6 @@
       <pubDate>Fri, 03 Jul 2026 10:31:56 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/supply-and-demand/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Risk Management</title>
-      <link>http://localhost:1313/en/tags/risk-management/</link>
-      <pubDate>Fri, 03 Jul 2026 09:13:25 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/risk-management/</guid>
       <description></description>
       
     </item>
@@ -215,16 +285,6 @@
       <pubDate>Fri, 03 Jul 2026 07:26:02 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/stocks/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tradable Assets</title>
-      <link>http://localhost:1313/en/tags/tradable-assets/</link>
-      <pubDate>Fri, 03 Jul 2026 07:26:02 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/tradable-assets/</guid>
       <description></description>
       
     </item>
@@ -370,6 +430,16 @@
     </item>
     
     <item>
+      <title>Financial Markets - Tradable Assets - Risk Management - Derivatives Market</title>
+      <link>http://localhost:1313/en/tags/financial-markets---tradable-assets---risk-management---derivatives-market/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/financial-markets---tradable-assets---risk-management---derivatives-market/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>ارز دیجیتال</title>
       <link>http://localhost:1313/en/tags/%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -395,6 +465,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بازار مشقته</title>
+      <link>http://localhost:1313/en/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%B4%D9%82%D8%AA%D9%87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%B4%D9%82%D8%AA%D9%87/</guid>
       <description></description>
       
     </item>

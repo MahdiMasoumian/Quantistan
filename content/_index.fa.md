@@ -5,10 +5,11 @@ layout: homepage
 homepage:
   showRecent: true
   recentItemsToShow: null
-  cardView: true
+  cardView: false
 slug: کوانتستان
 params:
   author: ""
+date: 2026-07-03T14:24:57.183Z
 ---
 <div class="banner-wrapper">
     <img src="/baner_light_fa.png" class="banner-img banner-light">

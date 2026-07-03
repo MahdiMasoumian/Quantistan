@@ -1,5 +1,5 @@
 ---
-title: 5-0- How Do Prices Change?
+title: 0-5- How Do Prices Change?
 description: Discover how supply and demand influence asset prices in financial markets and why they constantly change.
 layout: ""
 homepage:
