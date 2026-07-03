@@ -33,5 +33,5 @@ Alongside algorithmic trading, another closely related concept is **quantitative
 * **Quantitative Trading** focuses on the research, **design**, analysis, and evaluation of data-driven trading strategies.
 * In practice, many modern trading systems combine elements of both disciplines.
 
-### Refrence
+Refrence
 > Chan EP. Algorithmic Trading: Winning Strategies and Their Rationale. Hoboken, N.J.: John Wiley Et Sons, Inc; 2013.

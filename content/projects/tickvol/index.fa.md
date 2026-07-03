@@ -4,20 +4,11 @@ description: |
     اندیکاتور دلتای حجم تیک در MQL5 تفاوت بین حجم تیک و میانگین متحرک ساده آن را محاسبه کرده و به‌صورت هیستوگرام نمایش می‌دهد.
 date: 2026-06-30T23:20:43.420Z
 draft: false
-tags:
-    - معاملات الگوریتمی
-    - استراتژی‌های داده‌محور
-    - مدل‌سازی مالی
-    - تحلیل بازار
-    - اندیکاتورهای معاملاتی
 params:
     citation: https://github.com/MahdiMasoumian/TickVolDelta_Indicator
 keywords:
     - اندیکاتور
     - حجم تیک
-slug: risk-aware-portfolio-management-tehran-stock-exchange
-categories:
-    - اندیکاتور
 ---
 <br>
 

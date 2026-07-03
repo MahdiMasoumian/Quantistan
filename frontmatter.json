@@ -7,41 +7,56 @@
       "previewPath": null,
       "fields": [
         {
-          "title": "Title",
+          "title": "title",
           "name": "title",
           "type": "string"
         },
         {
-          "title": "Description",
+          "title": "description",
           "name": "description",
           "type": "string"
         },
         {
-          "title": "Publishing date",
+          "title": "layout",
+          "name": "layout",
+          "type": "string"
+        },
+        {
+          "title": "homepage",
+          "name": "homepage",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "showRecent",
+              "name": "showRecent",
+              "type": "boolean"
+            },
+            {
+              "title": "recentItemsToShow",
+              "name": "recentItemsToShow",
+              "type": "number"
+            },
+            {
+              "title": "cardView",
+              "name": "cardView",
+              "type": "boolean"
+            }
+          ]
+        },
+        {
+          "title": "date",
           "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
+          "type": "datetime"
         },
         {
-          "title": "Content preview",
-          "name": "preview",
-          "type": "image"
-        },
-        {
-          "title": "Is in draft",
+          "title": "draft",
           "name": "draft",
           "type": "draft"
         },
         {
-          "title": "Tags",
+          "title": "tags",
           "name": "tags",
           "type": "tags"
-        },
-        {
-          "title": "Categories",
-          "name": "categories",
-          "type": "categories"
         },
         {
           "title": "params",
@@ -49,10 +64,34 @@
           "type": "fields",
           "fields": [
             {
-              "title": "citation",
-              "name": "citation",
+              "title": "likes",
+              "name": "likes",
+              "type": "number"
+            },
+            {
+              "title": "views",
+              "name": "views",
+              "type": "number"
+            },
+            {
+              "title": "author",
+              "name": "author",
               "type": "string"
             }
+          ]
+        },
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "keywords",
+          "name": "keywords",
+          "type": "choice",
+          "choices": [
+            "معاملات الگوریتمی",
+            "معاملات کمی"
           ]
         }
       ]

@@ -37,6 +37,6 @@ One of the most important data-driven approaches in quantitative trading is the 
 
 Quantitative Finance provides a scientific framework for analyzing financial problems using quantitative methods, while Quantitative Trading represents one of its most important practical applications. In this approach, trading decisions are driven by data and supported by tools such as statistics, mathematical models, and machine learning.
 
-### Reference
+Reference
 
 > Chan EP. *Quantitative Trading*. John Wiley & Sons; 2021.

@@ -4,25 +4,17 @@ date: 2026-06-27T08:14:49.947Z
 draft: false
 description: توضیح مختصر در مورد معاملات الگوریتمی و معاملات کمی در بازار های مالی
 tags:
-    - معاملات الگوریتمی
-    - استراتژی‌های مبتنی بر داده
-    - تصمیم‌گیری مبتنی بر شواهد
-    - مدل‌سازی مالی
-    - تصمیمات سرمایه‌گذاری
-    - یادگیری ماشین
-    - تحلیل بازار
-    - معاملات کمی
-    - روش‌های آماری
-    - استراتژی‌های معاملاتی
+  - معاملات الگوریتمی
 params:
-  likes: 1
-  views: 1
   author: Mohammad Mahdi Masoumian
 categories:
   - مفاهیم پایه
 keywords:
   - معاملات الگوریتمی
   - معاملات کمی
+homepage:
+  showRecent: true
+  cardView: false
 ---
 
 ### معاملات الگوریتمی
@@ -40,7 +32,7 @@ keywords:
  در عمل، بسیاری از سیستم‌های معاملاتی ترکیبی از هر دو حوزه هستند.
 
 
-### منبع
+منبع
 > Chan EP. Algorithmic Trading: Winning Strategies and Their Rationale. Hoboken, N.J.: John Wiley Et Sons, Inc; 2013.
 
 

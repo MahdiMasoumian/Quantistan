@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>یادگیری ماشین on کوانتستان</title>
-    <link>http://localhost:1313/tags/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86/</link>
+    <link>http://localhost:63783/tags/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86/</link>
     <description>Recent content in یادگیری ماشین on کوانتستان</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <copyright>© 2026    محمد مهدی معصومیان</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 22:21:43 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2026 22:21:43 +0000</lastBuildDate><atom:link href="http://localhost:63783/tags/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>پیش‌بینی فرابازاری سهام پالایشگاهی ایران</title>
-      <link>http://localhost:1313/publications/risk-aware-portfolio-management-tehran-stock-exchange/</link>
+      <link>http://localhost:63783/publications/risk-aware-portfolio-management-tehran-stock-exchange/</link>
       <pubDate>Tue, 30 Jun 2026 22:21:43 +0000</pubDate>
       
-      <guid>http://localhost:1313/publications/risk-aware-portfolio-management-tehran-stock-exchange/</guid>
+      <guid>http://localhost:63783/publications/risk-aware-portfolio-management-tehran-stock-exchange/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>2-1- معاملات کمی چیست؟</title>
-      <link>http://localhost:1313/tutorials/level1-basic/2-what-is-quant-trade/</link>
+      <link>http://localhost:63783/tutorials/level1-basic/2-what-is-quant-trade/</link>
       <pubDate>Sat, 27 Jun 2026 09:25:19 +0000</pubDate>
       
-      <guid>http://localhost:1313/tutorials/level1-basic/2-what-is-quant-trade/</guid>
+      <guid>http://localhost:63783/tutorials/level1-basic/2-what-is-quant-trade/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>1-1- معاملات الگوریتمی چیست؟</title>
-      <link>http://localhost:1313/tutorials/level1-basic/1-what-is-algo-trade/</link>
+      <link>http://localhost:63783/tutorials/level1-basic/1-what-is-algo-trade/</link>
       <pubDate>Sat, 27 Jun 2026 08:14:49 +0000</pubDate>
       
-      <guid>http://localhost:1313/tutorials/level1-basic/1-what-is-algo-trade/</guid>
+      <guid>http://localhost:63783/tutorials/level1-basic/1-what-is-algo-trade/</guid>
       <description></description>
       
     </item>

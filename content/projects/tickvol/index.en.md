@@ -4,20 +4,11 @@ description: |
     The Tick Volume Delta indicator in MQL5 calculates the difference between tick volume and its simple moving average and displays it as a histogram.
 date: 2026-06-30T23:20:43.420Z
 draft: false
-tags:
-    - algorithmic trading
-    - data-driven strategies
-    - financial modeling
-    - market analysis
-    - trading indicators
 params:
     citation: https://github.com/MahdiMasoumian/TickVolDelta_Indicator
 keywords:
     - Indicator
     - Tick Volume
-slug: risk-aware-portfolio-management-tehran-stock-exchange
-categories:
-    - Indicator
 ---
 <br>
 

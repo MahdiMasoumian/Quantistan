@@ -5,9 +5,6 @@ date: 2026-06-30T22:21:43.180Z
 draft: false
 tags:
   - معاملات الگوریتمی
-  - استراتژی‌های داده‌محور
-  - مدل‌سازی مالی
-  - یادگیری ماشین
 params:
   citation: https://doi.org/10.5281/zenodo.21085119
 keywords:

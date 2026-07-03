@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trading Indicators on Quantistan</title>
-    <link>http://localhost:1313/en/tags/trading-indicators/</link>
+    <link>http://localhost:63783/en/tags/trading-indicators/</link>
     <description>Recent content in Trading Indicators on Quantistan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 23:20:43 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/trading-indicators/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2026 23:20:43 +0000</lastBuildDate><atom:link href="http://localhost:63783/en/tags/trading-indicators/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Indicator for Measuring Tick Volume Delta </title>
-      <link>http://localhost:1313/en/projects/risk-aware-portfolio-management-tehran-stock-exchange/</link>
+      <link>http://localhost:63783/en/projects/risk-aware-portfolio-management-tehran-stock-exchange/</link>
       <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/projects/risk-aware-portfolio-management-tehran-stock-exchange/</guid>
+      <guid>http://localhost:63783/en/projects/risk-aware-portfolio-management-tehran-stock-exchange/</guid>
       <description></description>
       
     </item>

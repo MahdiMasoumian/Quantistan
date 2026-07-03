@@ -8,7 +8,6 @@ tags:
   - data-driven strategies
   - evidence-based decision-making
   - financial modeling
-  - trading automation
 categories:
   - Basic Concepts
 keywords: null

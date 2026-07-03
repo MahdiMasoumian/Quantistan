@@ -13,10 +13,10 @@ homepage:
 </div>
 
 <div class="homepage-cta-container">
-  <a href="/fa/ourteam/quantistan/">
+  <a href="/ourteam/quantistan/">
     <div class="cta-btn text-slate-900 dark:text-white" style="font-size: 1.3rem; font-weight: bold;">کوانتستان چیست؟</div>
   </a>
-  <a href="/fa/tutorials/level1-basic/1-what-is-algo-trade/">
+  <a href="/tutorials/level1-basic/1-what-is-algo-trade/">
     <div class="cta-btn text-slate-900 dark:text-white" style="font-size: 1.3rem; font-weight: bold;">شروع سطح اول</div>
   </a>
 </div>
