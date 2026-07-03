@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/tutorials/level0-trade/</loc>
-    <lastmod>2026-07-03T15:11:36+00:00</lastmod>
+    <lastmod>2026-07-03T15:28:36+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -50,6 +50,38 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/tutorials/level0-trade/9-0-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</loc>
+    <lastmod>2026-07-03T15:28:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tutorials/level0-trade/0-9-options-contract/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/tutorials/level0-trade/9-0-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tutorials/</loc>
+    <lastmod>2026-07-03T15:28:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tutorials/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/tutorials/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/tutorials/level0-trade/8-0-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%A2%D8%AA%DB%8C/</loc>
     <lastmod>2026-07-03T15:11:36+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -63,22 +95,6 @@
       rel="alternate"
       hreflang="fa"
       href="http://localhost:1313/tutorials/level0-trade/8-0-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%A2%D8%AA%DB%8C/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tutorials/</loc>
-    <lastmod>2026-07-03T15:11:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/tutorials/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fa"
-      href="http://localhost:1313/tutorials/"
     />
   </url>
   <url>
@@ -448,10 +464,5 @@
       hreflang="fa"
       href="http://localhost:1313/ourteam/author/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tutorials/level0-trade/9-options/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

@@ -4,7 +4,6 @@ description: بررسی یک چارچوب مبتنی بر یادگیری ماش�
 date: 2026-06-30T22:21:43.180Z
 draft: false
 tags:
-  - machine learning
   - بورس اوراق بهادار تهران
   - تحلیل بازار
   - مدل‌سازی مالی
@@ -23,6 +22,7 @@ categories:
   - Tehran Stock
 homepage:
   showRecent: true
+showRecent: true
 ---
 
 <br>

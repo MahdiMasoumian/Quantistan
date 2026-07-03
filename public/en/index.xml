@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 15:11:36 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jul 2026 15:41:53 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>8-0- What Are Futures Contracts?</title>
+      <title>0-9- Options Contract</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-9-options-contract/</link>
+      <pubDate>Fri, 03 Jul 2026 15:41:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-9-options-contract/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-8- What Are Futures Contracts?</title>
       <link>http://localhost:1313/en/tutorials/level0-trade/8-0-futures-contracts/</link>
       <pubDate>Fri, 03 Jul 2026 15:11:36 +0000</pubDate>
       
@@ -50,7 +60,7 @@
     </item>
     
     <item>
-      <title>5-0- How Do Prices Change?</title>
+      <title>0-5- How Do Prices Change?</title>
       <link>http://localhost:1313/en/tutorials/level0-trade/5-0-prices-change/</link>
       <pubDate>Fri, 03 Jul 2026 10:31:56 +0000</pubDate>
       
