@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/tutorials/level0-trade/</loc>
-    <lastmod>2026-07-03T07:14:36+00:00</lastmod>
+    <lastmod>2026-07-03T09:03:14+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -50,24 +50,24 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tutorials/level0-trade/0-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</loc>
-    <lastmod>2026-07-03T07:14:36+00:00</lastmod>
+    <loc>http://localhost:1313/tutorials/level0-trade/%D8%B4%D8%B1%DA%A9%D8%AA%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1/</loc>
+    <lastmod>2026-07-03T09:03:14+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/tutorials/level0-trade/0-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/"
+      href="http://localhost:1313/en/tutorials/level0-trade/0-4-market-participants/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fa"
-      href="http://localhost:1313/tutorials/level0-trade/0-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/"
+      href="http://localhost:1313/tutorials/level0-trade/%D8%B4%D8%B1%DA%A9%D8%AA%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1/"
     />
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-03T07:14:36+00:00</lastmod>
+    <lastmod>2026-07-03T09:03:14+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -83,7 +83,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/tutorials/</loc>
-    <lastmod>2026-07-03T07:14:36+00:00</lastmod>
+    <lastmod>2026-07-03T09:03:14+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -95,6 +95,38 @@
       rel="alternate"
       hreflang="fa"
       href="http://localhost:1313/tutorials/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tutorials/level0-trade/0-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</loc>
+    <lastmod>2026-07-03T07:14:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tutorials/level0-trade/0-3-tradable-assets/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/tutorials/level0-trade/0-3-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tutorials/level0-trade/2-0-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%A7%D9%84%DB%8C-%DA%86%DB%8C%D8%B3%D8%AA/</loc>
+    <lastmod>2026-07-03T05:59:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tutorials/level0-trade/0-2-financial-market/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/tutorials/level0-trade/2-0-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%A7%D9%84%DB%8C-%DA%86%DB%8C%D8%B3%D8%AA/"
     />
   </url>
   <url>
@@ -335,6 +367,21 @@
       rel="alternate"
       hreflang="fa"
       href="http://localhost:1313/ourteam/author/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tutorials/level0-trade/5-how-price-move/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tutorials/level0-trade/5-how-price-move/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/tutorials/level0-trade/5-how-price-move/"
     />
   </url>
 </urlset>
