@@ -1,5 +1,5 @@
 ---
-title: 1-0- What is Trade?
+title: 0-1- What is Trade?
 date: 2026-07-01T00:02:57.585Z
 draft: false
 description: Discover the basics of trading, its types, and strategies to profit from financial markets while managing risks effectively.
