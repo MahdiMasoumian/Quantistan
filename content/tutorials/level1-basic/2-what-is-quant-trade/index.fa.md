@@ -5,14 +5,13 @@ date: 2026-06-27T09:25:19.826Z
 preview: ""
 draft: false
 tags:
-    - معاملات الگوریتمی
-categories:
-    - مفاهیم پایه
+  - معاملات الگوریتمی
+categories: []
 params:
-    citation: ""
-    Author: Mohammad Mahdi Masoumian
+  citation: ""
+  Author: Mohammad Mahdi Masoumian
 keywords:
-    - معاملات کمی
+  - معاملات کمی
 ---
 
 ### مالی کمی

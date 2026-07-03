@@ -4,11 +4,8 @@ description: چارچوبی مبتنی بر قوانین برای مدیریت �
 date: 2026-06-26
 draft: false
 params:
-  citation: "https://ssrn.com/abstract=6885240"
-categories:
-  - بورس تهران
-  - دسترسی آزاد
-  - پیش چاپ
+  citation: https://ssrn.com/abstract=6885240
+categories: []
 keywords:
   - الگوریتم ژنتیک
   - بورس اوراق بهادار تهران

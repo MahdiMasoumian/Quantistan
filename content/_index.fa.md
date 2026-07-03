@@ -1,11 +1,12 @@
 ---
-title: "کوانتستان"
-description: "آموزش رایگان معاملات الگوریتمی، مالی کمی، تحلیل بازار های مالی"
-layout: "homepage"
+title: کوانتستان
+description: آموزش رایگان معاملات الگوریتمی، مالی کمی، تحلیل بازار های مالی
+layout: homepage
 homepage:
   showRecent: true
   recentItemsToShow: 6
   cardView: true
+slug: کوانتستان
 ---
 <div class="banner-wrapper">
     <img src="/baner_light_fa.png" class="banner-img banner-light">

@@ -14,7 +14,7 @@ params:
   views: 1
   author: Mohammad Mahdi Masoumian
 categories:
-  - Basic Concepts
+  - Basic
 ---
 
 ### Algorithmic trading

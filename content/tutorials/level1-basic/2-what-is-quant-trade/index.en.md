@@ -11,7 +11,7 @@ tags:
   - financial modeling
   - machine learning
 categories:
-  - Basic Concepts
+  - Basic
 params:
   citation: ""
   Author: Mohammad Mahdi Masoumian

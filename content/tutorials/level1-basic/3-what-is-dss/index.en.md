@@ -4,11 +4,11 @@ date: 2026-06-27T17:26:21.462Z
 draft: false
 description: An introduction to Decision Support Systems (DSS) and their role in algorithmic trading.
 params:
-    author: Mohammad Mahdi Masoumian
+  author: Mohammad Mahdi Masoumian
 categories:
-    - Basic Concepts
+  - Basic
 keywords:
-    - Decision Support Systems
+  - Decision Support Systems
 ---
 
 ### Decision Support Systems

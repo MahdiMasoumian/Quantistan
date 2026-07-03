@@ -13,10 +13,7 @@ keywords:
   - یادگیری ماشین
   - پیش‌بینی
 slug: risk-aware-portfolio-management-tehran-stock-exchange
-categories:
-  - بورس تهران
-  - پیش چاپ
-  - دسترسی آزاد
+categories: []
 ---
 
 <br>

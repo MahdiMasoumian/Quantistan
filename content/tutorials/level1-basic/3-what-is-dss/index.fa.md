@@ -4,11 +4,10 @@ date: 2026-06-27T17:22:21.063Z
 draft: false
 description: "مقایسه معاملات الگوریتمی و دستی: بررسی سیستم‌های پشتیبان تصمیم‌گیری و مزایای آن‌ها در تحلیل بازار."
 params:
-    author: Mohammad Mahdi Masoumian
-categories:
-    - مفاهیم پایه
+  author: Mohammad Mahdi Masoumian
+categories: []
 keywords:
-    - سیستم‌های پشتیبان تصمیم‌گیری
+  - سیستم‌های پشتیبان تصمیم‌گیری
 ---
 
 ### سیستم‌های پشتیبان تصمیم‌گیری

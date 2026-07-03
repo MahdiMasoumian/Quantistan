@@ -7,8 +7,7 @@ tags:
   - معاملات الگوریتمی
 params:
   author: Mohammad Mahdi Masoumian
-categories:
-  - مفاهیم پایه
+categories: []
 keywords:
   - معاملات الگوریتمی
   - معاملات کمی

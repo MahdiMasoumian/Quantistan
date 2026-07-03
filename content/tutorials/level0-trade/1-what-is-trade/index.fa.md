@@ -4,8 +4,7 @@ date: 2026-06-27T08:14:49.947Z
 draft: false
 description: توضیح مقدماتی اولیه در مورد معنی ترید
 author: Mohammad Mahdi Masoumian
-categories:
-  - مفاهیم پایه
+categories: []
 keywords: null
 ---
 
