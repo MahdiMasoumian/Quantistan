@@ -20,7 +20,7 @@ date: 2026-07-03T14:24:57.183Z
   <a href="/ourteam/quantistan/">
     <div class="cta-btn text-slate-900 dark:text-white" style="font-size: 1.3rem; font-weight: bold;">کوانتستان چیست؟</div>
   </a>
-  <a href="/tutorials/level1-basic/1-what-is-algo-trade/">
+  <a href="/tutorials/level1-basic/1-1-معاملات-الگوریتمی-چیست/">
     <div class="cta-btn text-slate-900 dark:text-white" style="font-size: 1.3rem; font-weight: bold;">شروع سطح اول</div>
   </a>
 </div>
