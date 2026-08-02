@@ -3,7 +3,7 @@ title: Lightweight Data Pipeline for Live Trading and ML/DL
 description: A modular, bias-aware data pipeline for MT5 that performs feature engineering, calendar reconstruction, and gap filling for live trading and machine learning.
 date: 2026-08-02T06:35:22.269Z
 draft: false
-slug: lightweight-data-pipeline-live-trading-financial-ml
+slug: lightweight-data-pipeline-live-trading-ml-dl
 categories:
   - PythonLib
 tags:
