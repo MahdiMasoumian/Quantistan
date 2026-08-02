@@ -1,67 +1,101 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+
   "frontMatter.taxonomy.contentTypes": [
     {
-      "name": "default",
+      "name": "tutorials",
       "pageBundle": false,
       "previewPath": null,
       "fields": [
+        { "title": "Title", "name": "title", "type": "string" },
+        { "title": "Description", "name": "description", "type": "string" },
+        { "title": "Date", "name": "date", "type": "datetime" },
+        { "title": "Draft", "name": "draft", "type": "draft" },
+        { "title": "Slug", "name": "slug", "type": "string" },
         {
-          "title": "title",
-          "name": "title",
-          "type": "string"
-        },
-        {
-          "title": "description",
-          "name": "description",
-          "type": "string"
-        },
-        {
-          "title": "showRecent",
-          "name": "showRecent",
-          "type": "boolean"
-        },
-        {
-          "title": "date",
-          "name": "date",
-          "type": "datetime"
-        },
-        {
-          "title": "draft",
-          "name": "draft",
-          "type": "draft"
-        },
-        {
-          "title": "tags",
-          "name": "tags",
-          "type": "tags"
-        },
-        {
-          "title": "categories",
+          "title": "Category",
           "name": "categories",
-          "type": "categories"
+          "type": "choice",
+          "choices": ["Basic", "Intermediate", "Advanced"],
+          "multiple": true
         },
+        { "title": "Tags", "name": "tags", "type": "tags" },
+        { "title": "Keywords", "name": "keywords", "type": "keywords" },
+        { "title": "Author", "name": "params.author", "type": "string", "default": "Mohammad Mahdi Masoumian" },
+        { "title": "Show on homepage recent list", "name": "homepage.showRecent", "type": "boolean", "default": true }
+      ]
+    },
+    {
+      "name": "publications",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        { "title": "Title", "name": "title", "type": "string" },
+        { "title": "Description", "name": "description", "type": "string" },
+        { "title": "Date", "name": "date", "type": "datetime" },
+        { "title": "Draft", "name": "draft", "type": "draft" },
+        { "title": "Slug", "name": "slug", "type": "string" },
         {
-          "title": "keywords",
-          "name": "keywords",
-          "type": "keywords"
+          "title": "Category",
+          "name": "categories",
+          "type": "choice",
+          "choices": ["Preprint", "Tehran Stock", "open access"],
+          "multiple": true
         },
+        { "title": "Tags", "name": "tags", "type": "tags" },
+        { "title": "Keywords", "name": "keywords", "type": "keywords" },
+        { "title": "Author", "name": "params.author", "type": "string", "default": "Mohammad Mahdi Masoumian" },
+        { "title": "Citation Link (DOI/SSRN/Zenodo)", "name": "params.citation", "type": "string" },
+        { "title": "Show on homepage recent list", "name": "homepage.showRecent", "type": "boolean", "default": true }
+      ]
+    },
+    {
+      "name": "projects",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        { "title": "Title", "name": "title", "type": "string" },
+        { "title": "Description", "name": "description", "type": "string" },
+        { "title": "Date", "name": "date", "type": "datetime" },
+        { "title": "Draft", "name": "draft", "type": "draft" },
+        { "title": "Slug", "name": "slug", "type": "string" },
         {
-          "title": "author",
-          "name": "author",
-          "type": "string"
-        }
+          "title": "Category",
+          "name": "categories",
+          "type": "choice",
+          "choices": ["Indicator", "Trading Bot", "Expert Advisor"],
+          "multiple": true
+        },
+        { "title": "Tags", "name": "tags", "type": "tags" },
+        { "title": "Keywords", "name": "keywords", "type": "keywords" },
+        { "title": "Author", "name": "params.author", "type": "string", "default": "Mohammad Mahdi Masoumian" },
+        { "title": "Citation / Source Link", "name": "params.citation", "type": "string" },
+        { "title": "Show on homepage recent list", "name": "homepage.showRecent", "type": "boolean", "default": true }
       ]
     }
   ],
+
   "frontMatter.framework.id": "hugo",
   "frontMatter.content.publicFolder": "static",
   "frontMatter.preview.host": "http://localhost:1313",
+
   "frontMatter.content.pageFolders": [
     {
-      "title": "content",
-      "path": "[[workspace]]/content/tutorials/level0-trade"
+      "title": "tutorials",
+      "path": "[[workspace]]/content/tutorials/level0-trade",
+      "contentTypes": ["tutorials"]
+    },
+    {
+      "title": "publications",
+      "path": "[[workspace]]/content/publications",
+      "contentTypes": ["publications"]
+    },
+    {
+      "title": "projects",
+      "path": "[[workspace]]/content/projects",
+      "contentTypes": ["projects"]
     }
   ],
+
   "frontMatter.git.enabled": true
 }

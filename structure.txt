@@ -1,0 +1,4676 @@
+Folder PATH listing
+Volume serial number is 3479-6D93
+C:.
+³   .gitattributes
+³   .gitmodules
+³   .hugo_build.lock
+³   frontmatter.json
+³   structure.txt
+³   update_structur.py
+³   êãŸêéŸ¢ Ÿé?í©?¢ê?.docx
+³   
+ÃÄÄÄ.frontmatter
+³   ÀÄÄÄdatabase
+³           mediaDb.json
+³           pinnedItemsDb.json
+³           taxonomyDb.json
+³           
+ÃÄÄÄ.vscode
+³       settings.json
+³       
+ÃÄÄÄarchetypes
+³       default.md
+³       
+ÃÄÄÄassets
+³   ³   logo.png
+³   ³   
+³   ÀÄÄÄcss
+³           custom.css
+³           
+ÃÄÄÄconfig
+³   ÀÄÄÄ_default
+³           hugo.toml
+³           languages.en.toml
+³           languages.fa.toml
+³           markup.toml
+³           menus.en.toml
+³           menus.fa.toml
+³           module.toml
+³           params.toml
+³           
+ÃÄÄÄcontent
+³   ³   _index.en.md
+³   ³   _index.fa.md
+³   ³   
+³   ÃÄÄÄourteam
+³   ³   ³   _index.en.md
+³   ³   ³   _index.fa.md
+³   ³   ³   
+³   ³   ÃÄÄÄauthor
+³   ³   ³       index.en.md
+³   ³   ³       index.fa.md
+³   ³   ³       profile.png
+³   ³   ³       
+³   ³   ÃÄÄÄCollaboration
+³   ³   ³       index.en.md
+³   ³   ³       index.fa.md
+³   ³   ³       profile.png
+³   ³   ³       
+³   ³   ÃÄÄÄcountheshmat
+³   ³   ³       index.en.md
+³   ³   ³       index.fa.md
+³   ³   ³       Screenshot1.jpg
+³   ³   ³       Screenshot2.jpg
+³   ³   ³       Screenshot3.jpg
+³   ³   ³       Screenshot4.jpg
+³   ³   ³       Screenshot5.jpg
+³   ³   ³       Screenshot6.jpg
+³   ³   ³       
+³   ³   ÃÄÄÄhelp
+³   ³   ³       index.en.md
+³   ³   ³       index.fa.md
+³   ³   ³       
+³   ³   ÀÄÄÄquantistan
+³   ³           index.en.md
+³   ³           index.fa.md
+³   ³           
+³   ÃÄÄÄprojects
+³   ³   ³   _index.en.md
+³   ³   ³   _index.fa.md
+³   ³   ³   
+³   ³   ÀÄÄÄtickvol
+³   ³           index.en.md
+³   ³           index.fa.md
+³   ³           Screenshot1.jpg
+³   ³           
+³   ÃÄÄÄpublications
+³   ³   ³   _index.en.md
+³   ³   ³   _index.fa.md
+³   ³   ³   
+³   ³   ÃÄÄÄ20260626
+³   ³   ³       index.en.md
+³   ³   ³       index.fa.md
+³   ³   ³       
+³   ³   ÃÄÄÄ20260701
+³   ³   ³       index.en.md
+³   ³   ³       index.fa.md
+³   ³   ³       
+³   ³   ÀÄÄÄ20260703
+³   ³           index.en.md
+³   ³           index.fa.md
+³   ³           
+³   ÀÄÄÄtutorials
+³       ³   _index.en.md
+³       ³   _index.fa.md
+³       ³   
+³       ÃÄÄÄlevel0-trade
+³       ³   ³   _index.en.md
+³       ³   ³   _index.fa.md
+³       ³   ³   
+³       ³   ÃÄÄÄ1-what-is-trade
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ2-what-is-financial-market
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ3-tradable-assets
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ4-market-players
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ5-how-price-move
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ6-spot-market
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ7-drivative-market
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ8-futures-market
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÀÄÄÄ9-options
+³       ³           index.en.md
+³       ³           index.fa.md
+³       ³           
+³       ÃÄÄÄlevel1-basic
+³       ³   ³   _index.en.md
+³       ³   ³   _index.fa.md
+³       ³   ³   
+³       ³   ÃÄÄÄ1-what-is-algo-trade
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ2-what-is-quant-trade
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÀÄÄÄ3-what-is-dss
+³       ³           index.en.md
+³       ³           index.fa.md
+³       ³           
+³       ÀÄÄÄlevel2
+³               _index.en.md
+³               _index.fa.md
+³               
+ÃÄÄÄdata
+ÃÄÄÄen
+³   ÀÄÄÄtutorials
+³           level1
+³           
+ÃÄÄÄi18n
+³       fa.yaml
+³       
+ÃÄÄÄlayouts
+³   ³   index.html
+³   ³   
+³   ÃÄÄÄpartials
+³   ³   ³   showcase-cards.html
+³   ³   ³   
+³   ³   ÃÄÄÄarticle-meta
+³   ³   ³       basic.html
+³   ³   ³       
+³   ³   ÃÄÄÄhome
+³   ³   ³       profile.html
+³   ³   ³       
+³   ³   ÀÄÄÄrecent-articles
+³   ³           cardview-fullwidth.html
+³   ³           cardview.html
+³   ³           list.html
+³   ³           main.html
+³   ³           
+³   ÀÄÄÄ_default
+³           list.html
+³           simple.html
+³           
+ÃÄÄÄpublic
+³   ³   404.html
+³   ³   android-chrome-192x192.png
+³   ³   android-chrome-512x512.png
+³   ³   apple-touch-icon.png
+³   ³   baner_dark_en.png
+³   ³   baner_dark_fa.png
+³   ³   baner_light_en.png
+³   ³   baner_light_fa.png
+³   ³   favicon-16x16.png
+³   ³   favicon-32x32.png
+³   ³   favicon.ico
+³   ³   index.html
+³   ³   index.json
+³   ³   index.xml
+³   ³   logo.png
+³   ³   robots.txt
+³   ³   site.webmanifest
+³   ³   sitemap.xml
+³   ³   _redirects
+³   ³   
+³   ÃÄÄÄ0-3-§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì
+³   ³       index.html
+³   ³       
+³   ÃÄÄÄ2026-07-03-0-3--§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì
+³   ³       index.html
+³   ³       
+³   ÃÄÄÄ2026-07-03-2-0-- ŸªŸ©-êŸé?-??«¢
+³   ³       index.html
+³   ³       
+³   ÃÄÄÄ2026-07-03-8-0-- ŸªŸ©-ç©Ÿ©-§Ÿ§-ìŸ?-Ÿ?¢?
+³   ³       index.html
+³   ³       
+³   ÃÄÄÄ2026-07-03-Ÿ¦¢?Ÿ©
+³   ³       index.html
+³   ³       
+³   ÃÄÄÄ2026-07-03- ŸªŸ©-ê¬¢çì
+³   ³       index.html
+³   ³       
+³   ÃÄÄÄ2026-07-03- ŸªŸ©-ëç§?
+³   ³       index.html
+³   ³       
+³   ÃÄÄÄ2026-07-03-¬©?¢-?ëë§?Ÿë- ŸªŸ©
+³   ³       index.html
+³   ³       
+³   ÃÄÄÄ2026-07-03-ç?ê¢-ìŸ-?áí©-¢ä??©-ê?-?ëë§
+³   ³       index.html
+³   ³       
+³   ÃÄÄÄ6-0- ŸªŸ©-ëç§?-??«¢
+³   ³       index.html
+³   ³       
+³   ÃÄÄÄauthors
+³   ³       index.html
+³   ³       index.xml
+³   ³       
+³   ÃÄÄÄcategories
+³   ³   ³   index.html
+³   ³   ³   index.xml
+³   ³   ³   
+³   ³   ÃÄÄÄbasic
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄconfrance
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄindicator
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄintermediate
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄopen-access
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄtehran-stock
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸë§??Ÿ¢í©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ í©«-¢ì©Ÿë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ§«¢©«?-™ªŸ§
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêåŸì?ê-?Ÿ?ì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÀÄÄÄ??¬-?Ÿ?
+³   ³       ³   index.html
+³   ³       ³   index.xml
+³   ³       ³   
+³   ³       ÀÄÄÄpage
+³   ³           ÀÄÄÄ1
+³   ³                   index.html
+³   ³                   
+³   ÃÄÄÄcss
+³   ³       main.bundle.min.0ab84fa8b55219e7480abb504fb80ca7ac26f3a7ff1e880554c5000719130c7c3cfb1167ac64b1ec9f3efa757c8eeed10f44a2e7def17c6f2c2019ce5da7a7b4.css
+³   ³       main.bundle.min.724d99e2a9cf933fcdc7bd8f83e51a963414a23f2161231637a641f8790db8ce9393e4eed5d87f15d1656bab3e156233e3405c4f6f325b100ed86a4bb0488bff.css
+³   ³       main.bundle.min.cd738d4cc92b5de1a183d139419bb60edf8b749d3dcf6cc8a3eb70df0b19e54e8b2a65bc48e262b0667993fb1fc4ffa1a724ee82012f484757af8bd0288683a7.css
+³   ³       main.bundle.min.ea6864de425850af6f700fc4bdcbd1838978f6b32bbc3fa382bec6bceac0f7920384783f85d06b6d047e7cbd3469b024b5790f423d01e437c99b86c4acc28c87.css
+³   ³       main.bundle.min.eb306a09a6bda149cd59cca40a6030f28db5bcbe381ff1e75c10ff093b75ee2e111609b629920f1a7d4456a411f173b4cde899dc86bba87d2c12697d2170a273.css
+³   ³       main.bundle.min.f691e773f299cddb6bbb1e1273e281be1ae341fd5b4df1311d6ced9af57d320be067fb04fa273f21726bcc5c6225d1c700ac9cf1d26a7e380dfecd590574eec6.css
+³   ³       
+³   ÃÄÄÄen
+³   ³   ³   404.html
+³   ³   ³   index.html
+³   ³   ³   index.json
+³   ³   ³   index.xml
+³   ³   ³   sitemap.xml
+³   ³   ³   
+³   ³   ÃÄÄÄauthors
+³   ³   ³       index.html
+³   ³   ³       index.xml
+³   ³   ³       
+³   ³   ÃÄÄÄcategories
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÃÄÄÄbasic
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄbasic-concepts
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄconfrance
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄindicator
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄintermediate
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄopen-access
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄpreprint
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÀÄÄÄtehran-stock
+³   ³   ³       ³   index.html
+³   ³   ³       ³   index.xml
+³   ³   ³       ³   
+³   ³   ³       ÀÄÄÄpage
+³   ³   ³           ÀÄÄÄ1
+³   ³   ³                   index.html
+³   ³   ³                   
+³   ³   ÃÄÄÄourteam
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÃÄÄÄauthor
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄcollaboration
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄcountheshmat
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄhelp
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÀÄÄÄquantistan
+³   ³   ³           index.html
+³   ³   ³           
+³   ³   ÃÄÄÄpage
+³   ³   ³   ÀÄÄÄ1
+³   ³   ³           index.html
+³   ³   ³           
+³   ³   ÃÄÄÄprojects
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÃÄÄÄpage
+³   ³   ³   ³   ÀÄÄÄ1
+³   ³   ³   ³           index.html
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄrisk-aware-portfolio-management-tehran-stock-exchange
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÀÄÄÄtickvol
+³   ³   ³           index.html
+³   ³   ³           
+³   ³   ÃÄÄÄpublications
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÃÄÄÄcross-market-forecasting-iranian-refinery-stocks
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄcross-market-forecasting-of-iranian-refinery-stocks
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄmulticriteria-decision-making-tehran-stock-portfolios
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄpage
+³   ³   ³   ³   ÀÄÄÄ1
+³   ³   ³   ³           index.html
+³   ³   ³   ³           
+³   ³   ³   ÀÄÄÄrisk-aware-portfolio-management-tehran-stock-exchange
+³   ³   ³           index.html
+³   ³   ³           
+³   ³   ÃÄÄÄseries
+³   ³   ³       index.html
+³   ³   ³       index.xml
+³   ³   ³       
+³   ³   ÃÄÄÄtags
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÃÄÄÄalgorithmic-trading
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄartificial-intelligence
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄcommodities
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄcryptocurrencies
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄdata-driven-strategies
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄdecision-support-systems
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄderivative-market
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄderivatives-market
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄetf
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄetfs
+³   ³   ³   ³       index.html
+³   ³   ³   ³       index.xml
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄevidence-based-decision-making
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄfinancial-markets
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄfinancial-markets---tradable-assets---risk-management---derivatives-market
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄfinancial-modeling
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄforex
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄfutures
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄgenetic-algorithm
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄhuman-supervision
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄindicator
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmachine-learning
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmanual-trading
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmarket-analysis
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmicroeconomics
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmql5
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄoptions
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄportfolio-management
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄprice-changes
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄpricing
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄproductivity
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄquantistan
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄquantitative-finance
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄreal-asset
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄrisk-management
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄspot-market
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄspot-transactions
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄstocks
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄsupply-and-demand
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtehran-stock-exchange
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtick-volume
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtradable-assets
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtrading-automation
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtrading-indicators
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtrading-opportunities
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtrading-strategy
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtypes-of-financial-markets
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄŸ©ª-§?¤?¢Ÿé
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄŸ«¢©Ÿ¢??-êãŸêéŸ¢?
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄŸëíŸã- ŸªŸ©-ìŸ?-êŸé?
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄ ŸªŸ©-ê¬ç¢ì
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄ ŸªŸ©-ëç§?
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄ ŸªŸ©-ìŸ?-êŸé?
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄ ŸªŸ©ìŸ?-êŸé?
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄ í©«
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄ¢¥é?é- ŸªŸ©
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄ§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄ§Ÿ©Ÿ??-íŸçã?
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄ«ìŸê
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄ¬©?¢?ëë§?Ÿë- ŸªŸ©
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄê¢Ÿ¢©?§©-5
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄê§?©?¢-©?«?
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄêãŸêéŸ¢-Ÿé?í©?¢ê?
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÀÄÄÄêãŸêéŸ¢-ëç§?
+³   ³   ³       ³   index.html
+³   ³   ³       ³   index.xml
+³   ³   ³       ³   
+³   ³   ³       ÀÄÄÄpage
+³   ³   ³           ÀÄÄÄ1
+³   ³   ³                   index.html
+³   ³   ³                   
+³   ³   ÀÄÄÄtutorials
+³   ³       ³   index.html
+³   ³       ³   index.xml
+³   ³       ³   
+³   ³       ÃÄÄÄlevel0-trade
+³   ³       ³   ³   index.html
+³   ³       ³   ³   index.xml
+³   ³       ³   ³   
+³   ³       ³   ÃÄÄÄ0-2-financial-market
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-3-tradable-assets
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-3-§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-4-market-participants
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-6-spot-market
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-7-derivatives-market
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-9-options-contract
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ1-0-trade
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ1-what-is-trade
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ2-what-is-financaial-market
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ2-what-is-financial-market
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ5-0-prices-change
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ5-how-price-move
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ6-0-what-is-the-spot-market
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ6-0- ŸªŸ©-ëç§?-??«¢
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ8-0-futures-contracts
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ8-futures-market
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ9-0-options-contracts
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ9-options
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄpage
+³   ³       ³   ³   ÀÄÄÄ1
+³   ³       ³   ³           index.html
+³   ³       ³   ³           
+³   ³       ³   ÃÄÄÄ ŸªŸ©-ê¬¢çì
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÀÄÄÄ¬©?¢?ëë§?Ÿë- ŸªŸ©
+³   ³       ³           index.html
+³   ³       ³           
+³   ³       ÃÄÄÄlevel1-basic
+³   ³       ³   ³   index.html
+³   ³       ³   ³   index.xml
+³   ³       ³   ³   
+³   ³       ³   ÃÄÄÄ1-1-algorithmic-trading
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ1-2-quantitative-finance
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ1-3-decision-support-systems
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ1-what-is-algo-trade
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ2-what-is-quant-trade
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ3-what-is-dss
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÀÄÄÄpage
+³   ³       ³       ÀÄÄÄ1
+³   ³       ³               index.html
+³   ³       ³               
+³   ³       ÀÄÄÄlevel2
+³   ³           ³   index.html
+³   ³           ³   index.xml
+³   ³           ³   
+³   ³           ÀÄÄÄpage
+³   ³               ÀÄÄÄ1
+³   ³                       index.html
+³   ³                       
+³   ÃÄÄÄfa
+³   ³       index.html
+³   ³       sitemap.xml
+³   ³       
+³   ÃÄÄÄfonts
+³   ³       BNazanin.ttf
+³   ³       BNaznnBd.ttf
+³   ³       times.ttf
+³   ³       timesbd.ttf
+³   ³       
+³   ÃÄÄÄimages
+³   ³   ³   background_dark.jpg
+³   ³   ³   background_light.jpg
+³   ³   ³   
+³   ³   ÃÄÄÄshowcase
+³   ³   ³       projectsDark.png
+³   ³   ³       projectsLight.png
+³   ³   ³       publicationsDark.png
+³   ³   ³       publicationsLight.png
+³   ³   ³       tutorialsDark.png
+³   ³   ³       tutorialsLight.png
+³   ³   ³       
+³   ³   ÀÄÄÄteam
+³   ³           chatgpt.png
+³   ³           deepseek.png
+³   ³           gemini.png
+³   ³           grok.png
+³   ³           heshmat.png
+³   ³           logo.png
+³   ³           mahdi.png
+³   ³           notebooklm.png
+³   ³           queen.png
+³   ³           
+³   ÃÄÄÄjs
+³   ³       appearance.min.6f41174b3a05b680820fe08cadbfa5fb7a7ca347b76a0955cdc68b9d8aca1ce24f0547e138cea33bcc7904d551a90afcb1cc7f2d9fe8557075d501419046c08c.js
+³   ³       background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js
+³   ³       main.bundle.min.c17960bacc83501638704e4f974349107704a0d880885cb62828252318a4bb6695a5ff2dc162709a611c689ff43598268840cb1ad2d53fe3576111c60d0d1953.js
+³   ³       
+³   ÃÄÄÄlib
+³   ³   ÀÄÄÄzoom
+³   ³           zoom.min.umd.b4b722fcb5d42f34f52b30a92f3521b69f403ca9d96d0d6179eb537cb870f5d83fdf1fe836688d95d5c99fefbda4170487711006e56051fa67ea00da10521721.js
+³   ³           
+³   ÃÄÄÄourteam
+³   ³   ³   index.html
+³   ³   ³   index.xml
+³   ³   ³   
+³   ³   ÃÄÄÄauthor
+³   ³   ³       index.html
+³   ³   ³       profile.png
+³   ³   ³       
+³   ³   ÃÄÄÄcollaboration
+³   ³   ³       index.html
+³   ³   ³       profile.png
+³   ³   ³       
+³   ³   ÃÄÄÄcountheshmat
+³   ³   ³       index.html
+³   ³   ³       Screenshot1.jpg
+³   ³   ³       Screenshot1_hu_4108d782513e170.jpg
+³   ³   ³       Screenshot1_hu_c55c44e4ca1c6cd8.jpg
+³   ³   ³       Screenshot2.jpg
+³   ³   ³       Screenshot2_hu_98e74ef2b488d09c.jpg
+³   ³   ³       Screenshot2_hu_f1caf208d771aa22.jpg
+³   ³   ³       Screenshot3.jpg
+³   ³   ³       Screenshot3_hu_279d6844e1f61b00.jpg
+³   ³   ³       Screenshot3_hu_d3f1408d89a9a340.jpg
+³   ³   ³       Screenshot4.jpg
+³   ³   ³       Screenshot4_hu_17dbe50c7c8a3703.jpg
+³   ³   ³       Screenshot4_hu_2efb3cdc937e27ab.jpg
+³   ³   ³       Screenshot5.jpg
+³   ³   ³       Screenshot5_hu_4b2e55f95622657e.jpg
+³   ³   ³       Screenshot5_hu_de19f69492159f4b.jpg
+³   ³   ³       Screenshot6.jpg
+³   ³   ³       Screenshot6_hu_2fc8868fbfa7275b.jpg
+³   ³   ³       Screenshot6_hu_c64b072e9ae7a750.jpg
+³   ³   ³       
+³   ³   ÃÄÄÄhelp
+³   ³   ³       index.html
+³   ³   ³       
+³   ³   ÀÄÄÄquantistan
+³   ³           index.html
+³   ³           
+³   ÃÄÄÄpage
+³   ³   ÀÄÄÄ1
+³   ³           index.html
+³   ³           
+³   ÃÄÄÄprojects
+³   ³   ³   index.html
+³   ³   ³   index.xml
+³   ³   ³   
+³   ³   ÃÄÄÄpage
+³   ³   ³   ÀÄÄÄ1
+³   ³   ³           index.html
+³   ³   ³           
+³   ³   ÃÄÄÄrisk-aware-portfolio-management-tehran-stock-exchange
+³   ³   ³       index.html
+³   ³   ³       Screenshot1.jpg
+³   ³   ³       Screenshot1_hu_6eec958426fdc31a.jpg
+³   ³   ³       Screenshot1_hu_c7ac687041f6748a.jpg
+³   ³   ³       
+³   ³   ÀÄÄÄtickvol
+³   ³           index.html
+³   ³           Screenshot1.jpg
+³   ³           Screenshot1_hu_6eec958426fdc31a.jpg
+³   ³           Screenshot1_hu_c7ac687041f6748a.jpg
+³   ³           
+³   ÃÄÄÄpublications
+³   ³   ³   index.html
+³   ³   ³   index.xml
+³   ³   ³   
+³   ³   ÃÄÄÄ20260626
+³   ³   ³       index.html
+³   ³   ³       
+³   ³   ÃÄÄÄpage
+³   ³   ³   ÀÄÄÄ1
+³   ³   ³           index.html
+³   ³   ³           
+³   ³   ÃÄÄÄrisk-aware-portfolio-management-tehran-stock-exchange
+³   ³   ³       index.html
+³   ³   ³       
+³   ³   ÃÄÄÄ¢­ê?ê??©?-?ë§êã?Ÿ©ì- ©Ÿ?-« §-«ìŸê- í©«-¢ì©Ÿë
+³   ³   ³       index.html
+³   ³   ³       
+³   ³   ÃÄÄÄê§?©?¢-?©¢åí?-ê ¢ë?- ©-©?«?-§©- í©«-Ÿí©Ÿç- ìŸ§Ÿ©-¢ì©Ÿë
+³   ³   ³       index.html
+³   ³   ³       
+³   ³   ÃÄÄÄ??¬ ?ë?-å©Ÿ ŸªŸ©?-«ìŸê-?ŸéŸ?¬?Ÿì?-Ÿ?©Ÿë
+³   ³   ³       index.html
+³   ³   ³       
+³   ³   ÀÄÄÄ??¬ ?ë?-å©Ÿ ŸªŸ©?-«ìŸê-?ŸéŸ?¬?Ÿì?-§©- í©«-¢ì©Ÿë
+³   ³           index.html
+³   ³           
+³   ÃÄÄÄseries
+³   ³       index.html
+³   ³       index.xml
+³   ³       
+³   ÃÄÄÄtags
+³   ³   ³   index.html
+³   ³   ³   index.xml
+³   ³   ³   
+³   ³   ÃÄÄÄfinancial-markets
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄmachine-learning
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄmql5
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸ©ª-§?¤?¢Ÿé
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸ«¢©Ÿ¢??-êãŸêéŸ¢?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸ«¢©Ÿ¢??ìŸ?-§Ÿ§ìê¥í©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸ«¢©Ÿ¢??ìŸ?-ê ¢ë?- ©-§Ÿ§ì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸ«¢©Ÿ¢??ìŸ?-êãŸêéŸ¢?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸç¢­Ÿ§-¦©§
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸé?í©?¢ê-?ë¢??
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸêí©-êŸé?-?ê?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸë§??Ÿ¢í©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸë§??Ÿ¢í©ìŸ?-êãŸêéŸ¢?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸëíŸã- ŸªŸ©-ìŸ?-êŸé?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ŸªŸ©-ê¬¢çì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ŸªŸ©-ê¬ç¢ì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ŸªŸ©-ëç§?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ŸªŸ©-ìŸ?-êŸé?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ŸªŸ©ìŸ?-êŸé?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ŸªŸ©ìŸ?-êŸé?---§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì---ê§?©?¢-©?«?--- ŸªŸ©-ê¬¢çì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ì©ìí©?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ í©«
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ í©«-Ÿí©Ÿç- ìŸ§Ÿ©-¢ì©Ÿë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¢¥é?é- ŸªŸ©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¢©?§
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¢­ê?êŸ¢-«©êŸ?ì?¨Ÿ©?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¢­ê?ê??©?-ê ¢ë?- ©-¬íŸì§
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¢ä??©-ç?ê¢
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¢??-íŸé?íê
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¥¤ê
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ§Ÿ©Ÿ??-íŸçã?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ©í¬ìŸ?-™êŸ©?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ«ìŸê
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ«?«¢ê-êãŸêéŸ¢?-ê ¢ë?- ©-çŸëíë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ«?«¢êìŸ?-?¬¢? Ÿë-¢­ê?ê??©?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ«?«¢êìŸ?-?¬¢? Ÿë?-¢­ê?ê??©?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¬©?¢?ëë§?Ÿë- ŸªŸ©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄã©àì-í-¢çŸàŸ
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄå©­¢ìŸ?-êãŸêéŸ¢?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄç©Ÿ©§Ÿ§ìŸ?-™¢?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄç©Ÿ©§Ÿ§ìŸ?-Ÿ¦¢?Ÿ©-êãŸêéì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄç?ê¢-?¨Ÿ©?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêŸé?-?ê?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄê¢Ÿ¢©?§©-5
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄê§é«Ÿª?-êŸé?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄê§?©?¢-©?«?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄê§?©?¢-« §-«ìŸê
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄê§?©?¢-?©¢åí?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêãŸêéŸ¢-Ÿé?í©?¢ê?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêãŸêéŸ¢-§«¢?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêãŸêéŸ¢-ëç§?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêãŸêéŸ¢-?ê?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄìí¬-ê­ëíã?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ?ë¢©é-Ÿë«Ÿë?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ?íŸë¢«¢Ÿë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÀÄÄÄ?Ÿ§??©?-êŸ¬?ë
+³   ³       ³   index.html
+³   ³       ³   index.xml
+³   ³       ³   
+³   ³       ÀÄÄÄpage
+³   ³           ÀÄÄÄ1
+³   ³                   index.html
+³   ³                   
+³   ÃÄÄÄtutorials
+³   ³   ³   index.html
+³   ³   ³   index.xml
+³   ³   ³   
+³   ³   ÃÄÄÄlevel0-trade
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÃÄÄÄ0-3-§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ1-0-¢©?§-?ãë?-??
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ1-what-is-trade
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ2-0- ŸªŸ©-êŸé?-??«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ2-what-is-financaial-market
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄ2026-07-03-2-0-- ŸªŸ©-êŸé?-??«¢
+³   ³   ³   ³           index.html
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄ3-tradable-assets
+³   ³   ³   ³   ÀÄÄÄ0-3-§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì
+³   ³   ³   ³           index.html
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄ4-market-players
+³   ³   ³   ³   ÀÄÄÄ¬©?¢?ëë§?Ÿë- ŸªŸ©
+³   ³   ³   ³           index.html
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄ5-0-ç?ê¢-ìŸ-?áí©-¢ä??©-ê?-?ëë§
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ5-how-price-move
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄ2026-07-03-ç?ê¢-ìŸ-?áí©-¢ä??©-ê?-?ëë§
+³   ³   ³   ³           index.html
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄ6-0- ŸªŸ©-ëç§?-??«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ6-spot-market
+³   ³   ³   ³   ÀÄÄÄ6-0- ŸªŸ©-ëç§?-??«¢
+³   ³   ³   ³           index.html
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄ7-0- ŸªŸ©-ê¬¢çì-??«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ7-drivative-market
+³   ³   ³   ³   ÀÄÄÄ ŸªŸ©-ê¬¢çì
+³   ³   ³   ³           index.html
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄ8-0-ç©Ÿ©§Ÿ§ìŸ?-™¢?
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ8-futures-market
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄ2026-07-03-8-0-- ŸªŸ©-ç©Ÿ©-§Ÿ§-ìŸ?-Ÿ?¢?
+³   ³   ³   ³           index.html
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄ9-0-ç©Ÿ©§Ÿ§ìŸ?-Ÿ¦¢?Ÿ©-êãŸêéì
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ9-options
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄ2026-07-03-Ÿ¦¢?Ÿ©
+³   ³   ³   ³           index.html
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄpage
+³   ³   ³   ³   ÀÄÄÄ1
+³   ³   ³   ³           index.html
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄ ŸªŸ©-ê¬¢çì
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÀÄÄÄ¬©?¢?ëë§?Ÿë- ŸªŸ©
+³   ³   ³           index.html
+³   ³   ³           
+³   ³   ÃÄÄÄlevel1-basic
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÃÄÄÄ1-1-êãŸêéŸ¢-Ÿé?í©?¢ê?-??«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ1-what-is-algo-trade
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ2-1-êãŸêéŸ¢-?ê?-??«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ2-what-is-quant-trade
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ3-1-«?«¢ê-ìŸ?-?¬¢? Ÿë-¢­ê?ê-??©?-??-ì«¢ë§
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ3-what-is-dss
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÀÄÄÄlevel2
+³   ³       ³   index.html
+³   ³       ³   index.xml
+³   ³       ³   
+³   ³       ÀÄÄÄpage
+³   ³           ÀÄÄÄ1
+³   ³                   index.html
+³   ³                   
+³   ÃÄÄÄ ŸªŸ©-ê¬¢çì
+³   ³       index.html
+³   ³       
+³   ÀÄÄÄ¬©?¢?ëë§?Ÿë- ŸªŸ©
+³           index.html
+³           
+ÃÄÄÄresources
+³   ÀÄÄÄ_gen
+³       ÀÄÄÄimages
+³           ³   profile_hu_a16e6a0b5c25378c.jpg
+³           ³   profile_hu_be920ece0f753532.jpg
+³           ³   
+³           ÃÄÄÄfa
+³           ³   ÀÄÄÄourteam
+³           ³       ÀÄÄÄcountheshmat
+³           ³               Screenshot1_hu_4108d782513e170.jpg
+³           ³               Screenshot1_hu_c55c44e4ca1c6cd8.jpg
+³           ³               Screenshot2_hu_98e74ef2b488d09c.jpg
+³           ³               Screenshot2_hu_f1caf208d771aa22.jpg
+³           ³               Screenshot3_hu_279d6844e1f61b00.jpg
+³           ³               Screenshot3_hu_9baf0f787a57826e.jpg
+³           ³               Screenshot3_hu_be02f49125813824.jpg
+³           ³               Screenshot3_hu_d3f1408d89a9a340.jpg
+³           ³               Screenshot4_hu_17dbe50c7c8a3703.jpg
+³           ³               Screenshot4_hu_2efb3cdc937e27ab.jpg
+³           ³               Screenshot5_hu_4b2e55f95622657e.jpg
+³           ³               Screenshot5_hu_de19f69492159f4b.jpg
+³           ³               Screenshot6_hu_2fc8868fbfa7275b.jpg
+³           ³               Screenshot6_hu_c64b072e9ae7a750.jpg
+³           ³               
+³           ÃÄÄÄourteam
+³           ³   ÀÄÄÄcountheshmat
+³           ³           Screenshot1_hu_4108d782513e170.jpg
+³           ³           Screenshot1_hu_c55c44e4ca1c6cd8.jpg
+³           ³           Screenshot2_hu_98e74ef2b488d09c.jpg
+³           ³           Screenshot2_hu_f1caf208d771aa22.jpg
+³           ³           Screenshot3_hu_279d6844e1f61b00.jpg
+³           ³           Screenshot3_hu_d3f1408d89a9a340.jpg
+³           ³           Screenshot4_hu_17dbe50c7c8a3703.jpg
+³           ³           Screenshot4_hu_2efb3cdc937e27ab.jpg
+³           ³           Screenshot5_hu_4b2e55f95622657e.jpg
+³           ³           Screenshot5_hu_de19f69492159f4b.jpg
+³           ³           Screenshot6_hu_2fc8868fbfa7275b.jpg
+³           ³           Screenshot6_hu_c64b072e9ae7a750.jpg
+³           ³           
+³           ÀÄÄÄprojects
+³               ÃÄÄÄrisk-aware-portfolio-management-tehran-stock-exchange
+³               ³       Screenshot1_hu_6eec958426fdc31a.jpg
+³               ³       Screenshot1_hu_c7ac687041f6748a.jpg
+³               ³       
+³               ÀÄÄÄtickvol
+³                       Screenshot1_hu_6eec958426fdc31a.jpg
+³                       Screenshot1_hu_c7ac687041f6748a.jpg
+³                       
+ÃÄÄÄstatic
+³   ³   baner_dark_en.png
+³   ³   baner_dark_fa.png
+³   ³   baner_light_en.png
+³   ³   baner_light_fa.png
+³   ³   _redirects
+³   ³   
+³   ÃÄÄÄfonts
+³   ³       BNazanin.ttf
+³   ³       BNaznnBd.ttf
+³   ³       times.ttf
+³   ³       timesbd.ttf
+³   ³       
+³   ÀÄÄÄimages
+³       ³   background_dark.jpg
+³       ³   background_light.jpg
+³       ³   
+³       ÃÄÄÄshowcase
+³       ³       projectsDark.png
+³       ³       projectsLight.png
+³       ³       publicationsDark.png
+³       ³       publicationsLight.png
+³       ³       tutorialsDark.png
+³       ³       tutorialsLight.png
+³       ³       
+³       ÀÄÄÄteam
+³               chatgpt.png
+³               deepseek.png
+³               gemini.png
+³               grok.png
+³               heshmat.png
+³               logo.png
+³               mahdi.png
+³               notebooklm.png
+³               queen.png
+³               
+ÀÄÄÄthemes
+    ÀÄÄÄblowfish
+        ³   .editorconfig
+        ³   .gitignore
+        ³   .prettierignore
+        ³   .prettierrc
+        ³   blowfish_logo.png
+        ³   CODE_OF_CONDUCT.md
+        ³   config.toml
+        ³   CONTRIBUTING.md
+        ³   findMissingTranslations.js
+        ³   FUNDING.yml
+        ³   genArticle.js
+        ³   genLang.js
+        ³   genLangLinks.js
+        ³   go.mod
+        ³   LICENSE
+        ³   lighthouserc.js
+        ³   logo.png
+        ³   netlify.toml
+        ³   package-lock.json
+        ³   package.json
+        ³   processUsers.js
+        ³   README.de.md
+        ³   README.es.md
+        ³   README.fr.md
+        ³   README.id.md
+        ³   README.ja.md
+        ³   README.md
+        ³   README.pt-br.md
+        ³   README.pt-pt.md
+        ³   README.zh-cn.md
+        ³   tailwind.config.js
+        ³   theme.toml
+        ³   update-github-data.sh
+        ³   
+        ÃÄÄÄ.github
+        ³   ³   CODEOWNERS
+        ³   ³   dependabot.yml
+        ³   ³   
+        ³   ÃÄÄÄISSUE_TEMPLATE
+        ³   ³       01-bug-report.yml
+        ³   ³       02-feature-request.yml
+        ³   ³       config.yml
+        ³   ³       
+        ³   ÃÄÄÄPULL_REQUEST_TEMPLATE
+        ³   ³       pull_request_template.md
+        ³   ³       
+        ³   ÀÄÄÄworkflows
+        ³           build.yml
+        ³           create-config-zip.yml
+        ³           greetings.yml
+        ³           hugo-version-update.yml
+        ³           pages.yml
+        ³           stale.yml
+        ³           test.yml
+        ³           
+        ÃÄÄÄ.vscode
+        ³       blowfish.code-snippets
+        ³       codesnippets-doc.md
+        ³       textmate-code-snippets.md
+        ³       
+        ÃÄÄÄ.watchfire
+        ³   ³   project.yaml
+        ³   ³   
+        ³   ÀÄÄÄsecrets
+        ³           instructions.md
+        ³           
+        ÃÄÄÄarchetypes
+        ³       default.md
+        ³       external.md
+        ³       
+        ÃÄÄÄassets
+        ³   ÃÄÄÄcss
+        ³   ³   ³   main.css
+        ³   ³   ³   
+        ³   ³   ÃÄÄÄcompiled
+        ³   ³   ³       main.css
+        ³   ³   ³       
+        ³   ³   ÃÄÄÄcomponents
+        ³   ³   ³       a11y.css
+        ³   ³   ³       admonition.css
+        ³   ³   ³       carousel.css
+        ³   ³   ³       chroma.css
+        ³   ³   ³       gallery.css
+        ³   ³   ³       gist.css
+        ³   ³   ³       tabs.css
+        ³   ³   ³       zen-mode.css
+        ³   ³   ³       
+        ³   ³   ÀÄÄÄschemes
+        ³   ³           autumn.css
+        ³   ³           avocado.css
+        ³   ³           bloody.css
+        ³   ³           blowfish.css
+        ³   ³           congo.css
+        ³   ³           fire.css
+        ³   ³           forest.css
+        ³   ³           github.css
+        ³   ³           marvel.css
+        ³   ³           neon.css
+        ³   ³           noir.css
+        ³   ³           ocean.css
+        ³   ³           one-light.css
+        ³   ³           princess.css
+        ³   ³           slate.css
+        ³   ³           terminal.css
+        ³   ³           
+        ³   ÃÄÄÄicons
+        ³   ³       a11y.svg
+        ³   ³       amazon.svg
+        ³   ³       ansible.svg
+        ³   ³       apple.svg
+        ³   ³       bars.svg
+        ³   ³       bell.svg
+        ³   ³       blogger.svg
+        ³   ³       bluesky.svg
+        ³   ³       bomb.svg
+        ³   ³       bug.svg
+        ³   ³       check.svg
+        ³   ³       chevron-down.svg
+        ³   ³       circle-info.svg
+        ³   ³       circle-question.svg
+        ³   ³       cloud-moon.svg
+        ³   ³       cloud.svg
+        ³   ³       code.svg
+        ³   ³       codeberg.svg
+        ³   ³       codepen.svg
+        ³   ³       comment.svg
+        ³   ³       dev.svg
+        ³   ³       discord.svg
+        ³   ³       discourse.svg
+        ³   ³       docker.svg
+        ³   ³       download.svg
+        ³   ³       dribbble.svg
+        ³   ³       edit.svg
+        ³   ³       email.svg
+        ³   ³       envelope.svg
+        ³   ³       expand.svg
+        ³   ³       eye.svg
+        ³   ³       facebook.svg
+        ³   ³       fediverse.svg
+        ³   ³       file-lines.svg
+        ³   ³       fire.svg
+        ³   ³       flickr.svg
+        ³   ³       forgejo.svg
+        ³   ³       fork.svg
+        ³   ³       foursquare.svg
+        ³   ³       ghost.svg
+        ³   ³       gitea.svg
+        ³   ³       github.svg
+        ³   ³       gitlab.svg
+        ³   ³       globe.svg
+        ³   ³       goodreads.svg
+        ³   ³       google-scholar.svg
+        ³   ³       google.svg
+        ³   ³       graduation-cap.svg
+        ³   ³       hackernews.svg
+        ³   ³       hashnode.svg
+        ³   ³       heart-empty.svg
+        ³   ³       heart.svg
+        ³   ³       image.svg
+        ³   ³       instagram.svg
+        ³   ³       itch-io.svg
+        ³   ³       keybase.svg
+        ³   ³       keyoxide.svg
+        ³   ³       kickstarter.svg
+        ³   ³       ko-fi.svg
+        ³   ³       language.svg
+        ³   ³       lastfm.svg
+        ³   ³       lightbulb.svg
+        ³   ³       line.svg
+        ³   ³       link.svg
+        ³   ³       linkedin.svg
+        ³   ³       list-check.svg
+        ³   ³       list-ol.svg
+        ³   ³       list.svg
+        ³   ³       location-dot.svg
+        ³   ³       lock.svg
+        ³   ³       mastodon.svg
+        ³   ³       matrix.svg
+        ³   ³       medium.svg
+        ³   ³       microsoft.svg
+        ³   ³       moon.svg
+        ³   ³       mug-hot.svg
+        ³   ³       music.svg
+        ³   ³       orcid.svg
+        ³   ³       patreon.svg
+        ³   ³       paypal.svg
+        ³   ³       peertube.svg
+        ³   ³       pencil.svg
+        ³   ³       pgpkey.svg
+        ³   ³       phone.svg
+        ³   ³       pinterest.svg
+        ³   ³       pixelfed.svg
+        ³   ³       poo.svg
+        ³   ³       printables.svg
+        ³   ³       quote-left.svg
+        ³   ³       reddit.svg
+        ³   ³       researchgate.svg
+        ³   ³       rss-square.svg
+        ³   ³       rss.svg
+        ³   ³       scale-balanced.svg
+        ³   ³       search.svg
+        ³   ³       shield.svg
+        ³   ³       signal.svg
+        ³   ³       skull-crossbones.svg
+        ³   ³       slack.svg
+        ³   ³       snapchat.svg
+        ³   ³       soundcloud.svg
+        ³   ³       spotify.svg
+        ³   ³       stack-overflow.svg
+        ³   ³       star.svg
+        ³   ³       steam.svg
+        ³   ³       strava.svg
+        ³   ³       stripe.svg
+        ³   ³       substack.svg
+        ³   ³       sun.svg
+        ³   ³       tag.svg
+        ³   ³       telegram.svg
+        ³   ³       threads.svg
+        ³   ³       tiktok.svg
+        ³   ³       triangle-exclamation.svg
+        ³   ³       tumblr.svg
+        ³   ³       twitch.svg
+        ³   ³       twitter.svg
+        ³   ³       untappd.svg
+        ³   ³       wand-magic-sparkles.svg
+        ³   ³       whatsapp.svg
+        ³   ³       worktree.svg
+        ³   ³       x-twitter.svg
+        ³   ³       xing.svg
+        ³   ³       xmark.svg
+        ³   ³       youtube.svg
+        ³   ³       
+        ³   ÃÄÄÄimg
+        ³   ³       background.svg
+        ³   ³       blowfish_banner.png
+        ³   ³       blowfish_banner_transparent.png
+        ³   ³       blowfish_logo.png
+        ³   ³       blowfish_logo_transparent.png
+        ³   ³       featured.svg
+        ³   ³       fireflies.svg
+        ³   ³       lavalamp.svg
+        ³   ³       rain.svg
+        ³   ³       ripples.svg
+        ³   ³       traffic.svg
+        ³   ³       waves.svg
+        ³   ³       
+        ³   ÃÄÄÄjs
+        ³   ³   ³   a11y.js
+        ³   ³   ³   appearance.js
+        ³   ³   ³   background-blur.js
+        ³   ³   ³   chart.js
+        ³   ³   ³   code.js
+        ³   ³   ³   email.js
+        ³   ³   ³   fetch-repo.js
+        ³   ³   ³   firebase.js
+        ³   ³   ³   katex-render.js
+        ³   ³   ³   mermaid.js
+        ³   ³   ³   print-support.js
+        ³   ³   ³   rtl.js
+        ³   ³   ³   scroll-to-top.js
+        ³   ³   ³   search.js
+        ³   ³   ³   zen-mode.js
+        ³   ³   ³   
+        ³   ³   ÀÄÄÄshortcodes
+        ³   ³           gallery.js
+        ³   ³           tabs.js
+        ³   ³           
+        ³   ÀÄÄÄlib
+        ³       ÃÄÄÄchart
+        ³       ³       chart.min.js
+        ³       ³       
+        ³       ÃÄÄÄfuse
+        ³       ³       fuse.min.cjs
+        ³       ³       
+        ³       ÃÄÄÄkatex
+        ³       ³   ³   auto-render.min.js
+        ³       ³   ³   katex.min.css
+        ³       ³   ³   katex.min.js
+        ³       ³   ³   
+        ³       ³   ÀÄÄÄfonts
+        ³       ³           KaTeX_AMS-Regular.ttf
+        ³       ³           KaTeX_AMS-Regular.woff
+        ³       ³           KaTeX_AMS-Regular.woff2
+        ³       ³           KaTeX_Caligraphic-Bold.ttf
+        ³       ³           KaTeX_Caligraphic-Bold.woff
+        ³       ³           KaTeX_Caligraphic-Bold.woff2
+        ³       ³           KaTeX_Caligraphic-Regular.ttf
+        ³       ³           KaTeX_Caligraphic-Regular.woff
+        ³       ³           KaTeX_Caligraphic-Regular.woff2
+        ³       ³           KaTeX_Fraktur-Bold.ttf
+        ³       ³           KaTeX_Fraktur-Bold.woff
+        ³       ³           KaTeX_Fraktur-Bold.woff2
+        ³       ³           KaTeX_Fraktur-Regular.ttf
+        ³       ³           KaTeX_Fraktur-Regular.woff
+        ³       ³           KaTeX_Fraktur-Regular.woff2
+        ³       ³           KaTeX_Main-Bold.ttf
+        ³       ³           KaTeX_Main-Bold.woff
+        ³       ³           KaTeX_Main-Bold.woff2
+        ³       ³           KaTeX_Main-BoldItalic.ttf
+        ³       ³           KaTeX_Main-BoldItalic.woff
+        ³       ³           KaTeX_Main-BoldItalic.woff2
+        ³       ³           KaTeX_Main-Italic.ttf
+        ³       ³           KaTeX_Main-Italic.woff
+        ³       ³           KaTeX_Main-Italic.woff2
+        ³       ³           KaTeX_Main-Regular.ttf
+        ³       ³           KaTeX_Main-Regular.woff
+        ³       ³           KaTeX_Main-Regular.woff2
+        ³       ³           KaTeX_Math-BoldItalic.ttf
+        ³       ³           KaTeX_Math-BoldItalic.woff
+        ³       ³           KaTeX_Math-BoldItalic.woff2
+        ³       ³           KaTeX_Math-Italic.ttf
+        ³       ³           KaTeX_Math-Italic.woff
+        ³       ³           KaTeX_Math-Italic.woff2
+        ³       ³           KaTeX_SansSerif-Bold.ttf
+        ³       ³           KaTeX_SansSerif-Bold.woff
+        ³       ³           KaTeX_SansSerif-Bold.woff2
+        ³       ³           KaTeX_SansSerif-Italic.ttf
+        ³       ³           KaTeX_SansSerif-Italic.woff
+        ³       ³           KaTeX_SansSerif-Italic.woff2
+        ³       ³           KaTeX_SansSerif-Regular.ttf
+        ³       ³           KaTeX_SansSerif-Regular.woff
+        ³       ³           KaTeX_SansSerif-Regular.woff2
+        ³       ³           KaTeX_Script-Regular.ttf
+        ³       ³           KaTeX_Script-Regular.woff
+        ³       ³           KaTeX_Script-Regular.woff2
+        ³       ³           KaTeX_Size1-Regular.ttf
+        ³       ³           KaTeX_Size1-Regular.woff
+        ³       ³           KaTeX_Size1-Regular.woff2
+        ³       ³           KaTeX_Size2-Regular.ttf
+        ³       ³           KaTeX_Size2-Regular.woff
+        ³       ³           KaTeX_Size2-Regular.woff2
+        ³       ³           KaTeX_Size3-Regular.ttf
+        ³       ³           KaTeX_Size3-Regular.woff
+        ³       ³           KaTeX_Size3-Regular.woff2
+        ³       ³           KaTeX_Size4-Regular.ttf
+        ³       ³           KaTeX_Size4-Regular.woff
+        ³       ³           KaTeX_Size4-Regular.woff2
+        ³       ³           KaTeX_Typewriter-Regular.ttf
+        ³       ³           KaTeX_Typewriter-Regular.woff
+        ³       ³           KaTeX_Typewriter-Regular.woff2
+        ³       ³           
+        ³       ÃÄÄÄlite-youtube-embed
+        ³       ³       lite-yt-embed.css
+        ³       ³       lite-yt-embed.js
+        ³       ³       
+        ³       ÃÄÄÄmermaid
+        ³       ³       mermaid.min.js
+        ³       ³       
+        ³       ÃÄÄÄpackery
+        ³       ³       packery.pkgd.min.js
+        ³       ³       
+        ³       ÃÄÄÄtw-elements
+        ³       ³       index.min.js
+        ³       ³       
+        ³       ÃÄÄÄtypeit
+        ³       ³       typeit.umd.js
+        ³       ³       
+        ³       ÀÄÄÄzoom
+        ³               style.css
+        ³               zoom.min.umd.js
+        ³               
+        ÃÄÄÄconfig
+        ³   ÀÄÄÄ_default
+        ³           hugo.toml
+        ³           languages.en.toml
+        ³           markup.toml
+        ³           menus.en.toml
+        ³           module.toml
+        ³           params.toml
+        ³           
+        ÃÄÄÄdata
+        ³       contributors.json
+        ³       repoColors.json
+        ³       sharing.json
+        ³       sponsors.json
+        ³       
+        ÃÄÄÄexampleSite
+        ³   ³   .hugo_build.lock
+        ³   ³   
+        ³   ÃÄÄÄarchetypes
+        ³   ³       default.md
+        ³   ³       
+        ³   ÃÄÄÄassets
+        ³   ³   ÃÄÄÄimg
+        ³   ³   ³       author2.png
+        ³   ³   ³       bg.jpg
+        ³   ³   ³       blowfish.jpg
+        ³   ³   ³       iceland.jpg
+        ³   ³   ³       nuno_avatar.jpg
+        ³   ³   ³       ocean.jpg
+        ³   ³   ³       paint.png
+        ³   ³   ³       
+        ³   ³   ÀÄÄÄjs
+        ³   ³           home.js
+        ³   ³           
+        ³   ÃÄÄÄconfig
+        ³   ³   ÃÄÄÄdevelopment
+        ³   ³   ³       hugo.toml
+        ³   ³   ³       
+        ³   ³   ÀÄÄÄ_default
+        ³   ³           hugo.toml
+        ³   ³           languages.de.toml
+        ³   ³           languages.en.toml
+        ³   ³           languages.es.toml
+        ³   ³           languages.fr.toml
+        ³   ³           languages.it.toml
+        ³   ³           languages.ja.toml
+        ³   ³           languages.pt-br.toml
+        ³   ³           languages.pt-pt.toml
+        ³   ³           languages.zh-cn.toml
+        ³   ³           markup.toml
+        ³   ³           menus.de.toml
+        ³   ³           menus.en.toml
+        ³   ³           menus.es.toml
+        ³   ³           menus.fr.toml
+        ³   ³           menus.it.toml
+        ³   ³           menus.ja.toml
+        ³   ³           menus.pt-br.toml
+        ³   ³           menus.pt-pt.toml
+        ³   ³           menus.zh-cn.toml
+        ³   ³           params.toml
+        ³   ³           
+        ³   ÃÄÄÄcontent
+        ³   ³   ³   _index.de.md
+        ³   ³   ³   _index.es.md
+        ³   ³   ³   _index.fr.md
+        ³   ³   ³   _index.it.md
+        ³   ³   ³   _index.ja.md
+        ³   ³   ³   _index.md
+        ³   ³   ³   _index.pt-br.md
+        ³   ³   ³   _index.pt-pt.md
+        ³   ³   ³   _index.zh-cn.md
+        ³   ³   ³   
+        ³   ³   ÃÄÄÄauthors
+        ³   ³   ³   ³   _index.it.md
+        ³   ³   ³   ³   _index.ja.md
+        ³   ³   ³   ³   _index.md
+        ³   ³   ³   ³   _index.zh-cn.md
+        ³   ³   ³   ³   
+        ³   ³   ³   ÃÄÄÄnunocoracao
+        ³   ³   ³   ³       _index.de.md
+        ³   ³   ³   ³       _index.es.md
+        ³   ³   ³   ³       _index.fr.md
+        ³   ³   ³   ³       _index.it.md
+        ³   ³   ³   ³       _index.ja.md
+        ³   ³   ³   ³       _index.md
+        ³   ³   ³   ³       _index.pt-br.md
+        ³   ³   ³   ³       _index.pt-pt.md
+        ³   ³   ³   ³       _index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÀÄÄÄsecondauthor
+        ³   ³   ³           _index.de.md
+        ³   ³   ³           _index.es.md
+        ³   ³   ³           _index.fr.md
+        ³   ³   ³           _index.it.md
+        ³   ³   ³           _index.ja.md
+        ³   ³   ³           _index.md
+        ³   ³   ³           _index.pt-br.md
+        ³   ³   ³           _index.pt-pt.md
+        ³   ³   ³           _index.zh-cn.md
+        ³   ³   ³           
+        ³   ³   ÃÄÄÄdocs
+        ³   ³   ³   ³   _index.de.md
+        ³   ³   ³   ³   _index.es.md
+        ³   ³   ³   ³   _index.fr.md
+        ³   ³   ³   ³   _index.it.md
+        ³   ³   ³   ³   _index.ja.md
+        ³   ³   ³   ³   _index.md
+        ³   ³   ³   ³   _index.pt-br.md
+        ³   ³   ³   ³   _index.pt-pt.md
+        ³   ³   ³   ³   _index.zh-cn.md
+        ³   ³   ³   ³   
+        ³   ³   ³   ÃÄÄÄadvanced-customisation
+        ³   ³   ³   ³       background.svg
+        ³   ³   ³   ³       featured.svg
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄconfiguration
+        ³   ³   ³   ³       background.svg
+        ³   ³   ³   ³       featured.svg
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       old.svg
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄcontent-examples
+        ³   ³   ³   ³       background.svg
+        ³   ³   ³   ³       featured.svg
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄfirebase-views
+        ³   ³   ³   ³       background.svg
+        ³   ³   ³   ³       featured.svg
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄfront-matter
+        ³   ³   ³   ³       background.svg
+        ³   ³   ³   ³       featured.svg
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄgetting-started
+        ³   ³   ³   ³       background.svg
+        ³   ³   ³   ³       featured.svg
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       old.svg
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄhomepage-layout
+        ³   ³   ³   ³   ³   a.svg
+        ³   ³   ³   ³   ³   background.svg
+        ³   ³   ³   ³   ³   featured.svg
+        ³   ³   ³   ³   ³   index.de.md
+        ³   ³   ³   ³   ³   index.es.md
+        ³   ³   ³   ³   ³   index.fr.md
+        ³   ³   ³   ³   ³   index.it.md
+        ³   ³   ³   ³   ³   index.ja.md
+        ³   ³   ³   ³   ³   index.md
+        ³   ³   ³   ³   ³   index.pt-br.md
+        ³   ³   ³   ³   ³   index.pt-pt.md
+        ³   ³   ³   ³   ³   index.zh-cn.md
+        ³   ³   ³   ³   ³   old.svg
+        ³   ³   ³   ³   ³   
+        ³   ³   ³   ³   ÀÄÄÄimg
+        ³   ³   ³   ³           home-background.png
+        ³   ³   ³   ³           home-card.png
+        ³   ³   ³   ³           home-hero.png
+        ³   ³   ³   ³           home-list.png
+        ³   ³   ³   ³           home-page.png
+        ³   ³   ³   ³           home-profile.png
+        ³   ³   ³   ³           
+        ³   ³   ³   ÃÄÄÄhosting-deployment
+        ³   ³   ³   ³       background.svg
+        ³   ³   ³   ³       featured.svg
+        ³   ³   ³   ³       github-pages-source.jpg
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       netlify-build-settings.jpg
+        ³   ³   ³   ³       render-settings.jpg
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄinstallation
+        ³   ³   ³   ³       background.svg
+        ³   ³   ³   ³       featured.svg
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       old.svg
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄmulti-author
+        ³   ³   ³   ³       background.svg
+        ³   ³   ³   ³       featured.svg
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄpartials
+        ³   ³   ³   ³       background.svg
+        ³   ³   ³   ³       featured.svg
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄseries
+        ³   ³   ³   ³       background.svg
+        ³   ³   ³   ³       featured.svg
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄshortcodes
+        ³   ³   ³   ³   ³   abstract.jpg
+        ³   ³   ³   ³   ³   background.svg
+        ³   ³   ³   ³   ³   featured.svg
+        ³   ³   ³   ³   ³   index.de.md
+        ³   ³   ³   ³   ³   index.es.md
+        ³   ³   ³   ³   ³   index.fr.md
+        ³   ³   ³   ³   ³   index.it.md
+        ³   ³   ³   ³   ³   index.ja.md
+        ³   ³   ³   ³   ³   index.md
+        ³   ³   ³   ³   ³   index.pt-br.md
+        ³   ³   ³   ³   ³   index.pt-pt.md
+        ³   ³   ³   ³   ³   index.zh-cn.md
+        ³   ³   ³   ³   ³   old.svg
+        ³   ³   ³   ³   ³   
+        ³   ³   ³   ³   ÀÄÄÄgallery
+        ³   ³   ³   ³           01.jpg
+        ³   ³   ³   ³           02.jpg
+        ³   ³   ³   ³           03.jpg
+        ³   ³   ³   ³           04.jpg
+        ³   ³   ³   ³           05.jpg
+        ³   ³   ³   ³           06.jpg
+        ³   ³   ³   ³           07.jpg
+        ³   ³   ³   ³           
+        ³   ³   ³   ÃÄÄÄthumbnails
+        ³   ³   ³   ³       background.svg
+        ³   ³   ³   ³       featured.svg
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÀÄÄÄwelcome
+        ³   ³   ³           background.svg
+        ³   ³   ³           featured.svg
+        ³   ³   ³           image-resizing.png
+        ³   ³   ³           index.de.md
+        ³   ³   ³           index.es.md
+        ³   ³   ³           index.fr.md
+        ³   ³   ³           index.it.md
+        ³   ³   ³           index.ja.md
+        ³   ³   ³           index.md
+        ³   ³   ³           index.pt-br.md
+        ³   ³   ³           index.pt-pt.md
+        ³   ³   ³           index.zh-cn.md
+        ³   ³   ³           lighthouse.jpg
+        ³   ³   ³           old.svg
+        ³   ³   ³           
+        ³   ³   ÃÄÄÄexamples
+        ³   ³   ³   ³   _index.de.md
+        ³   ³   ³   ³   _index.es.md
+        ³   ³   ³   ³   _index.fr.md
+        ³   ³   ³   ³   _index.it.md
+        ³   ³   ³   ³   _index.ja.md
+        ³   ³   ³   ³   _index.md
+        ³   ³   ³   ³   _index.pt-br.md
+        ³   ³   ³   ³   _index.pt-pt.md
+        ³   ³   ³   ³   _index.zh-cn.md
+        ³   ³   ³   ³   
+        ³   ³   ³   ÃÄÄÄblowfish-artist
+        ³   ³   ³   ³       featured.jpg
+        ³   ³   ³   ³       _index.de.md
+        ³   ³   ³   ³       _index.es.md
+        ³   ³   ³   ³       _index.fr.md
+        ³   ³   ³   ³       _index.it.md
+        ³   ³   ³   ³       _index.ja.md
+        ³   ³   ³   ³       _index.md
+        ³   ³   ³   ³       _index.pt-br.md
+        ³   ³   ³   ³       _index.pt-pt.md
+        ³   ³   ³   ³       _index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄblowfish-lite
+        ³   ³   ³   ³       featured.jpg
+        ³   ³   ³   ³       _index.de.md
+        ³   ³   ³   ³       _index.es.md
+        ³   ³   ³   ³       _index.fr.md
+        ³   ³   ³   ³       _index.it.md
+        ³   ³   ³   ³       _index.ja.md
+        ³   ³   ³   ³       _index.md
+        ³   ³   ³   ³       _index.pt-br.md
+        ³   ³   ³   ³       _index.pt-pt.md
+        ³   ³   ³   ³       _index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄblowfish-lowkey
+        ³   ³   ³   ³       featured.jpg
+        ³   ³   ³   ³       _index.de.md
+        ³   ³   ³   ³       _index.es.md
+        ³   ³   ³   ³       _index.fr.md
+        ³   ³   ³   ³       _index.it.md
+        ³   ³   ³   ³       _index.ja.md
+        ³   ³   ³   ³       _index.md
+        ³   ³   ³   ³       _index.pt-br.md
+        ³   ³   ³   ³       _index.pt-pt.md
+        ³   ³   ³   ³       _index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄblowfish-template
+        ³   ³   ³   ³       featured.jpg
+        ³   ³   ³   ³       _index.de.md
+        ³   ³   ³   ³       _index.es.md
+        ³   ³   ³   ³       _index.fr.md
+        ³   ³   ³   ³       _index.it.md
+        ³   ³   ³   ³       _index.ja.md
+        ³   ³   ³   ³       _index.md
+        ³   ³   ³   ³       _index.pt-br.md
+        ³   ³   ³   ³       _index.pt-pt.md
+        ³   ³   ³   ³       _index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄblowfish-template-repo
+        ³   ³   ³   ³       featured.jpg
+        ³   ³   ³   ³       _index.de.md
+        ³   ³   ³   ³       _index.es.md
+        ³   ³   ³   ³       _index.fr.md
+        ³   ³   ³   ³       _index.it.md
+        ³   ³   ³   ³       _index.ja.md
+        ³   ³   ³   ³       _index.md
+        ³   ³   ³   ³       _index.pt-br.md
+        ³   ³   ³   ³       _index.pt-pt.md
+        ³   ³   ³   ³       _index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄblowfish-tutorial
+        ³   ³   ³   ³       featured.jpg
+        ³   ³   ³   ³       _index.de.md
+        ³   ³   ³   ³       _index.es.md
+        ³   ³   ³   ³       _index.fr.md
+        ³   ³   ³   ³       _index.it.md
+        ³   ³   ³   ³       _index.ja.md
+        ³   ³   ³   ³       _index.md
+        ³   ³   ³   ³       _index.pt-br.md
+        ³   ³   ³   ³       _index.pt-pt.md
+        ³   ³   ³   ³       _index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄrepo-blowfish-artist
+        ³   ³   ³   ³       featured.jpg
+        ³   ³   ³   ³       _index.de.md
+        ³   ³   ³   ³       _index.es.md
+        ³   ³   ³   ³       _index.fr.md
+        ³   ³   ³   ³       _index.it.md
+        ³   ³   ³   ³       _index.ja.md
+        ³   ³   ³   ³       _index.md
+        ³   ³   ³   ³       _index.pt-br.md
+        ³   ³   ³   ³       _index.pt-pt.md
+        ³   ³   ³   ³       _index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄrepo-blowfish-lite
+        ³   ³   ³   ³       featured.jpg
+        ³   ³   ³   ³       _index.de.md
+        ³   ³   ³   ³       _index.es.md
+        ³   ³   ³   ³       _index.fr.md
+        ³   ³   ³   ³       _index.it.md
+        ³   ³   ³   ³       _index.ja.md
+        ³   ³   ³   ³       _index.md
+        ³   ³   ³   ³       _index.pt-br.md
+        ³   ³   ³   ³       _index.pt-pt.md
+        ³   ³   ³   ³       _index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄrepo-blowfish-lowkey
+        ³   ³   ³   ³       featured.jpg
+        ³   ³   ³   ³       _index.de.md
+        ³   ³   ³   ³       _index.es.md
+        ³   ³   ³   ³       _index.fr.md
+        ³   ³   ³   ³       _index.it.md
+        ³   ³   ³   ³       _index.ja.md
+        ³   ³   ³   ³       _index.md
+        ³   ³   ³   ³       _index.pt-br.md
+        ³   ³   ³   ³       _index.pt-pt.md
+        ³   ³   ³   ³       _index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÀÄÄÄrepo-blowfish-tutorial
+        ³   ³   ³           featured.jpg
+        ³   ³   ³           _index.de.md
+        ³   ³   ³           _index.es.md
+        ³   ³   ³           _index.fr.md
+        ³   ³   ³           _index.it.md
+        ³   ³   ³           _index.ja.md
+        ³   ³   ³           _index.md
+        ³   ³   ³           _index.pt-br.md
+        ³   ³   ³           _index.pt-pt.md
+        ³   ³   ³           _index.zh-cn.md
+        ³   ³   ³           
+        ³   ³   ÃÄÄÄguides
+        ³   ³   ³   ³   _index.de.md
+        ³   ³   ³   ³   _index.es.md
+        ³   ³   ³   ³   _index.fr.md
+        ³   ³   ³   ³   _index.it.md
+        ³   ³   ³   ³   _index.ja.md
+        ³   ³   ³   ³   _index.md
+        ³   ³   ³   ³   _index.pt-br.md
+        ³   ³   ³   ³   _index.pt-pt.md
+        ³   ³   ³   ³   _index.zh-cn.md
+        ³   ³   ³   ³   
+        ³   ³   ³   ÃÄÄÄ202310-blowfish-tutorial
+        ³   ³   ³   ³   ³   .Ulysses-Group.plist
+        ³   ³   ³   ³   ³   .Ulysses-Settings.plist
+        ³   ³   ³   ³   ³   background.jpg
+        ³   ³   ³   ³   ³   featured.jpg
+        ³   ³   ³   ³   ³   index.de.md
+        ³   ³   ³   ³   ³   index.es.md
+        ³   ³   ³   ³   ³   index.fr.md
+        ³   ³   ³   ³   ³   index.it.md
+        ³   ³   ³   ³   ³   index.ja.md
+        ³   ³   ³   ³   ³   index.md
+        ³   ³   ³   ³   ³   index.pt-br.md
+        ³   ³   ³   ³   ³   index.pt-pt.md
+        ³   ³   ³   ³   ³   index.zh-cn.md
+        ³   ³   ³   ³   ³   
+        ³   ³   ³   ³   ÀÄÄÄimg
+        ³   ³   ³   ³           01.png
+        ³   ³   ³   ³           01.png.png
+        ³   ³   ³   ³           article.png
+        ³   ³   ³   ³           article.png.png
+        ³   ³   ³   ³           background.jpg
+        ³   ³   ³   ³           blowfishempty.png
+        ³   ³   ³   ³           blowfishempty.png.png
+        ³   ³   ³   ³           blowfishnoarticles.png
+        ³   ³   ³   ³           blowfishnoarticles.png.png
+        ³   ³   ³   ³           blowfishrecent.png
+        ³   ³   ³   ³           blowfishrecent.png.png
+        ³   ³   ³   ³           firebasecli.png
+        ³   ³   ³   ³           firebasecli.png.png
+        ³   ³   ³   ³           firebaseconsole.png
+        ³   ³   ³   ³           firebaseconsole.png.png
+        ³   ³   ³   ³           firebaseoptions.png
+        ³   ³   ³   ³           firebaseoptions.png.png
+        ³   ³   ³   ³           ghcreate.png
+        ³   ³   ³   ³           ghcreate.png.png
+        ³   ³   ³   ³           githubactions.png
+        ³   ³   ³   ³           githubactions.png.png
+        ³   ³   ³   ³           profile.jpg
+        ³   ³   ³   ³           search.png
+        ³   ³   ³   ³           search.png.png
+        ³   ³   ³   ³           tag.png
+        ³   ³   ³   ³           tag.png.png
+        ³   ³   ³   ³           
+        ³   ³   ³   ÀÄÄÄtemplate
+        ³   ³   ³       ³   featured.jpg
+        ³   ³   ³       ³   index.de.md
+        ³   ³   ³       ³   index.es.md
+        ³   ³   ³       ³   index.fr.md
+        ³   ³   ³       ³   index.it.md
+        ³   ³   ³       ³   index.ja.md
+        ³   ³   ³       ³   index.md
+        ³   ³   ³       ³   index.pt-br.md
+        ³   ³   ³       ³   index.pt-pt.md
+        ³   ³   ³       ³   index.zh-cn.md
+        ³   ³   ³       ³   
+        ³   ³   ³       ÀÄÄÄimg
+        ³   ³   ³               example.jpg
+        ³   ³   ³               
+        ³   ³   ÃÄÄÄsamples
+        ³   ³   ³   ³   _index.de.md
+        ³   ³   ³   ³   _index.es.md
+        ³   ³   ³   ³   _index.fr.md
+        ³   ³   ³   ³   _index.it.md
+        ³   ³   ³   ³   _index.ja.md
+        ³   ³   ³   ³   _index.md
+        ³   ³   ³   ³   _index.pt-br.md
+        ³   ³   ³   ³   _index.pt-pt.md
+        ³   ³   ³   ³   _index.zh-cn.md
+        ³   ³   ³   ³   
+        ³   ³   ³   ÃÄÄÄcharts
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄdiagrams-flowcharts
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄemoji
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄexternal
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄicons
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄmarkdown
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄmathematical-notation
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄmultiple-authors
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄplaceholder-text
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÃÄÄÄrich-content
+        ³   ³   ³   ³       index.de.md
+        ³   ³   ³   ³       index.es.md
+        ³   ³   ³   ³       index.fr.md
+        ³   ³   ³   ³       index.it.md
+        ³   ³   ³   ³       index.ja.md
+        ³   ³   ³   ³       index.md
+        ³   ³   ³   ³       index.pt-br.md
+        ³   ³   ³   ³       index.pt-pt.md
+        ³   ³   ³   ³       index.zh-cn.md
+        ³   ³   ³   ³       
+        ³   ³   ³   ÀÄÄÄthumbnail_sample
+        ³   ³   ³           index.de.md
+        ³   ³   ³           index.es.md
+        ³   ³   ³           index.fr.md
+        ³   ³   ³           index.it.md
+        ³   ³   ³           index.ja.md
+        ³   ³   ³           index.md
+        ³   ³   ³           index.pt-br.md
+        ³   ³   ³           index.pt-pt.md
+        ³   ³   ³           index.zh-cn.md
+        ³   ³   ³           
+        ³   ³   ÃÄÄÄtags
+        ³   ³   ³   ³   _index.it.md
+        ³   ³   ³   ³   _index.ja.md
+        ³   ³   ³   ³   _index.md
+        ³   ³   ³   ³   _index.zh-cn.md
+        ³   ³   ³   ³   
+        ³   ³   ³   ÀÄÄÄadvanced
+        ³   ³   ³           featured.png
+        ³   ³   ³           _index.de.md
+        ³   ³   ³           _index.es.md
+        ³   ³   ³           _index.fr.md
+        ³   ³   ³           _index.it.md
+        ³   ³   ³           _index.ja.md
+        ³   ³   ³           _index.md
+        ³   ³   ³           _index.pt-br.md
+        ³   ³   ³           _index.pt-pt.md
+        ³   ³   ³           _index.zh-cn.md
+        ³   ³   ³           
+        ³   ³   ÀÄÄÄusers
+        ³   ³       ³   users.json
+        ³   ³       ³   _index.de.md
+        ³   ³       ³   _index.es.md
+        ³   ³       ³   _index.fr.md
+        ³   ³       ³   _index.it.md
+        ³   ³       ³   _index.ja.md
+        ³   ³       ³   _index.md
+        ³   ³       ³   _index.pt-br.md
+        ³   ³       ³   _index.pt-pt.md
+        ³   ³       ³   _index.zh-cn.md
+        ³   ³       ³   
+        ³   ³       ÃÄÄÄ0-e8b2eb823290677fbba3390d5cef2c35
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ1-96d3e57dcc931de55cc23a825d40be2c
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ10-7ee8520d5e9eadae8557be82f46ff18d
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ100-a8326fb0e2d1670165af1c6547b239dd
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ101-e2d4a1e205128436961ad3e1f2d0de5e
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ102-43b666016e50920826ef05ae95486724
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ103-d168a95bef76f9306c5f0d645168f8e6
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ104-e7ef7b552aa65b10f3e26de21d81f702
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ105-834393216bdba408631c891ee45d379c
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ106-e6de9b318c18b2df357ca51f0d73fff6
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ107-850f485eb8e81e2873f1a285e3eb0b1d
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ108-2496d52e0aa601cbba3ad6572e007d26
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ109-860d9db7030d829b0f0128400c2ab5d4
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ11-4ea7eb30d575afb5183b02f31a661c42
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ110-118f0958fbab30b68d5bb3359548a40f
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ111-bbc5b87f25e67eb50f9308ddb2e30fb3
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ112-578198405817d000a9b09d08fe594b1f
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ113-853c2c3c85eecb5148db16a8f005a529
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ114-2e8cdaa29760febdf1d75307255aafe9
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ115-ae148b43ea1a0101066984d0d6d321c0
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ116-577a9817320654ddbf1030cbf1c9ca7f
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ117-704dd03d684dfd9eef53eb6072fef261
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ118-92babc5577690a161170943a87ae816d
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ119-9a4fa7947ad8e197f14bc3d89c98a755
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ12-ee5d5eca13c3742f7a454a52424f9d73
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ120-fb2885fb36e97b3799ab7bc03bd9e08a
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ121-c7fe2437cad52bb0686e75dd3a087db7
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ13-72d71e304faaa40b3d547d5357edc450
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ14-1a882ded73613252bb07c2c13f40b9e3
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ15-039ca94b0aeeb9ab4c95226615bfb840
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ16-620af4c12a7ee8932fadb45ae52bba7e
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ17-64faf41f22317a170125dd7b2cd642e2
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ18-e07582d573aa187c3c15bb042872ca4a
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ19-fd12be5b9c01f6b6089b8b1cbff1350d
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ2-4bc0917e04c4859cedb32a48bff27846
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ20-3bfa5ccb77cf79199527df4c0259d0dc
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ21-6ed0dcb17b6e24c166f7da0bdfb0c1f5
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ22-e2ca3d6494c32151235beabe7567b23d
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ23-129162dc71b9d40ee7948e51910d415a
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ24-80d4420e686d5a055bab647fa03d281b
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ25-8168c3eeb157c9c9b1ca287393393f9c
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ26-98f15180691d43fbfcbaf685e1b9ab06
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ27-66a61706d45b77b559869cd1247fe8fc
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ28-5801e67070cd59e592c82693a1bda773
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ29-c7116358255c4f5ccb306f7012306e22
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ3-9d028495840ad385e6cb3ccf051dca22
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ30-d8ebb1396d8c7d2233b33a6b3ca0adc4
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ31-24577d47b9474b6bc72eba9a6009dba4
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ32-6e0c28f8b70015dd35f332d927960d06
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ33-4d4fb24dca11a144122fa0bb831d9d03
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ34-c8eb3ba4d0e565e041ead9aabe6fc770
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ35-069e8f01e7ef48830ebea5239e2189b4
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ36-43d57d92cc54037519270a0cb07dbb83
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ37-d9e559aaa0c3488012725cc4699ff9c4
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ38-9eed597b03512bc7b7b4b3cf81814a37
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ39-48ff442c7de299911eab10b72b02cc84
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ4-64ef36564d497eed256b9f4c56b1184e
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ40-1b3c507d9cd618565898e6d099c0427d
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ41-d6d2aa4cd9e351e749136df67a27c136
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ42-fec44f5dd2be29e37c305696d018f99f
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ43-954584ca9b811d77ac600cf7c426be45
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ44-8032d46bf9c96ae4b59c419032c7ad89
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ45-b66472425d53d4e270e85ba4f160e7a1
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ46-3ec093539269bc4ce9498fe9c36a2b7d
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ47-4f0c88168fb7a348b4393a56ede2e799
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ48-82b432ad2bfc873ec725001f0b3ac495
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ49-6a603c5d465ecb2422ed7a96fd55c99c
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ5-5bf94b5c1e0c4a40d81816df85e1444f
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ50-427cec3309be77abe6f19b006b2a3dc0
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ51-e518dc969af1ea65a3d0b55630705047
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ52-0327ac1993f378aa2fc5bbb8a840c9cb
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ53-6e57b74d392f64f3698aee7046cc2606
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ54-1314bf3d7ce70ad90f1fc7666032e147
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ55-a322d57671bf49fe0f2539096f9ed57f
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ56-7d028665dc1cf54485e6e82a7083ce69
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ57-15cf92fba36f0319bd4b176da554fdb9
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ58-1f94add7b0ba58983ff507632b822401
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ59-c0d9928ff3857960ec230178bdec1b8d
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ6-ef51c7b9654a4f2d13525eb80ee46cdf
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ60-d965f981aa39336ef7be5efac83c96b2
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ61-4de384e83ae8af3834cad28f6dfc6966
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ62-c506ded8078df151fc8ce943e7ac1c8a
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ63-02c452502ee9a03866c720c14bf86f9e
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ64-d52c3523ad809eb1d9ddbcbe32e92661
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ65-bdd6b2db27fb40b3fa79a37659b2f285
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ66-af89464ac25ab9445658a3541e623778
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ67-c562b0e606584dd96159faf763291fe1
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ68-033c87b7e950b82ea500c552c9523367
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ69-7596a225b244e0859da338621e680481
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ7-25036bf87aa99ef82e09089a1ddbb9eb
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ70-54b73306674ec7e6778b54a0a8b18b36
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ71-ad989702a19d1fd8add147d6771c6c02
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ72-e263f9bb6dcec27003a8f5f947ba5abb
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ73-837b47128639b5359ade845eae461c3a
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ74-1b3da762734b4fb503e49822ed506dbb
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ75-447e2f0f6f439b915e0b57f93e49b7d6
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ76-3fa4eb553f5d984050d2ee4954960034
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ77-46ea5d4b3698fa18fc0b79faa3d89bef
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ78-915a897f2ea3ba018728d7dce3540b1b
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ79-0805e986c2f7265e3bbbfc7bc647ed92
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ8-5440c85ea880d93157088032515962d3
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ80-2d29fadfaf8ddfaee0b69b563bae8d2d
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ81-eb23ebd26738c98db323eff207dc7c0e
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ82-706590b7d6a58b77f0eadb22b1dc6cd5
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ83-a615163aad4c6bb5746a697a9450d563
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ84-6057b72b4986ae88640d46262a4be0a0
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ85-e3f304eacd2f79e31f294cae0ff8162e
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ86-405727a6fae1350173ef8915b4c9eb7d
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ87-a615163aad4c6bb5746a697a9450d563
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ88-9d162f4046cb83c367d8d8ab57240711
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ89-7c98d8b7ba531e032abcd675d4f49c17
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ9-6c20c1af90023ed60919801cfba0f08f
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ90-e4f1c9a4c352ea63707824576d889c8f
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ91-512ff0768813ae318d569f681cf49123
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ92-8cb20b5823049623e2b7214c967a2efc
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ93-b94f03ec7b2e6d8dbac26fa6cd1cd5d4
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ94-c3df142090b1a28ef311312eb82f1e51
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ95-6439a010a72c2622487a063185cf1657
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ96-16a262b9921c2d90b4bc072bbb3c1d56
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ97-a8ae3ddde64e0cd053837877522e2373
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÃÄÄÄ98-8f0822721042bca88707da31b1c241e3
+        ³   ³       ³       feature.webp
+        ³   ³       ³       index.de.md
+        ³   ³       ³       index.es.md
+        ³   ³       ³       index.fr.md
+        ³   ³       ³       index.it.md
+        ³   ³       ³       index.ja.md
+        ³   ³       ³       index.md
+        ³   ³       ³       index.pt-br.md
+        ³   ³       ³       index.pt-pt.md
+        ³   ³       ³       index.zh-cn.md
+        ³   ³       ³       
+        ³   ³       ÀÄÄÄ99-f430dff82b8fbb8334091953bfe58598
+        ³   ³               feature.webp
+        ³   ³               index.de.md
+        ³   ³               index.es.md
+        ³   ³               index.fr.md
+        ³   ³               index.it.md
+        ³   ³               index.ja.md
+        ³   ³               index.md
+        ³   ³               index.pt-br.md
+        ³   ³               index.pt-pt.md
+        ³   ³               index.zh-cn.md
+        ³   ³               
+        ³   ÃÄÄÄdata
+        ³   ³   ÀÄÄÄauthors
+        ³   ³           nunocoracao.json
+        ³   ³           secondauthor.json
+        ³   ³           
+        ³   ÀÄÄÄlayouts
+        ³       ÃÄÄÄpartials
+        ³       ³   ³   extend-footer.html
+        ³       ³   ³   recent-articles-demo.html
+        ³       ³   ³   
+        ³       ³   ÀÄÄÄhome
+        ³       ³           custom.html
+        ³       ³           
+        ³       ÀÄÄÄshortcodes
+        ³               icon-ref.html
+        ³               theme-switcher.html
+        ³               
+        ÃÄÄÄi18n
+        ³       ar.yaml
+        ³       bg.yaml
+        ³       bn.yaml
+        ³       ca.yaml
+        ³       cs.yaml
+        ³       da.yaml
+        ³       de.yaml
+        ³       en.yaml
+        ³       eo.yaml
+        ³       es.yaml
+        ³       eu.yaml
+        ³       fa.yaml
+        ³       fi.yaml
+        ³       fr.yaml
+        ³       gl.yaml
+        ³       he.yaml
+        ³       hr.yaml
+        ³       hu.yaml
+        ³       id.yaml
+        ³       it.yaml
+        ³       ja.yaml
+        ³       ko.yaml
+        ³       nb.yaml
+        ³       nl.yaml
+        ³       pl.yaml
+        ³       pt-BR.yaml
+        ³       pt-PT.yaml
+        ³       ro.yaml
+        ³       ru.yaml
+        ³       sv.yaml
+        ³       th.yaml
+        ³       tr.yaml
+        ³       uk.yaml
+        ³       vi.yaml
+        ³       zh-CN.yaml
+        ³       zh-TW.yaml
+        ³       
+        ÃÄÄÄimages
+        ³       home-background.png
+        ³       home-card.png
+        ³       home-hero.png
+        ³       home-mobile.png
+        ³       home-page.png
+        ³       home-profile.png
+        ³       screenshot.png
+        ³       tn.png
+        ³       
+        ÃÄÄÄlayouts
+        ³   ³   404.html
+        ³   ³   index.html
+        ³   ³   robots.txt
+        ³   ³   
+        ³   ÃÄÄÄpartials
+        ³   ³   ³   article-pagination.html
+        ³   ³   ³   author-extra.html
+        ³   ³   ³   author-links.html
+        ³   ³   ³   author.html
+        ³   ³   ³   badge.html
+        ³   ³   ³   breadcrumbs.html
+        ³   ³   ³   contributors.html
+        ³   ³   ³   footer.html
+        ³   ³   ³   head.html
+        ³   ³   ³   icon.html
+        ³   ³   ³   init.html
+        ³   ³   ³   pagination.html
+        ³   ³   ³   related.html
+        ³   ³   ³   schema.html
+        ³   ³   ³   scroll-to-top.html
+        ³   ³   ³   search.html
+        ³   ³   ³   sharing-links.html
+        ³   ³   ³   sponsors.html
+        ³   ³   ³   toc.html
+        ³   ³   ³   vendor.html
+        ³   ³   ³   
+        ³   ³   ÃÄÄÄanalytics
+        ³   ³   ³       fathom.html
+        ³   ³   ³       ga.html
+        ³   ³   ³       main.html
+        ³   ³   ³       seline.html
+        ³   ³   ³       umami.html
+        ³   ³   ³       
+        ³   ³   ÃÄÄÄarticle-link
+        ³   ³   ³       card-related.html
+        ³   ³   ³       card.html
+        ³   ³   ³       simple.html
+        ³   ³   ³       _shortcode.html
+        ³   ³   ³       
+        ³   ³   ÃÄÄÄarticle-meta
+        ³   ³   ³       basic.html
+        ³   ³   ³       list.html
+        ³   ³   ³       taxonomy.html
+        ³   ³   ³       term.html
+        ³   ³   ³       
+        ³   ³   ÃÄÄÄfunctions
+        ³   ³   ³       date.html
+        ³   ³   ³       uid.html
+        ³   ³   ³       
+        ³   ³   ÃÄÄÄheader
+        ³   ³   ³   ³   basic.html
+        ³   ³   ³   ³   fixed-fill-blur.html
+        ³   ³   ³   ³   fixed-fill.html
+        ³   ³   ³   ³   fixed-gradient.html
+        ³   ³   ³   ³   fixed.html
+        ³   ³   ³   ³   
+        ³   ³   ³   ÀÄÄÄcomponents
+        ³   ³   ³           a11y.html
+        ³   ³   ³           desktop-menu.html
+        ³   ³   ³           mobile-menu.html
+        ³   ³   ³           translations.html
+        ³   ³   ³           
+        ³   ³   ÃÄÄÄhero
+        ³   ³   ³       background.html
+        ³   ³   ³       basic.html
+        ³   ³   ³       big.html
+        ³   ³   ³       thumbAndBackground.html
+        ³   ³   ³       
+        ³   ³   ÃÄÄÄhome
+        ³   ³   ³       background.html
+        ³   ³   ³       card.html
+        ³   ³   ³       hero.html
+        ³   ³   ³       page.html
+        ³   ³   ³       profile.html
+        ³   ³   ³       
+        ³   ³   ÃÄÄÄhugo-embedded
+        ³   ³   ³   ÀÄÄÄshortcodes
+        ³   ³   ³           figure-default.html
+        ³   ³   ³           
+        ³   ³   ÃÄÄÄimpls
+        ³   ³   ³   ÀÄÄÄhooks
+        ³   ³   ³           admonition-maps.html
+        ³   ³   ³           
+        ³   ³   ÃÄÄÄmeta
+        ³   ³   ³       date-updated.html
+        ³   ³   ³       date.html
+        ³   ³   ³       edit.html
+        ³   ³   ³       likes.html
+        ³   ³   ³       likes_button.html
+        ³   ³   ³       reading-time.html
+        ³   ³   ³       views.html
+        ³   ³   ³       word-count.html
+        ³   ³   ³       zen-mode.html
+        ³   ³   ³       
+        ³   ³   ÃÄÄÄrecent-articles
+        ³   ³   ³       cardview-fullwidth.html
+        ³   ³   ³       cardview.html
+        ³   ³   ³       list.html
+        ³   ³   ³       main.html
+        ³   ³   ³       
+        ³   ³   ÃÄÄÄseries
+        ³   ³   ³       series-closed.html
+        ³   ³   ³       series.html
+        ³   ³   ³       series_base.html
+        ³   ³   ³       
+        ³   ³   ÀÄÄÄterm-link
+        ³   ³           card.html
+        ³   ³           text.html
+        ³   ³           
+        ³   ÃÄÄÄshortcodes
+        ³   ³       accordion.html
+        ³   ³       accordionItem.html
+        ³   ³       alert.html
+        ³   ³       ansible.html
+        ³   ³       article.html
+        ³   ³       badge.html
+        ³   ³       button.html
+        ³   ³       carousel.html
+        ³   ³       chart.html
+        ³   ³       codeberg.html
+        ³   ³       codeimporter.html
+        ³   ³       email.html
+        ³   ³       figure.html
+        ³   ³       forgejo.html
+        ³   ³       gallery.html
+        ³   ³       gist.html
+        ³   ³       gitea.html
+        ³   ³       github.html
+        ³   ³       gitlab.html
+        ³   ³       huggingface.html
+        ³   ³       icon.html
+        ³   ³       katex.html
+        ³   ³       keyword.html
+        ³   ³       keywordList.html
+        ³   ³       lead.html
+        ³   ³       list.html
+        ³   ³       ltr.html
+        ³   ³       mdimporter.html
+        ³   ³       mermaid.html
+        ³   ³       rtl.html
+        ³   ³       screenshot.html
+        ³   ³       swatches.html
+        ³   ³       tab.html
+        ³   ³       tabs.html
+        ³   ³       timeline.html
+        ³   ³       timelineItem.html
+        ³   ³       typeit.html
+        ³   ³       video.html
+        ³   ³       youtubeLite.html
+        ³   ³       
+        ³   ÀÄÄÄ_default
+        ³       ³   baseof.html
+        ³       ³   index.json
+        ³       ³   list.html
+        ³       ³   llms.txt
+        ³       ³   rss.xml
+        ³       ³   simple.html
+        ³       ³   single.html
+        ³       ³   sitemap.xml
+        ³       ³   term.html
+        ³       ³   terms.html
+        ³       ³   
+        ³       ÀÄÄÄ_markup
+        ³               render-blockquote.html
+        ³               render-codeblock.html
+        ³               render-heading.html
+        ³               render-image.html
+        ³               render-link.html
+        ³               
+        ÃÄÄÄrelease-versions
+        ³       hugo-latest.txt
+        ³       
+        ÃÄÄÄscripts
+        ³       package-lock.json
+        ³       package.json
+        ³       seed-firebase-views.js
+        ³       
+        ÀÄÄÄstatic
+                android-chrome-192x192.png
+                android-chrome-512x512.png
+                apple-touch-icon.png
+                favicon-16x16.png
+                favicon-32x32.png
+                favicon.ico
+                site.webmanifest
+                
