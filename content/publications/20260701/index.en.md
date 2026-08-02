@@ -8,9 +8,8 @@ tags:
   - data-driven strategies
   - financial modeling
   - machine learning
-params:
-  citation: https://dx.doi.org/10.2139/ssrn.7140718
-  author: Mohammad Mahdi Masoumian
+citation: https://dx.doi.org/10.2139/ssrn.7140718
+author: Mohammad Mahdi Masoumian
 keywords:
   - Forecasting
   - Refinery
@@ -18,9 +17,9 @@ keywords:
   - stocks
 slug: cross-market-forecasting-iranian-refinery-stocks
 categories:
-  - open access
+  - Preprint
   - Tehran Stock
-  - Confrance
+  - open access
 homepage:
   showRecent: true
   recentItemsToShow: null

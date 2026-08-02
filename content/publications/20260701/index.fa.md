@@ -8,18 +8,15 @@ tags:
   - تحلیل بازار
   - مدل‌سازی مالی
   - یادگیری ماشین
-params:
-  citation: https://dx.doi.org/10.2139/ssrn.7140718
+citation: https://dx.doi.org/10.2139/ssrn.7140718
 keywords:
+  - بورس
   - سهام
-  - شرکت‌های پالایشگاهی
-  - یادگیری ماشین
-  - پیش‌بینی
 slug: پیش‌بینی-فرابازاری-سهام-پالایشگاهی-در-بورس-تهران
 categories:
-  - Confrance
-  - open access
+  - Preprint
   - Tehran Stock
+  - open access
 homepage:
   showRecent: true
 showRecent: true

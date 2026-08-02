@@ -3,17 +3,16 @@ title: Risk-Aware Portfolio Management for Tehran Stock Exchange
 description: A Risk-Aware Rule-Based Portfolio Management Framework for the Tehran Stock Exchange Using Genetic Algorithm Optimization
 date: 2026-06-27T07:37:55.599Z
 draft: false
-params:
-  citation: https://doi.org/10.2139/ssrn.6885240
+citation: https://doi.org/10.2139/ssrn.6885240
 keywords:
   - Genetic Algorithm
   - Portfolio Management
   - Tehran Stock Exchange
 slug: risk-aware-portfolio-management-tehran-stock-exchange
 categories:
-  - open access
+  - Preprint
   - Tehran Stock
-  - Confrance
+  - open access
 homepage:
   showRecent: true
 tags:

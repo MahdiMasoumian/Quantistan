@@ -3,14 +3,15 @@ title: مدیریت پرتفوی مبتنی بر ریسک در بورس اورا
 description: چارچوبی مبتنی بر قوانین برای مدیریت پرتفوی در بورس اوراق بهادار تهران با آگاهی از ریسک و بهینه‌سازی با استفاده از الگوریتم ژنتیک
 date: 2026-06-26
 draft: false
-params:
-  citation: https://doi.org/10.2139/ssrn.6885240
-  author: Mohammad Mahdi Masoumian
+citation: https://doi.org/10.2139/ssrn.6885240
+author: Mohammad Mahdi Masoumian
 categories:
-  - Confrance
+  - Preprint
   - Tehran Stock
   - open access
-keywords: ""
+keywords:
+  - بورس
+  - سهام
 homepage:
   showRecent: true
 tags:

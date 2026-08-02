@@ -20,8 +20,8 @@
           "multiple": true
         },
         { "title": "Tags", "name": "tags", "type": "tags" },
-        { "title": "Keywords", "name": "keywords", "type": "keywords" },
-        { "title": "Author", "name": "params.author", "type": "string", "default": "Mohammad Mahdi Masoumian" },
+        { "title": "Keywords", "name": "keywords", "type": "tags" },
+        { "title": "Author", "name": "author", "type": "string", "default": "Mohammad Mahdi Masoumian" },
         { "title": "Show on homepage recent list", "name": "homepage.showRecent", "type": "boolean", "default": true }
       ]
     },
@@ -43,9 +43,9 @@
           "multiple": true
         },
         { "title": "Tags", "name": "tags", "type": "tags" },
-        { "title": "Keywords", "name": "keywords", "type": "keywords" },
-        { "title": "Author", "name": "params.author", "type": "string", "default": "Mohammad Mahdi Masoumian" },
-        { "title": "Citation Link (DOI/SSRN/Zenodo)", "name": "params.citation", "type": "string" },
+        { "title": "Keywords", "name": "keywords", "type": "tags" },
+        { "title": "Author", "name": "author", "type": "string", "default": "Mohammad Mahdi Masoumian" },
+        { "title": "Citation Link (DOI/SSRN/Zenodo)", "name": "citation", "type": "string" },
         { "title": "Show on homepage recent list", "name": "homepage.showRecent", "type": "boolean", "default": true }
       ]
     },
@@ -67,9 +67,9 @@
           "multiple": true
         },
         { "title": "Tags", "name": "tags", "type": "tags" },
-        { "title": "Keywords", "name": "keywords", "type": "keywords" },
-        { "title": "Author", "name": "params.author", "type": "string", "default": "Mohammad Mahdi Masoumian" },
-        { "title": "Citation / Source Link", "name": "params.citation", "type": "string" },
+        { "title": "Keywords", "name": "keywords", "type": "tags" },
+        { "title": "Author", "name": "author", "type": "string", "default": "Mohammad Mahdi Masoumian" },
+        { "title": "Citation / Source Link", "name": "citation", "type": "string" },
         { "title": "Show on homepage recent list", "name": "homepage.showRecent", "type": "boolean", "default": true }
       ]
     }

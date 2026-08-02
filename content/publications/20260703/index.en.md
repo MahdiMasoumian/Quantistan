@@ -9,17 +9,17 @@ tags:
   - Machine Learning
   - Portfolio Management
   - Tehran Stock Exchange
-params:
-  citation: https://doi.org/10.2139/ssrn.7002778
-  author: Mohammad Mahdi Masoumian
+citation: https://doi.org/10.2139/ssrn.7002778
+author: Mohammad Mahdi Masoumian
 keywords:
   - Decision-Making
   - Portfolio Recommendation
   - Tehran Stock Exchange
 slug: multicriteria-decision-making-tehran-stock-portfolios
 categories:
-  - Confrance
+  - Preprint
   - Tehran Stock
+  - open access
 homepage:
   showRecent: true
 ---
