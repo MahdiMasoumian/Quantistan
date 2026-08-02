@@ -7,7 +7,167 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 15:41:53 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Aug 2026 12:19:22 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>0-24- Price Chart Types Explained</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-24-price-chart-types/</link>
+      <pubDate>Sun, 02 Aug 2026 12:19:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-24-price-chart-types/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-23- What Is a Trading Strategy?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-23-what-is-a-trading-strategy/</link>
+      <pubDate>Sun, 02 Aug 2026 11:29:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-23-what-is-a-trading-strategy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-22- How Is Profit and Loss Calculated?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-22-profit-loss-calculation/</link>
+      <pubDate>Sun, 02 Aug 2026 11:21:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-22-profit-loss-calculation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-21- What Are Trading Costs?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-21-what-are-trading-costs-spread-commission-slippage/</link>
+      <pubDate>Sun, 02 Aug 2026 10:59:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-21-what-are-trading-costs-spread-commission-slippage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-20- What Is Market Liquidity and Why Does It Matter?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-20-what-is-market-liquidity/</link>
+      <pubDate>Sun, 02 Aug 2026 10:37:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-20-what-is-market-liquidity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-19- Is Trading Just Gambling?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-19-is-trading-just-gambling/</link>
+      <pubDate>Sun, 02 Aug 2026 10:28:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-19-is-trading-just-gambling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-18- Comparing Stock, Forex, and Crypto Markets</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-18-comparing-stock-exchange-broker-crypto-exchange/</link>
+      <pubDate>Sun, 02 Aug 2026 08:54:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-18-comparing-stock-exchange-broker-crypto-exchange/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-17- How Does a Crypto Exchange Work?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-17-how-does-a-crypto-exchange-work/</link>
+      <pubDate>Sun, 02 Aug 2026 08:46:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-17-how-does-a-crypto-exchange-work/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-16- What Is a Broker and How Does It Work?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-16-what-is-a-broker-and-how-does-it-work/</link>
+      <pubDate>Sun, 02 Aug 2026 08:38:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-16-what-is-a-broker-and-how-does-it-work/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-15- How Does Trading on a Stock Exchange Work?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-15-how-does-trading-on-stock-exchange-work/</link>
+      <pubDate>Sun, 02 Aug 2026 08:22:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-15-how-does-trading-on-stock-exchange-work/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-14- Market Comparison</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-14-market-comparison/</link>
+      <pubDate>Sun, 02 Aug 2026 07:44:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-14-market-comparison/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-13- What Is Margin, and What Is a Margin Call?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-13-margin-and-margin-call/</link>
+      <pubDate>Sun, 02 Aug 2026 07:39:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-13-margin-and-margin-call/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-12- What Is Leverage?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-12-leverage/</link>
+      <pubDate>Sun, 02 Aug 2026 07:35:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-12-leverage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-11- What Are Long and Short Positions?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-11-long-short-positions/</link>
+      <pubDate>Sun, 02 Aug 2026 07:34:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-11-long-short-positions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-10- What is a Perpetual Futures Contract?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-10-perpetual-futures/</link>
+      <pubDate>Sun, 02 Aug 2026 07:33:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-10-perpetual-futures/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lightweight Data Pipeline for Live Trading and ML/DL</title>
+      <link>http://localhost:1313/en/projects/lightweight-data-pipeline-live-trading-ml-dl/</link>
+      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/projects/lightweight-data-pipeline-live-trading-ml-dl/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>0-9- Options Contract</title>

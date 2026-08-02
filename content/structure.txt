@@ -1,0 +1,181 @@
+Folder PATH listing
+Volume serial number is 3479-6D93
+C:.
+³   structure.txt
+³   update_structur.py
+³   _index.en.md
+³   _index.fa.md
+³   
+ÃÄÄÄourteam
+³   ³   _index.en.md
+³   ³   _index.fa.md
+³   ³   
+³   ÃÄÄÄauthor
+³   ³       index.en.md
+³   ³       index.fa.md
+³   ³       profile.png
+³   ³       
+³   ÃÄÄÄCollaboration
+³   ³       index.en.md
+³   ³       index.fa.md
+³   ³       profile.png
+³   ³       
+³   ÃÄÄÄcountheshmat
+³   ³       index.en.md
+³   ³       index.fa.md
+³   ³       Screenshot1.jpg
+³   ³       Screenshot2.jpg
+³   ³       Screenshot3.jpg
+³   ³       Screenshot4.jpg
+³   ³       Screenshot5.jpg
+³   ³       Screenshot6.jpg
+³   ³       
+³   ÃÄÄÄhelp
+³   ³       index.en.md
+³   ³       index.fa.md
+³   ³       
+³   ÀÄÄÄquantistan
+³           index.en.md
+³           index.fa.md
+³           
+ÃÄÄÄprojects
+³   ³   _index.en.md
+³   ³   _index.fa.md
+³   ³   
+³   ÃÄÄÄdatapipeline
+³   ³       index.en.md
+³   ³       index.fa.md
+³   ³       
+³   ÀÄÄÄtickvol
+³           index.en.md
+³           index.fa.md
+³           Screenshot1.jpg
+³           
+ÃÄÄÄpublications
+³   ³   _index.en.md
+³   ³   _index.fa.md
+³   ³   
+³   ÃÄÄÄ20260626
+³   ³       index.en.md
+³   ³       index.fa.md
+³   ³       
+³   ÃÄÄÄ20260701
+³   ³       index.en.md
+³   ³       index.fa.md
+³   ³       
+³   ÀÄÄÄ20260703
+³           index.en.md
+³           index.fa.md
+³           
+ÀÄÄÄtutorials
+    ³   _index.en.md
+    ³   _index.fa.md
+    ³   
+    ÃÄÄÄlevel0-trade
+    ³   ³   _index.en.md
+    ³   ³   _index.fa.md
+    ³   ³   
+    ³   ÃÄÄÄ1-what-is-trade
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ10-perpetual
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ11-long-short
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ12-Leverage
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ13-margin
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ14-Market-Comparison
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ15-stock-trade
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ16-broker-fx-co-trade
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ17-crypto-trade
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ18-compar-st-fx-cr
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ19-tradevsgamble
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ2-what-is-financial-market
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ20-liquidity
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ21-costs
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ3-tradable-assets
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ4-market-players
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ5-how-price-move
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ6-spot-market
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ7-drivative-market
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ8-futures-market
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÀÄÄÄ9-options
+    ³           index.en.md
+    ³           index.fa.md
+    ³           
+    ÃÄÄÄlevel1-basic
+    ³   ³   _index.en.md
+    ³   ³   _index.fa.md
+    ³   ³   
+    ³   ÃÄÄÄ1-what-is-algo-trade
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÃÄÄÄ2-what-is-quant-trade
+    ³   ³       index.en.md
+    ³   ³       index.fa.md
+    ³   ³       
+    ³   ÀÄÄÄ3-what-is-dss
+    ³           index.en.md
+    ³           index.fa.md
+    ³           
+    ÀÄÄÄlevel2
+            _index.en.md
+            _index.fa.md
+            

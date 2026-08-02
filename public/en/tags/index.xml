@@ -7,7 +7,857 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 15:41:53 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Aug 2026 13:25:33 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Money Management</title>
+      <link>http://localhost:1313/en/tags/money-management/</link>
+      <pubDate>Sun, 02 Aug 2026 13:25:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/money-management/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Risk Management</title>
+      <link>http://localhost:1313/en/tags/risk-management/</link>
+      <pubDate>Sun, 02 Aug 2026 13:25:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/risk-management/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stop Loss</title>
+      <link>http://localhost:1313/en/tags/stop-loss/</link>
+      <pubDate>Sun, 02 Aug 2026 13:25:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/stop-loss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Take Profit</title>
+      <link>http://localhost:1313/en/tags/take-profit/</link>
+      <pubDate>Sun, 02 Aug 2026 13:25:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/take-profit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trailing Stop</title>
+      <link>http://localhost:1313/en/tags/trailing-stop/</link>
+      <pubDate>Sun, 02 Aug 2026 13:25:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/trailing-stop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Buy Limit</title>
+      <link>http://localhost:1313/en/tags/buy-limit/</link>
+      <pubDate>Sun, 02 Aug 2026 12:54:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/buy-limit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Buy Stop</title>
+      <link>http://localhost:1313/en/tags/buy-stop/</link>
+      <pubDate>Sun, 02 Aug 2026 12:54:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/buy-stop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Call and Put Options</title>
+      <link>http://localhost:1313/en/tags/call-and-put-options/</link>
+      <pubDate>Sun, 02 Aug 2026 12:54:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/call-and-put-options/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Order Types</title>
+      <link>http://localhost:1313/en/tags/order-types/</link>
+      <pubDate>Sun, 02 Aug 2026 12:54:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/order-types/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sell Limit</title>
+      <link>http://localhost:1313/en/tags/sell-limit/</link>
+      <pubDate>Sun, 02 Aug 2026 12:54:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/sell-limit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sell Stop</title>
+      <link>http://localhost:1313/en/tags/sell-stop/</link>
+      <pubDate>Sun, 02 Aug 2026 12:54:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/sell-stop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>High Frequency Trading</title>
+      <link>http://localhost:1313/en/tags/high-frequency-trading/</link>
+      <pubDate>Sun, 02 Aug 2026 12:43:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/high-frequency-trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Market Microstructure</title>
+      <link>http://localhost:1313/en/tags/market-microstructure/</link>
+      <pubDate>Sun, 02 Aug 2026 12:43:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/market-microstructure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Order Book</title>
+      <link>http://localhost:1313/en/tags/order-book/</link>
+      <pubDate>Sun, 02 Aug 2026 12:43:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/order-book/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Price Action</title>
+      <link>http://localhost:1313/en/tags/price-action/</link>
+      <pubDate>Sun, 02 Aug 2026 12:43:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/price-action/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Supply and Demand</title>
+      <link>http://localhost:1313/en/tags/supply-and-demand/</link>
+      <pubDate>Sun, 02 Aug 2026 12:43:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/supply-and-demand/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bullish and Bearish</title>
+      <link>http://localhost:1313/en/tags/bullish-and-bearish/</link>
+      <pubDate>Sun, 02 Aug 2026 12:35:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/bullish-and-bearish/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Market Trend</title>
+      <link>http://localhost:1313/en/tags/market-trend/</link>
+      <pubDate>Sun, 02 Aug 2026 12:35:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/market-trend/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tick Volume</title>
+      <link>http://localhost:1313/en/tags/tick-volume/</link>
+      <pubDate>Sun, 02 Aug 2026 12:35:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/tick-volume/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading Volume</title>
+      <link>http://localhost:1313/en/tags/trading-volume/</link>
+      <pubDate>Sun, 02 Aug 2026 12:35:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/trading-volume/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Volatility</title>
+      <link>http://localhost:1313/en/tags/volatility/</link>
+      <pubDate>Sun, 02 Aug 2026 12:35:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/volatility/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bar Chart</title>
+      <link>http://localhost:1313/en/tags/bar-chart/</link>
+      <pubDate>Sun, 02 Aug 2026 12:19:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/bar-chart/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Candlestick Chart</title>
+      <link>http://localhost:1313/en/tags/candlestick-chart/</link>
+      <pubDate>Sun, 02 Aug 2026 12:19:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/candlestick-chart/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chart Types</title>
+      <link>http://localhost:1313/en/tags/chart-types/</link>
+      <pubDate>Sun, 02 Aug 2026 12:19:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/chart-types/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Line Chart</title>
+      <link>http://localhost:1313/en/tags/line-chart/</link>
+      <pubDate>Sun, 02 Aug 2026 12:19:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/line-chart/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Price Chart</title>
+      <link>http://localhost:1313/en/tags/price-chart/</link>
+      <pubDate>Sun, 02 Aug 2026 12:19:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/price-chart/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Timeframe</title>
+      <link>http://localhost:1313/en/tags/timeframe/</link>
+      <pubDate>Sun, 02 Aug 2026 12:19:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/timeframe/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Algorithmic Trading</title>
+      <link>http://localhost:1313/en/tags/algorithmic-trading/</link>
+      <pubDate>Sun, 02 Aug 2026 11:29:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/algorithmic-trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Entry and Exit Rules</title>
+      <link>http://localhost:1313/en/tags/entry-and-exit-rules/</link>
+      <pubDate>Sun, 02 Aug 2026 11:29:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/entry-and-exit-rules/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Position Sizing</title>
+      <link>http://localhost:1313/en/tags/position-sizing/</link>
+      <pubDate>Sun, 02 Aug 2026 11:29:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/position-sizing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rule-Based Trading</title>
+      <link>http://localhost:1313/en/tags/rule-based-trading/</link>
+      <pubDate>Sun, 02 Aug 2026 11:29:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/rule-based-trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading Strategy</title>
+      <link>http://localhost:1313/en/tags/trading-strategy/</link>
+      <pubDate>Sun, 02 Aug 2026 11:29:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/trading-strategy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>P/L Calculation</title>
+      <link>http://localhost:1313/en/tags/p/l-calculation/</link>
+      <pubDate>Sun, 02 Aug 2026 11:21:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/p/l-calculation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pip Value</title>
+      <link>http://localhost:1313/en/tags/pip-value/</link>
+      <pubDate>Sun, 02 Aug 2026 11:21:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/pip-value/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Profit and Loss</title>
+      <link>http://localhost:1313/en/tags/profit-and-loss/</link>
+      <pubDate>Sun, 02 Aug 2026 11:21:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/profit-and-loss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading Basics</title>
+      <link>http://localhost:1313/en/tags/trading-basics/</link>
+      <pubDate>Sun, 02 Aug 2026 11:21:21 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/trading-basics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Backtesting</title>
+      <link>http://localhost:1313/en/tags/backtesting/</link>
+      <pubDate>Sun, 02 Aug 2026 10:59:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/backtesting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Commission</title>
+      <link>http://localhost:1313/en/tags/commission/</link>
+      <pubDate>Sun, 02 Aug 2026 10:59:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/commission/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Slippage</title>
+      <link>http://localhost:1313/en/tags/slippage/</link>
+      <pubDate>Sun, 02 Aug 2026 10:59:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/slippage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spread</title>
+      <link>http://localhost:1313/en/tags/spread/</link>
+      <pubDate>Sun, 02 Aug 2026 10:59:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/spread/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading Costs</title>
+      <link>http://localhost:1313/en/tags/trading-costs/</link>
+      <pubDate>Sun, 02 Aug 2026 10:59:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/trading-costs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Forex Trading Volume</title>
+      <link>http://localhost:1313/en/tags/forex-trading-volume/</link>
+      <pubDate>Sun, 02 Aug 2026 10:37:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/forex-trading-volume/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Liquidity</title>
+      <link>http://localhost:1313/en/tags/liquidity/</link>
+      <pubDate>Sun, 02 Aug 2026 10:37:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/liquidity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Liquidity Risk</title>
+      <link>http://localhost:1313/en/tags/liquidity-risk/</link>
+      <pubDate>Sun, 02 Aug 2026 10:37:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/liquidity-risk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Market Liquidity</title>
+      <link>http://localhost:1313/en/tags/market-liquidity/</link>
+      <pubDate>Sun, 02 Aug 2026 10:37:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/market-liquidity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Order Matching</title>
+      <link>http://localhost:1313/en/tags/order-matching/</link>
+      <pubDate>Sun, 02 Aug 2026 10:37:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/order-matching/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Binary Options</title>
+      <link>http://localhost:1313/en/tags/binary-options/</link>
+      <pubDate>Sun, 02 Aug 2026 10:28:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/binary-options/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Expected Value</title>
+      <link>http://localhost:1313/en/tags/expected-value/</link>
+      <pubDate>Sun, 02 Aug 2026 10:28:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/expected-value/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Risk to Reward</title>
+      <link>http://localhost:1313/en/tags/risk-to-reward/</link>
+      <pubDate>Sun, 02 Aug 2026 10:28:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/risk-to-reward/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading vs Gambling</title>
+      <link>http://localhost:1313/en/tags/trading-vs-gambling/</link>
+      <pubDate>Sun, 02 Aug 2026 10:28:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/trading-vs-gambling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Win Rate</title>
+      <link>http://localhost:1313/en/tags/win-rate/</link>
+      <pubDate>Sun, 02 Aug 2026 10:28:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/win-rate/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Crypto Exchange</title>
+      <link>http://localhost:1313/en/tags/crypto-exchange/</link>
+      <pubDate>Sun, 02 Aug 2026 08:54:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/crypto-exchange/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Forex Broker</title>
+      <link>http://localhost:1313/en/tags/forex-broker/</link>
+      <pubDate>Sun, 02 Aug 2026 08:54:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/forex-broker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Market Comparison</title>
+      <link>http://localhost:1313/en/tags/market-comparison/</link>
+      <pubDate>Sun, 02 Aug 2026 08:54:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/market-comparison/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stock Exchange</title>
+      <link>http://localhost:1313/en/tags/stock-exchange/</link>
+      <pubDate>Sun, 02 Aug 2026 08:54:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/stock-exchange/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading Venues</title>
+      <link>http://localhost:1313/en/tags/trading-venues/</link>
+      <pubDate>Sun, 02 Aug 2026 08:54:47 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/trading-venues/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>http://localhost:1313/en/tags/blockchain/</link>
+      <pubDate>Sun, 02 Aug 2026 08:46:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/blockchain/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cryptocurrency</title>
+      <link>http://localhost:1313/en/tags/cryptocurrency/</link>
+      <pubDate>Sun, 02 Aug 2026 08:46:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/cryptocurrency/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Digital Assets</title>
+      <link>http://localhost:1313/en/tags/digital-assets/</link>
+      <pubDate>Sun, 02 Aug 2026 08:46:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/digital-assets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Whitepaper</title>
+      <link>http://localhost:1313/en/tags/whitepaper/</link>
+      <pubDate>Sun, 02 Aug 2026 08:46:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/whitepaper/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Broker</title>
+      <link>http://localhost:1313/en/tags/broker/</link>
+      <pubDate>Sun, 02 Aug 2026 08:38:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/broker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CFD Trading</title>
+      <link>http://localhost:1313/en/tags/cfd-trading/</link>
+      <pubDate>Sun, 02 Aug 2026 08:38:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/cfd-trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Leverage</title>
+      <link>http://localhost:1313/en/tags/leverage/</link>
+      <pubDate>Sun, 02 Aug 2026 08:38:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/leverage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Short Selling</title>
+      <link>http://localhost:1313/en/tags/short-selling/</link>
+      <pubDate>Sun, 02 Aug 2026 08:38:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/short-selling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Equity Ownership</title>
+      <link>http://localhost:1313/en/tags/equity-ownership/</link>
+      <pubDate>Sun, 02 Aug 2026 08:22:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/equity-ownership/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shareholding</title>
+      <link>http://localhost:1313/en/tags/shareholding/</link>
+      <pubDate>Sun, 02 Aug 2026 08:22:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/shareholding/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spot Market</title>
+      <link>http://localhost:1313/en/tags/spot-market/</link>
+      <pubDate>Sun, 02 Aug 2026 08:22:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/spot-market/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Financial Markets</title>
+      <link>http://localhost:1313/en/tags/financial-markets/</link>
+      <pubDate>Sun, 02 Aug 2026 07:44:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/financial-markets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Futures Market</title>
+      <link>http://localhost:1313/en/tags/futures-market/</link>
+      <pubDate>Sun, 02 Aug 2026 07:44:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/futures-market/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Options Market</title>
+      <link>http://localhost:1313/en/tags/options-market/</link>
+      <pubDate>Sun, 02 Aug 2026 07:44:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/options-market/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Perpetual Futures</title>
+      <link>http://localhost:1313/en/tags/perpetual-futures/</link>
+      <pubDate>Sun, 02 Aug 2026 07:44:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/perpetual-futures/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Equity</title>
+      <link>http://localhost:1313/en/tags/equity/</link>
+      <pubDate>Sun, 02 Aug 2026 07:39:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/equity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Margin</title>
+      <link>http://localhost:1313/en/tags/margin/</link>
+      <pubDate>Sun, 02 Aug 2026 07:39:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/margin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Margin Call</title>
+      <link>http://localhost:1313/en/tags/margin-call/</link>
+      <pubDate>Sun, 02 Aug 2026 07:39:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/margin-call/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Broker Commission</title>
+      <link>http://localhost:1313/en/tags/broker-commission/</link>
+      <pubDate>Sun, 02 Aug 2026 07:35:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/broker-commission/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Margin Trading</title>
+      <link>http://localhost:1313/en/tags/margin-trading/</link>
+      <pubDate>Sun, 02 Aug 2026 07:35:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/margin-trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Long Position</title>
+      <link>http://localhost:1313/en/tags/long-position/</link>
+      <pubDate>Sun, 02 Aug 2026 07:34:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/long-position/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Short Position</title>
+      <link>http://localhost:1313/en/tags/short-position/</link>
+      <pubDate>Sun, 02 Aug 2026 07:34:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/short-position/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cryptocurrency Trading</title>
+      <link>http://localhost:1313/en/tags/cryptocurrency-trading/</link>
+      <pubDate>Sun, 02 Aug 2026 07:33:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/cryptocurrency-trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Derivatives</title>
+      <link>http://localhost:1313/en/tags/derivatives/</link>
+      <pubDate>Sun, 02 Aug 2026 07:33:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/derivatives/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Funding Rate</title>
+      <link>http://localhost:1313/en/tags/funding-rate/</link>
+      <pubDate>Sun, 02 Aug 2026 07:33:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/funding-rate/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Pipeline</title>
+      <link>http://localhost:1313/en/tags/data-pipeline/</link>
+      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/data-pipeline/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Financial Machine Learning</title>
+      <link>http://localhost:1313/en/tags/financial-machine-learning/</link>
+      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/financial-machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MetaTrader 5</title>
+      <link>http://localhost:1313/en/tags/metatrader-5/</link>
+      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/metatrader-5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/en/tags/python/</link>
+      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/python/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Derivatives Market</title>
@@ -60,31 +910,11 @@
     </item>
     
     <item>
-      <title>Financial Markets</title>
-      <link>http://localhost:1313/en/tags/financial-markets/</link>
-      <pubDate>Fri, 03 Jul 2026 15:11:36 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/financial-markets/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Futures</title>
       <link>http://localhost:1313/en/tags/futures/</link>
       <pubDate>Fri, 03 Jul 2026 15:11:36 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/futures/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Risk Management</title>
-      <link>http://localhost:1313/en/tags/risk-management/</link>
-      <pubDate>Fri, 03 Jul 2026 14:30:50 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/risk-management/</guid>
       <description></description>
       
     </item>
@@ -120,31 +950,11 @@
     </item>
     
     <item>
-      <title>Spot Market</title>
-      <link>http://localhost:1313/en/tags/spot-market/</link>
-      <pubDate>Fri, 03 Jul 2026 13:50:19 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/spot-market/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Spot Transactions</title>
       <link>http://localhost:1313/en/tags/spot-transactions/</link>
       <pubDate>Fri, 03 Jul 2026 13:50:19 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/spot-transactions/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Algorithmic Trading</title>
-      <link>http://localhost:1313/en/tags/algorithmic-trading/</link>
-      <pubDate>Fri, 03 Jul 2026 10:44:05 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/algorithmic-trading/</guid>
       <description></description>
       
     </item>
@@ -215,26 +1025,6 @@
       <pubDate>Fri, 03 Jul 2026 10:31:56 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/pricing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Supply and Demand</title>
-      <link>http://localhost:1313/en/tags/supply-and-demand/</link>
-      <pubDate>Fri, 03 Jul 2026 10:31:56 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/supply-and-demand/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Trading Strategy</title>
-      <link>http://localhost:1313/en/tags/trading-strategy/</link>
-      <pubDate>Fri, 03 Jul 2026 09:13:25 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/trading-strategy/</guid>
       <description></description>
       
     </item>
@@ -315,16 +1105,6 @@
       <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/mql5/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tick Volume</title>
-      <link>http://localhost:1313/en/tags/tick-volume/</link>
-      <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/tick-volume/</guid>
       <description></description>
       
     </item>
@@ -415,6 +1195,46 @@
       <pubDate>Sat, 27 Jun 2026 07:37:55 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/genetic-algorithm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Behavioral Finance</title>
+      <link>http://localhost:1313/en/tags/behavioral-finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/behavioral-finance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Overfitting</title>
+      <link>http://localhost:1313/en/tags/overfitting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/overfitting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading Discipline</title>
+      <link>http://localhost:1313/en/tags/trading-discipline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/trading-discipline/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading Psychology</title>
+      <link>http://localhost:1313/en/tags/trading-psychology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/trading-psychology/</guid>
       <description></description>
       
     </item>

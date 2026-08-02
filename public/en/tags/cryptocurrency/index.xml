@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cryptocurrency on Quantistan</title>
+    <link>http://localhost:1313/en/tags/cryptocurrency/</link>
+    <description>Recent content in Cryptocurrency on Quantistan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
+    <lastBuildDate>Sun, 02 Aug 2026 08:46:35 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>0-17- How Does a Crypto Exchange Work?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-17-how-does-a-crypto-exchange-work/</link>
+      <pubDate>Sun, 02 Aug 2026 08:46:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-17-how-does-a-crypto-exchange-work/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

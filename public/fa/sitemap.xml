@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/tutorials/level0-trade/</loc>
-    <lastmod>2026-07-03T15:28:36+00:00</lastmod>
+    <lastmod>2026-08-02T07:46:08+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -50,6 +50,134 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/tutorials/level0-trade/0-14-%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7/</loc>
+    <lastmod>2026-08-02T07:46:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tutorials/level0-trade/0-14-market-comparison/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/tutorials/level0-trade/0-14-%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tutorials/</loc>
+    <lastmod>2026-08-02T07:46:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tutorials/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/tutorials/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tutorials/level0-trade/0-13-%D9%85%D8%A7%D8%B1%D8%AC%DB%8C%D9%86-%D9%88-%DA%A9%D8%A7%D9%84-%D9%85%D8%A7%D8%B1%D8%AC%DB%8C%D9%86/</loc>
+    <lastmod>2026-08-02T07:39:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tutorials/level0-trade/0-13-margin-and-margin-call/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/tutorials/level0-trade/0-13-%D9%85%D8%A7%D8%B1%D8%AC%DB%8C%D9%86-%D9%88-%DA%A9%D8%A7%D9%84-%D9%85%D8%A7%D8%B1%D8%AC%DB%8C%D9%86/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tutorials/level0-trade/0-12-%D8%A7%D9%87%D8%B1%D9%85-%D9%85%D8%A7%D9%84%DB%8C/</loc>
+    <lastmod>2026-08-02T07:35:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tutorials/level0-trade/0-12-leverage/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/tutorials/level0-trade/0-12-%D8%A7%D9%87%D8%B1%D9%85-%D9%85%D8%A7%D9%84%DB%8C/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tutorials/level0-trade/0-11-%D9%84%D8%A7%D9%86%DA%AF-%D9%88-%D8%B4%D9%88%D8%B1%D8%AA/</loc>
+    <lastmod>2026-08-02T07:34:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tutorials/level0-trade/0-11-long-short-positions/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/tutorials/level0-trade/0-11-%D9%84%D8%A7%D9%86%DA%AF-%D9%88-%D8%B4%D9%88%D8%B1%D8%AA/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tutorials/level0-trade/0-10-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C/</loc>
+    <lastmod>2026-08-02T07:34:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tutorials/level0-trade/0-10-perpetual-futures/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/tutorials/level0-trade/0-10-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/%D9%BE%D8%A7%DB%8C%D9%BE%D9%84%D8%A7%DB%8C%D9%86-%D8%B3%D8%A8%DA%A9-%D8%AF%D8%A7%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B2%D9%86%D8%AF%D9%87-%D9%88-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B9%D9%85%DB%8C%D9%82/</loc>
+    <lastmod>2026-08-02T06:35:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/projects/lightweight-data-pipeline-live-trading-ml-dl/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/projects/%D9%BE%D8%A7%DB%8C%D9%BE%D9%84%D8%A7%DB%8C%D9%86-%D8%B3%D8%A8%DA%A9-%D8%AF%D8%A7%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B2%D9%86%D8%AF%D9%87-%D9%88-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B9%D9%85%DB%8C%D9%82/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2026-08-02T06:35:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/projects/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/tutorials/level0-trade/9-0-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</loc>
     <lastmod>2026-07-03T15:28:36+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -63,22 +191,6 @@
       rel="alternate"
       hreflang="fa"
       href="http://localhost:1313/tutorials/level0-trade/9-0-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tutorials/</loc>
-    <lastmod>2026-07-03T15:28:36+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/tutorials/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fa"
-      href="http://localhost:1313/tutorials/"
     />
   </url>
   <url>
@@ -223,22 +335,6 @@
       rel="alternate"
       hreflang="fa"
       href="http://localhost:1313/projects/tickvol/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2026-06-30T23:20:43+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fa"
-      href="http://localhost:1313/projects/"
     />
   </url>
   <url>

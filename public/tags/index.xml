@@ -7,7 +7,867 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <copyright>© 2026    محمد مهدی معصومیان</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 15:28:36 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Aug 2026 13:25:24 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>حد سود</title>
+      <link>http://localhost:1313/tags/%D8%AD%D8%AF-%D8%B3%D9%88%D8%AF/</link>
+      <pubDate>Sun, 02 Aug 2026 13:25:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%AD%D8%AF-%D8%B3%D9%88%D8%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>حد ضرر</title>
+      <link>http://localhost:1313/tags/%D8%AD%D8%AF-%D8%B6%D8%B1%D8%B1/</link>
+      <pubDate>Sun, 02 Aug 2026 13:25:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%AD%D8%AF-%D8%B6%D8%B1%D8%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>حد ضرر متحرک</title>
+      <link>http://localhost:1313/tags/%D8%AD%D8%AF-%D8%B6%D8%B1%D8%B1-%D9%85%D8%AA%D8%AD%D8%B1%DA%A9/</link>
+      <pubDate>Sun, 02 Aug 2026 13:25:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%AD%D8%AF-%D8%B6%D8%B1%D8%B1-%D9%85%D8%AA%D8%AD%D8%B1%DA%A9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مدیریت ریسک</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B1%DB%8C%D8%B3%DA%A9/</link>
+      <pubDate>Sun, 02 Aug 2026 13:25:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B1%DB%8C%D8%B3%DA%A9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مدیریت سرمایه</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87/</link>
+      <pubDate>Sun, 02 Aug 2026 13:25:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>انواع سفارش</title>
+      <link>http://localhost:1313/tags/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%B3%D9%81%D8%A7%D8%B1%D8%B4/</link>
+      <pubDate>Sun, 02 Aug 2026 12:54:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%B3%D9%81%D8%A7%D8%B1%D8%B4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بای استاپ</title>
+      <link>http://localhost:1313/tags/%D8%A8%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%BE/</link>
+      <pubDate>Sun, 02 Aug 2026 12:54:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بای لیمیت</title>
+      <link>http://localhost:1313/tags/%D8%A8%D8%A7%DB%8C-%D9%84%DB%8C%D9%85%DB%8C%D8%AA/</link>
+      <pubDate>Sun, 02 Aug 2026 12:54:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D8%A7%DB%8C-%D9%84%DB%8C%D9%85%DB%8C%D8%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>سل استاپ</title>
+      <link>http://localhost:1313/tags/%D8%B3%D9%84-%D8%A7%D8%B3%D8%AA%D8%A7%D9%BE/</link>
+      <pubDate>Sun, 02 Aug 2026 12:54:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B3%D9%84-%D8%A7%D8%B3%D8%AA%D8%A7%D9%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>سل لیمیت</title>
+      <link>http://localhost:1313/tags/%D8%B3%D9%84-%D9%84%DB%8C%D9%85%DB%8C%D8%AA/</link>
+      <pubDate>Sun, 02 Aug 2026 12:54:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B3%D9%84-%D9%84%DB%8C%D9%85%DB%8C%D8%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>کال و پوت آپشن</title>
+      <link>http://localhost:1313/tags/%DA%A9%D8%A7%D9%84-%D9%88-%D9%BE%D9%88%D8%AA-%D8%A2%D9%BE%D8%B4%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 12:54:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%DA%A9%D8%A7%D9%84-%D9%88-%D9%BE%D9%88%D8%AA-%D8%A2%D9%BE%D8%B4%D9%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>پرایس اکشن</title>
+      <link>http://localhost:1313/tags/%D9%BE%D8%B1%D8%A7%DB%8C%D8%B3-%D8%A7%DA%A9%D8%B4%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 12:43:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%BE%D8%B1%D8%A7%DB%8C%D8%B3-%D8%A7%DA%A9%D8%B4%D9%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>دفتر سفارشات</title>
+      <link>http://localhost:1313/tags/%D8%AF%D9%81%D8%AA%D8%B1-%D8%B3%D9%81%D8%A7%D8%B1%D8%B4%D8%A7%D8%AA/</link>
+      <pubDate>Sun, 02 Aug 2026 12:43:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%AF%D9%81%D8%AA%D8%B1-%D8%B3%D9%81%D8%A7%D8%B1%D8%B4%D8%A7%D8%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ساختار خرد بازار</title>
+      <link>http://localhost:1313/tags/%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1-%D8%AE%D8%B1%D8%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1/</link>
+      <pubDate>Sun, 02 Aug 2026 12:43:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1-%D8%AE%D8%B1%D8%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>عرضه و تقاضا</title>
+      <link>http://localhost:1313/tags/%D8%B9%D8%B1%D8%B6%D9%87-%D9%88-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7/</link>
+      <pubDate>Sun, 02 Aug 2026 12:43:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B9%D8%B1%D8%B6%D9%87-%D9%88-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>معاملات فرکانس بالا</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%81%D8%B1%DA%A9%D8%A7%D9%86%D8%B3-%D8%A8%D8%A7%D9%84%D8%A7/</link>
+      <pubDate>Sun, 02 Aug 2026 12:43:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%81%D8%B1%DA%A9%D8%A7%D9%86%D8%B3-%D8%A8%D8%A7%D9%84%D8%A7/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>انواع نمودار</title>
+      <link>http://localhost:1313/tags/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1/</link>
+      <pubDate>Sun, 02 Aug 2026 12:20:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>تایم‌فریم</title>
+      <link>http://localhost:1313/tags/%D8%AA%D8%A7%DB%8C%D9%85%D9%81%D8%B1%DB%8C%D9%85/</link>
+      <pubDate>Sun, 02 Aug 2026 12:20:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%AA%D8%A7%DB%8C%D9%85%D9%81%D8%B1%DB%8C%D9%85/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>نمودار خطی</title>
+      <link>http://localhost:1313/tags/%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D8%AE%D8%B7%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 12:20:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D8%AE%D8%B7%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>نمودار شمعی</title>
+      <link>http://localhost:1313/tags/%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D8%B4%D9%85%D8%B9%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 12:20:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D8%B4%D9%85%D8%B9%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>نمودار قیمت</title>
+      <link>http://localhost:1313/tags/%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D9%82%DB%8C%D9%85%D8%AA/</link>
+      <pubDate>Sun, 02 Aug 2026 12:20:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D9%82%DB%8C%D9%85%D8%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>نمودار میله‌ای</title>
+      <link>http://localhost:1313/tags/%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%D9%87%D8%A7%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 12:20:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%D9%87%D8%A7%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>استراتژی معاملاتی</title>
+      <link>http://localhost:1313/tags/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 11:29:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>حجم پوزیشن</title>
+      <link>http://localhost:1313/tags/%D8%AD%D8%AC%D9%85-%D9%BE%D9%88%D8%B2%DB%8C%D8%B4%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 11:29:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%AD%D8%AC%D9%85-%D9%BE%D9%88%D8%B2%DB%8C%D8%B4%D9%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>معاملات الگوریتمی</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 11:29:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>معاملات قانون‌محور</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%85%D8%AD%D9%88%D8%B1/</link>
+      <pubDate>Sun, 02 Aug 2026 11:29:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%85%D8%AD%D9%88%D8%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>نقاط ورود و خروج</title>
+      <link>http://localhost:1313/tags/%D9%86%D9%82%D8%A7%D8%B7-%D9%88%D8%B1%D9%88%D8%AF-%D9%88-%D8%AE%D8%B1%D9%88%D8%AC/</link>
+      <pubDate>Sun, 02 Aug 2026 11:29:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%86%D9%82%D8%A7%D8%B7-%D9%88%D8%B1%D9%88%D8%AF-%D9%88-%D8%AE%D8%B1%D9%88%D8%AC/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ارزش پیپ</title>
+      <link>http://localhost:1313/tags/%D8%A7%D8%B1%D8%B2%D8%B4-%D9%BE%DB%8C%D9%BE/</link>
+      <pubDate>Sun, 02 Aug 2026 11:22:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%D8%B1%D8%B2%D8%B4-%D9%BE%DB%8C%D9%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>سود و زیان</title>
+      <link>http://localhost:1313/tags/%D8%B3%D9%88%D8%AF-%D9%88-%D8%B2%DB%8C%D8%A7%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 11:22:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B3%D9%88%D8%AF-%D9%88-%D8%B2%DB%8C%D8%A7%D9%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مبانی معامله‌گری</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87%DA%AF%D8%B1%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 11:22:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87%DA%AF%D8%B1%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>محاسبهٔ سود و زیان</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87%D9%94-%D8%B3%D9%88%D8%AF-%D9%88-%D8%B2%DB%8C%D8%A7%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 11:22:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87%D9%94-%D8%B3%D9%88%D8%AF-%D9%88-%D8%B2%DB%8C%D8%A7%D9%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>اسپرد</title>
+      <link>http://localhost:1313/tags/%D8%A7%D8%B3%D9%BE%D8%B1%D8%AF/</link>
+      <pubDate>Sun, 02 Aug 2026 11:01:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%D8%B3%D9%BE%D8%B1%D8%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>اسلیپیج</title>
+      <link>http://localhost:1313/tags/%D8%A7%D8%B3%D9%84%DB%8C%D9%BE%DB%8C%D8%AC/</link>
+      <pubDate>Sun, 02 Aug 2026 11:01:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%D8%B3%D9%84%DB%8C%D9%BE%DB%8C%D8%AC/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بک‌تست</title>
+      <link>http://localhost:1313/tags/%D8%A8%DA%A9%D8%AA%D8%B3%D8%AA/</link>
+      <pubDate>Sun, 02 Aug 2026 11:01:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%DA%A9%D8%AA%D8%B3%D8%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>کمیسیون</title>
+      <link>http://localhost:1313/tags/%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 11:01:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>هزینه‌های معامله</title>
+      <link>http://localhost:1313/tags/%D9%87%D8%B2%DB%8C%D9%86%D9%87%D9%87%D8%A7%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</link>
+      <pubDate>Sun, 02 Aug 2026 11:01:32 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%87%D8%B2%DB%8C%D9%86%D9%87%D9%87%D8%A7%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>تطبیق سفارش</title>
+      <link>http://localhost:1313/tags/%D8%AA%D8%B7%D8%A8%DB%8C%D9%82-%D8%B3%D9%81%D8%A7%D8%B1%D8%B4/</link>
+      <pubDate>Sun, 02 Aug 2026 10:38:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%AA%D8%B7%D8%A8%DB%8C%D9%82-%D8%B3%D9%81%D8%A7%D8%B1%D8%B4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>حجم معاملات فارکس</title>
+      <link>http://localhost:1313/tags/%D8%AD%D8%AC%D9%85-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%81%D8%A7%D8%B1%DA%A9%D8%B3/</link>
+      <pubDate>Sun, 02 Aug 2026 10:38:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%AD%D8%AC%D9%85-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%81%D8%A7%D8%B1%DA%A9%D8%B3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ریسک نقدینگی</title>
+      <link>http://localhost:1313/tags/%D8%B1%DB%8C%D8%B3%DA%A9-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 10:38:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B1%DB%8C%D8%B3%DA%A9-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>نقدینگی</title>
+      <link>http://localhost:1313/tags/%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 10:38:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>نقدینگی بازار</title>
+      <link>http://localhost:1313/tags/%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1/</link>
+      <pubDate>Sun, 02 Aug 2026 10:38:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>امیدریاضی</title>
+      <link>http://localhost:1313/tags/%D8%A7%D9%85%DB%8C%D8%AF%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 10:29:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%D9%85%DB%8C%D8%AF%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>باینری آپشن</title>
+      <link>http://localhost:1313/tags/%D8%A8%D8%A7%DB%8C%D9%86%D8%B1%DB%8C-%D8%A2%D9%BE%D8%B4%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 10:29:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D8%A7%DB%8C%D9%86%D8%B1%DB%8C-%D8%A2%D9%BE%D8%B4%D9%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ریسک به ریوارد</title>
+      <link>http://localhost:1313/tags/%D8%B1%DB%8C%D8%B3%DA%A9-%D8%A8%D9%87-%D8%B1%DB%8C%D9%88%D8%A7%D8%B1%D8%AF/</link>
+      <pubDate>Sun, 02 Aug 2026 10:29:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B1%DB%8C%D8%B3%DA%A9-%D8%A8%D9%87-%D8%B1%DB%8C%D9%88%D8%A7%D8%B1%D8%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>معامله‌گری در مقابل قمار</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87%DA%AF%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D9%82%D9%85%D8%A7%D8%B1/</link>
+      <pubDate>Sun, 02 Aug 2026 10:29:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87%DA%AF%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D9%82%D9%85%D8%A7%D8%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>نرخ برد</title>
+      <link>http://localhost:1313/tags/%D9%86%D8%B1%D8%AE-%D8%A8%D8%B1%D8%AF/</link>
+      <pubDate>Sun, 02 Aug 2026 10:29:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%86%D8%B1%D8%AE-%D8%A8%D8%B1%D8%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بروکر فارکس</title>
+      <link>http://localhost:1313/tags/%D8%A8%D8%B1%D9%88%DA%A9%D8%B1-%D9%81%D8%A7%D8%B1%DA%A9%D8%B3/</link>
+      <pubDate>Sun, 02 Aug 2026 08:55:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D8%B1%D9%88%DA%A9%D8%B1-%D9%81%D8%A7%D8%B1%DA%A9%D8%B3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بورس سهام</title>
+      <link>http://localhost:1313/tags/%D8%A8%D9%88%D8%B1%D8%B3-%D8%B3%D9%87%D8%A7%D9%85/</link>
+      <pubDate>Sun, 02 Aug 2026 08:55:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D9%88%D8%B1%D8%B3-%D8%B3%D9%87%D8%A7%D9%85/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>صرافی ارز دیجیتال</title>
+      <link>http://localhost:1313/tags/%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84/</link>
+      <pubDate>Sun, 02 Aug 2026 08:55:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>محل‌های معامله</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%AD%D9%84%D9%87%D8%A7%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</link>
+      <pubDate>Sun, 02 Aug 2026 08:55:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%AD%D9%84%D9%87%D8%A7%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مقایسه بازارها</title>
+      <link>http://localhost:1313/tags/%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7/</link>
+      <pubDate>Sun, 02 Aug 2026 08:55:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ارز دیجیتال</title>
+      <link>http://localhost:1313/tags/%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84/</link>
+      <pubDate>Sun, 02 Aug 2026 08:47:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بلاک‌چین</title>
+      <link>http://localhost:1313/tags/%D8%A8%D9%84%D8%A7%DA%A9%DA%86%DB%8C%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 08:47:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D9%84%D8%A7%DA%A9%DA%86%DB%8C%D9%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>دارایی دیجیتال</title>
+      <link>http://localhost:1313/tags/%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84/</link>
+      <pubDate>Sun, 02 Aug 2026 08:47:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>وایت‌پیپر</title>
+      <link>http://localhost:1313/tags/%D9%88%D8%A7%DB%8C%D8%AA%D9%BE%DB%8C%D9%BE%D8%B1/</link>
+      <pubDate>Sun, 02 Aug 2026 08:47:14 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%88%D8%A7%DB%8C%D8%AA%D9%BE%DB%8C%D9%BE%D8%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>اهرم مالی</title>
+      <link>http://localhost:1313/tags/%D8%A7%D9%87%D8%B1%D9%85-%D9%85%D8%A7%D9%84%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 08:39:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%D9%87%D8%B1%D9%85-%D9%85%D8%A7%D9%84%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بروکر</title>
+      <link>http://localhost:1313/tags/%D8%A8%D8%B1%D9%88%DA%A9%D8%B1/</link>
+      <pubDate>Sun, 02 Aug 2026 08:39:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D8%B1%D9%88%DA%A9%D8%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>فروش استقراضی</title>
+      <link>http://localhost:1313/tags/%D9%81%D8%B1%D9%88%D8%B4-%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B6%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 08:39:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%81%D8%B1%D9%88%D8%B4-%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B6%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>معاملات سی‌اف‌دی</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B3%DB%8C%D8%A7%D9%81%D8%AF%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 08:39:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B3%DB%8C%D8%A7%D9%81%D8%AF%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بازار نقدی</title>
+      <link>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%82%D8%AF%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 08:23:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%82%D8%AF%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بورس</title>
+      <link>http://localhost:1313/tags/%D8%A8%D9%88%D8%B1%D8%B3/</link>
+      <pubDate>Sun, 02 Aug 2026 08:23:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D9%88%D8%B1%D8%B3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>سهامداری</title>
+      <link>http://localhost:1313/tags/%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 08:23:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مالکیت سهام</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%A7%D9%84%DA%A9%DB%8C%D8%AA-%D8%B3%D9%87%D8%A7%D9%85/</link>
+      <pubDate>Sun, 02 Aug 2026 08:23:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%A7%D9%84%DA%A9%DB%8C%D8%AA-%D8%B3%D9%87%D8%A7%D9%85/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بازار آتی</title>
+      <link>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A2%D8%AA%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 07:46:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A2%D8%AA%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بازار اختیار معامله</title>
+      <link>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</link>
+      <pubDate>Sun, 02 Aug 2026 07:46:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بازارهای مالی</title>
+      <link>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 07:46:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>قراردادهای دائمی</title>
+      <link>http://localhost:1313/tags/%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 07:46:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>اکوییتی</title>
+      <link>http://localhost:1313/tags/%D8%A7%DA%A9%D9%88%DB%8C%DB%8C%D8%AA%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 07:39:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%DA%A9%D9%88%DB%8C%DB%8C%D8%AA%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>کال مارجین</title>
+      <link>http://localhost:1313/tags/%DA%A9%D8%A7%D9%84-%D9%85%D8%A7%D8%B1%D8%AC%DB%8C%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 07:39:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%DA%A9%D8%A7%D9%84-%D9%85%D8%A7%D8%B1%D8%AC%DB%8C%D9%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مارجین</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%A7%D8%B1%D8%AC%DB%8C%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 07:39:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%A7%D8%B1%D8%AC%DB%8C%D9%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>کارمزد بروکر</title>
+      <link>http://localhost:1313/tags/%DA%A9%D8%A7%D8%B1%D9%85%D8%B2%D8%AF-%D8%A8%D8%B1%D9%88%DA%A9%D8%B1/</link>
+      <pubDate>Sun, 02 Aug 2026 07:35:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%DA%A9%D8%A7%D8%B1%D9%85%D8%B2%D8%AF-%D8%A8%D8%B1%D9%88%DA%A9%D8%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>معاملات مارجین</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%85%D8%A7%D8%B1%D8%AC%DB%8C%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 07:35:16 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%85%D8%A7%D8%B1%D8%AC%DB%8C%D9%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>پوزیشن شورت</title>
+      <link>http://localhost:1313/tags/%D9%BE%D9%88%D8%B2%DB%8C%D8%B4%D9%86-%D8%B4%D9%88%D8%B1%D8%AA/</link>
+      <pubDate>Sun, 02 Aug 2026 07:34:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%BE%D9%88%D8%B2%DB%8C%D8%B4%D9%86-%D8%B4%D9%88%D8%B1%D8%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>پوزیشن لانگ</title>
+      <link>http://localhost:1313/tags/%D9%BE%D9%88%D8%B2%DB%8C%D8%B4%D9%86-%D9%84%D8%A7%D9%86%DA%AF/</link>
+      <pubDate>Sun, 02 Aug 2026 07:34:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%BE%D9%88%D8%B2%DB%8C%D8%B4%D9%86-%D9%84%D8%A7%D9%86%DA%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ابزار مشتقه</title>
+      <link>http://localhost:1313/tags/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D9%85%D8%B4%D8%AA%D9%82%D9%87/</link>
+      <pubDate>Sun, 02 Aug 2026 07:34:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D9%85%D8%B4%D8%AA%D9%82%D9%87/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>معاملات ارز دیجیتال</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84/</link>
+      <pubDate>Sun, 02 Aug 2026 07:34:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>نرخ فاندینگ</title>
+      <link>http://localhost:1313/tags/%D9%86%D8%B1%D8%AE-%D9%81%D8%A7%D9%86%D8%AF%DB%8C%D9%86%DA%AF/</link>
+      <pubDate>Sun, 02 Aug 2026 07:34:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%86%D8%B1%D8%AE-%D9%81%D8%A7%D9%86%D8%AF%DB%8C%D9%86%DA%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>پایپ‌لاین داده</title>
+      <link>http://localhost:1313/tags/%D9%BE%D8%A7%DB%8C%D9%BE%D9%84%D8%A7%DB%8C%D9%86-%D8%AF%D8%A7%D8%AF%D9%87/</link>
+      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%BE%D8%A7%DB%8C%D9%BE%D9%84%D8%A7%DB%8C%D9%86-%D8%AF%D8%A7%D8%AF%D9%87/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>پایتون</title>
+      <link>http://localhost:1313/tags/%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>متاتریدر 5</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%AA%D8%A7%D8%AA%D8%B1%DB%8C%D8%AF%D8%B1-5/</link>
+      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%85%D8%AA%D8%A7%D8%AA%D8%B1%DB%8C%D8%AF%D8%B1-5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>یادگیری ماشین مالی</title>
+      <link>http://localhost:1313/tags/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%85%D8%A7%D9%84%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%85%D8%A7%D9%84%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بازار گاوی و خرسی</title>
+      <link>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%AF%D8%A7%D9%88%DB%8C-%D9%88-%D8%AE%D8%B1%D8%B3%DB%8C/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%AF%D8%A7%D9%88%DB%8C-%D9%88-%D8%AE%D8%B1%D8%B3%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>حجم تیک</title>
+      <link>http://localhost:1313/tags/%D8%AD%D8%AC%D9%85-%D8%AA%DB%8C%DA%A9/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%AD%D8%AC%D9%85-%D8%AA%DB%8C%DA%A9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>حجم معاملات</title>
+      <link>http://localhost:1313/tags/%D8%AD%D8%AC%D9%85-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%AD%D8%AC%D9%85-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>روند بازار</title>
+      <link>http://localhost:1313/tags/%D8%B1%D9%88%D9%86%D8%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B1%D9%88%D9%86%D8%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>نوسان</title>
+      <link>http://localhost:1313/tags/%D9%86%D9%88%D8%B3%D8%A7%D9%86/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D9%86%D9%88%D8%B3%D8%A7%D9%86/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>انواع بازار های مالی</title>
@@ -60,41 +920,11 @@
     </item>
     
     <item>
-      <title>بازارهای مالی</title>
-      <link>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C/</link>
-      <pubDate>Fri, 03 Jul 2026 14:32:09 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>دارایی های قابل معامله</title>
       <link>http://localhost:1313/tags/%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</link>
       <pubDate>Fri, 03 Jul 2026 14:32:09 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>مدیریت ریسک</title>
-      <link>http://localhost:1313/tags/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B1%DB%8C%D8%B3%DA%A9/</link>
-      <pubDate>Fri, 03 Jul 2026 14:32:09 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B1%DB%8C%D8%B3%DA%A9/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>بازار نقدی</title>
-      <link>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%82%D8%AF%DB%8C/</link>
-      <pubDate>Fri, 03 Jul 2026 13:50:13 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%82%D8%AF%DB%8C/</guid>
       <description></description>
       
     </item>
@@ -150,16 +980,6 @@
     </item>
     
     <item>
-      <title>عرضه و تقاضا</title>
-      <link>http://localhost:1313/tags/%D8%B9%D8%B1%D8%B6%D9%87-%D9%88-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7/</link>
-      <pubDate>Fri, 03 Jul 2026 10:27:04 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/%D8%B9%D8%B1%D8%B6%D9%87-%D9%88-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>قیمت گذاری</title>
       <link>http://localhost:1313/tags/%D9%82%DB%8C%D9%85%D8%AA-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C/</link>
       <pubDate>Fri, 03 Jul 2026 10:27:04 +0000</pubDate>
@@ -170,51 +990,11 @@
     </item>
     
     <item>
-      <title>استراتژی معاملاتی</title>
-      <link>http://localhost:1313/tags/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA%DB%8C/</link>
-      <pubDate>Fri, 03 Jul 2026 09:03:14 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA%DB%8C/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>شرکت‌کنندگان بازار</title>
       <link>http://localhost:1313/tags/%D8%B4%D8%B1%DA%A9%D8%AA%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1/</link>
       <pubDate>Fri, 03 Jul 2026 09:03:14 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/%D8%B4%D8%B1%DA%A9%D8%AA%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>معاملات الگوریتمی</title>
-      <link>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%DB%8C/</link>
-      <pubDate>Fri, 03 Jul 2026 09:03:14 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%DB%8C/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ارز دیجیتال</title>
-      <link>http://localhost:1313/tags/%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84/</link>
-      <pubDate>Fri, 03 Jul 2026 07:14:36 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>بورس</title>
-      <link>http://localhost:1313/tags/%D8%A8%D9%88%D8%B1%D8%B3/</link>
-      <pubDate>Fri, 03 Jul 2026 07:14:36 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/%D8%A8%D9%88%D8%B1%D8%B3/</guid>
       <description></description>
       
     </item>
@@ -285,16 +1065,6 @@
       <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/%D8%AD%D8%AC%D9%85/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>متاتریدر 5</title>
-      <link>http://localhost:1313/tags/%D9%85%D8%AA%D8%A7%D8%AA%D8%B1%DB%8C%D8%AF%D8%B1-5/</link>
-      <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/%D9%85%D8%AA%D8%A7%D8%AA%D8%B1%DB%8C%D8%AF%D8%B1-5/</guid>
       <description></description>
       
     </item>
@@ -435,6 +1205,46 @@
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%BE%D8%B1%D8%AA%D9%81%D9%88%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>اقتصاد رفتاری</title>
+      <link>http://localhost:1313/tags/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%B1%D9%81%D8%AA%D8%A7%D8%B1%DB%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%B1%D9%81%D8%AA%D8%A7%D8%B1%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>انضباط احساسی</title>
+      <link>http://localhost:1313/tags/%D8%A7%D9%86%D8%B6%D8%A8%D8%A7%D8%B7-%D8%A7%D8%AD%D8%B3%D8%A7%D8%B3%DB%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A7%D9%86%D8%B6%D8%A8%D8%A7%D8%B7-%D8%A7%D8%AD%D8%B3%D8%A7%D8%B3%DB%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>بیش‌برازش</title>
+      <link>http://localhost:1313/tags/%D8%A8%DB%8C%D8%B4%D8%A8%D8%B1%D8%A7%D8%B2%D8%B4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%A8%DB%8C%D8%B4%D8%A8%D8%B1%D8%A7%D8%B2%D8%B4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>روان‌شناسی معامله‌گری</title>
+      <link>http://localhost:1313/tags/%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87%DA%AF%D8%B1%DB%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87%DA%AF%D8%B1%DB%8C/</guid>
       <description></description>
       
     </item>

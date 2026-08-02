@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <copyright>© 2026    محمد مهدی معصومیان</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 15:28:36 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Aug 2026 07:46:08 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Intermediate</title>
       <link>http://localhost:1313/categories/intermediate/</link>
-      <pubDate>Fri, 03 Jul 2026 15:28:36 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 07:46:08 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/intermediate/</guid>
       <description></description>
@@ -22,9 +22,19 @@
     <item>
       <title>Basic</title>
       <link>http://localhost:1313/categories/basic/</link>
-      <pubDate>Fri, 03 Jul 2026 14:32:09 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 07:34:55 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/basic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PythonLib</title>
+      <link>http://localhost:1313/categories/pythonlib/</link>
+      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/pythonlib/</guid>
       <description></description>
       
     </item>
@@ -40,21 +50,21 @@
     </item>
     
     <item>
-      <title>Confrance</title>
-      <link>http://localhost:1313/categories/confrance/</link>
-      <pubDate>Tue, 30 Jun 2026 22:21:43 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/confrance/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Open Access</title>
       <link>http://localhost:1313/categories/open-access/</link>
       <pubDate>Tue, 30 Jun 2026 22:21:43 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/open-access/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Preprint</title>
+      <link>http://localhost:1313/categories/preprint/</link>
+      <pubDate>Tue, 30 Jun 2026 22:21:43 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/preprint/</guid>
       <description></description>
       
     </item>
