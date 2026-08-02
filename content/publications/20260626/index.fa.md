@@ -4,7 +4,7 @@ description: چارچوبی مبتنی بر قوانین برای مدیریت �
 date: 2026-06-26
 draft: false
 params:
-  citation: https://ssrn.com/abstract=6885240
+  citation: https://doi.org/10.2139/ssrn.6885240
   author: Mohammad Mahdi Masoumian
 categories:
   - Confrance
@@ -30,7 +30,7 @@ slug: مدیریت-پرتفوی-مبتنی-بر-ریسک-در-بورس-اورا�
 
 **ناشر/تاریخ انتشار:** کنفرانس سالانه ملی مدیریت، تجاری سازی، اقتصاد دانش بنیان و سرمایه گذاری برای تولید | 2026
 
-[**دانلود فایل مقاله**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6885240)
+[**دانلود فایل مقاله**](https://doi.org/10.2139/ssrn.6885240)
 
 **چکیده**
 

@@ -4,7 +4,7 @@ description: A Risk-Aware Rule-Based Portfolio Management Framework for the Tehr
 date: 2026-06-27T07:37:55.599Z
 draft: false
 params:
-  citation: https://ssrn.com/abstract=6885240
+  citation: https://doi.org/10.2139/ssrn.6885240
 keywords:
   - Genetic Algorithm
   - Portfolio Management
@@ -32,7 +32,7 @@ full title:
 
 **Publisher/Release date:** Annual National Conference on Management, Commercialization, Knowledge-Based Economy and Investment for Production | 2026
 
-[**Dwonload PDF**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6885240)
+[**Dwonload PDF**](https://doi.org/10.2139/ssrn.6885240)
 
 **Abstract**
 

@@ -9,7 +9,9 @@ tags:
   - Machine Learning
   - Portfolio Management
   - Tehran Stock Exchange
-author: Mohammad Mahdi Masoumian
+params:
+  citation: https://doi.org/10.2139/ssrn.7002778
+  author: Mohammad Mahdi Masoumian
 keywords:
   - Decision-Making
   - Portfolio Recommendation
@@ -30,7 +32,7 @@ full title:
 
 **Publisher/Release date:** 5th.International Congress on Management, Economics, Humanities Education And Business Development | 2026
 
-[**Dwonload PDF**]()
+[**Dwonload PDF**](https://doi.org/10.2139/ssrn.7002778)
 
 **Abstract**
 

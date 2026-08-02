@@ -9,7 +9,7 @@ tags:
   - financial modeling
   - machine learning
 params:
-  citation: https://doi.org/10.5281/zenodo.21085119
+  citation: https://dx.doi.org/10.2139/ssrn.7140718
   author: Mohammad Mahdi Masoumian
 keywords:
   - Forecasting
@@ -34,7 +34,7 @@ full title:
 
 **Publisher/Release date:** 4th International Conference on Management, Economics, Entrepreneurship and Industrial Engineering | 2026
 
-[**Dwonload PDF**](https://zenodo.org/records/21085119)
+[**Dwonload PDF**](https://dx.doi.org/10.2139/ssrn.7140718)
 
 **Abstract**
 
