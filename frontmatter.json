@@ -39,7 +39,7 @@
           "title": "Category",
           "name": "categories",
           "type": "choice",
-          "choices": ["Preprint", "Tehran Stock", "open access"],
+          "choices": ["Preprint", "Journal", "open access", "Tehran Stock"],
           "multiple": true
         },
         { "title": "Tags", "name": "tags", "type": "tags" },
@@ -63,7 +63,7 @@
           "title": "Category",
           "name": "categories",
           "type": "choice",
-          "choices": ["Indicator", "Trading Bot", "Expert Advisor"],
+          "choices": ["Indicator", "ExpertAD", "PythonLib", "Machine Learning", "Deep Learning", "LLM"],
           "multiple": true
         },
         { "title": "Tags", "name": "tags", "type": "tags" },
