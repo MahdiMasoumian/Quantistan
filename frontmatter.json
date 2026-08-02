@@ -12,13 +12,7 @@
         { "title": "Date", "name": "date", "type": "datetime" },
         { "title": "Draft", "name": "draft", "type": "draft" },
         { "title": "Slug", "name": "slug", "type": "string" },
-        {
-          "title": "Category",
-          "name": "categories",
-          "type": "choice",
-          "choices": ["Basic", "Intermediate", "Advanced"],
-          "multiple": true
-        },
+        { "title": "Category", "name": "categories", "type": "categories" },
         { "title": "Tags", "name": "tags", "type": "tags" },
         { "title": "Keywords", "name": "keywords", "type": "tags" },
         { "title": "Author", "name": "author", "type": "string", "default": "Mohammad Mahdi Masoumian" },
@@ -35,13 +29,7 @@
         { "title": "Date", "name": "date", "type": "datetime" },
         { "title": "Draft", "name": "draft", "type": "draft" },
         { "title": "Slug", "name": "slug", "type": "string" },
-        {
-          "title": "Category",
-          "name": "categories",
-          "type": "choice",
-          "choices": ["Preprint", "Journal", "open access", "Tehran Stock"],
-          "multiple": true
-        },
+        { "title": "Category", "name": "categories", "type": "categories" },
         { "title": "Tags", "name": "tags", "type": "tags" },
         { "title": "Keywords", "name": "keywords", "type": "tags" },
         { "title": "Author", "name": "author", "type": "string", "default": "Mohammad Mahdi Masoumian" },
@@ -59,13 +47,7 @@
         { "title": "Date", "name": "date", "type": "datetime" },
         { "title": "Draft", "name": "draft", "type": "draft" },
         { "title": "Slug", "name": "slug", "type": "string" },
-        {
-          "title": "Category",
-          "name": "categories",
-          "type": "choice",
-          "choices": ["Indicator", "ExpertAD", "PythonLib", "Machine Learning", "Deep Learning", "LLM"],
-          "multiple": true
-        },
+        { "title": "Category", "name": "categories", "type": "categories" },
         { "title": "Tags", "name": "tags", "type": "tags" },
         { "title": "Keywords", "name": "keywords", "type": "tags" },
         { "title": "Author", "name": "author", "type": "string", "default": "Mohammad Mahdi Masoumian" },
@@ -82,18 +64,15 @@
   "frontMatter.content.pageFolders": [
     {
       "title": "tutorials",
-      "path": "[[workspace]]/content/tutorials/level0-trade",
-      "contentTypes": ["tutorials"]
+      "path": "[[workspace]]/content/tutorials"
     },
     {
       "title": "publications",
-      "path": "[[workspace]]/content/publications",
-      "contentTypes": ["publications"]
+      "path": "[[workspace]]/content/publications"
     },
     {
       "title": "projects",
-      "path": "[[workspace]]/content/projects",
-      "contentTypes": ["projects"]
+      "path": "[[workspace]]/content/projects"
     }
   ],
 
