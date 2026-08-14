@@ -40,6 +40,8 @@ C:.
 ³           params.toml
 ³           
 ÃÄÄÄcontent
+³   ³   structure.txt
+³   ³   update_structur.py
 ³   ³   _index.en.md
 ³   ³   _index.fa.md
 ³   ³   
@@ -105,6 +107,8 @@ C:.
 ³   ³           index.fa.md
 ³   ³           
 ³   ÀÄÄÄtutorials
+³       ³   structure.txt
+³       ³   update_structur.py
 ³       ³   _index.en.md
 ³       ³   _index.fa.md
 ³       ³   
@@ -116,11 +120,104 @@ C:.
 ³       ³   ³       index.en.md
 ³       ³   ³       index.fa.md
 ³       ³   ³       
+³       ³   ÃÄÄÄ10-perpetual
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ11-long-short
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ12-Leverage
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ13-margin
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ14-Market-Comparison
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ15-stock-trade
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ16-broker-fx-co-trade
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ17-crypto-trade
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ18-compar-st-fx-cr
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ19-tradevsgamble
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
 ³       ³   ÃÄÄÄ2-what-is-financial-market
 ³       ³   ³       index.en.md
 ³       ³   ³       index.fa.md
 ³       ³   ³       
+³       ³   ÃÄÄÄ20-liquidity
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ21-costs
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ22-pnl-calculation
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ23-trading-strategy
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ24-price-chart-types
+³       ³   ³       all.jpg
+³       ³   ³       bar.jpg
+³       ³   ³       candle.jpg
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       line.jpg
+³       ³   ³       step.jpg
+³       ³   ³       
+³       ³   ÃÄÄÄ25-volume-volatility-trend
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ26-oreder-book
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ27-order-type
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ28-risk-management
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ29-Psychology
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
 ³       ³   ÃÄÄÄ3-tradable-assets
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ30-fundamental
+³       ³   ³       index.en.md
+³       ³   ³       index.fa.md
+³       ³   ³       
+³       ³   ÃÄÄÄ31-back-forward-live
 ³       ³   ³       index.en.md
 ³       ³   ³       index.fa.md
 ³       ³   ³       
@@ -217,6 +314,8 @@ C:.
 ³   ³   robots.txt
 ³   ³   site.webmanifest
 ³   ³   sitemap.xml
+³   ³   structure.txt
+³   ³   update_structur.py
 ³   ³   _redirects
 ³   ³   
 ³   ÃÄÄÄ0-3-§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì
@@ -290,6 +389,22 @@ C:.
 ³   ³   ³               index.html
 ³   ³   ³               
 ³   ³   ÃÄÄÄopen-access
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄpreprint
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄpythonlib
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
@@ -424,6 +539,14 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄpythonlib
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÀÄÄÄtehran-stock
 ³   ³   ³       ³   index.html
 ³   ³   ³       ³   index.xml
@@ -459,6 +582,9 @@ C:.
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
+³   ³   ³   ÃÄÄÄlightweight-data-pipeline-live-trading-ml-dl
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
 ³   ³   ³   ÃÄÄÄpage
 ³   ³   ³   ³   ÀÄÄÄ1
 ³   ³   ³   ³           index.html
@@ -513,7 +639,143 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄbacktest
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄbacktesting
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄbar-chart
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄbehavioral-finance
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄbinary-options
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄblockchain
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄbroker
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄbroker-commission
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄbullish-and-bearish
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄbuy-limit
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄbuy-stop
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄcall-and-put-options
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄcandlestick-chart
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄcfd-trading
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄchart-types
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄcommission
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄcommodities
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄcrypto-exchange
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   ³   
@@ -529,7 +791,31 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄcryptocurrency
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄcryptocurrency-trading
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄdata-driven-strategies
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄdata-pipeline
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   ³   
@@ -553,7 +839,63 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄderivatives
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄderivatives-market
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄdigital-assets
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄeconomic-news
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄefficient-market-hypothesis
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄentry-and-exit-rules
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄequity
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄequity-ownership
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   ³   
@@ -574,6 +916,22 @@ C:.
 ³   ³   ³   ³       index.xml
 ³   ³   ³   ³       
 ³   ³   ³   ÃÄÄÄevidence-based-decision-making
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄexpected-value
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄfinancial-machine-learning
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   ³   
@@ -613,6 +971,46 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄforex-broker
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄforex-trading-volume
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄforward-test
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄfundamental-analysis
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄfunding-rate
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄfutures
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
@@ -621,7 +1019,23 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄfutures-market
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄgenetic-algorithm
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄhigh-frequency-trading
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   ³   
@@ -645,7 +1059,71 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄinterest-rates
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄleverage
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄline-chart
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄliquidity
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄliquidity-risk
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄlive-test
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄlong-position
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄmachine-learning
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmacroeconomics
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   ³   
@@ -661,6 +1139,30 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmargin
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmargin-call
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmargin-trading
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄmarket-analysis
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
@@ -669,7 +1171,55 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmarket-comparison
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmarket-liquidity
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmarket-microstructure
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmarket-trend
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmetatrader-5
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄmicroeconomics
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmoney-management
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   ³   
@@ -693,6 +1243,71 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄoptions-market
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄorder-book
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄorder-matching
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄorder-types
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄoverfitting
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄp
+³   ³   ³   ³   ÀÄÄÄl-calculation
+³   ³   ³   ³       ³   index.html
+³   ³   ³   ³       ³   index.xml
+³   ³   ³   ³       ³   
+³   ³   ³   ³       ÀÄÄÄpage
+³   ³   ³   ³           ÀÄÄÄ1
+³   ³   ³   ³                   index.html
+³   ³   ³   ³                   
+³   ³   ³   ÃÄÄÄperpetual-futures
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄpip-value
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄportfolio-management
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
@@ -701,7 +1316,31 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄposition-sizing
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄprice-action
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄprice-changes
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄprice-chart
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   ³   
@@ -718,6 +1357,22 @@ C:.
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄproductivity
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄprofit-and-loss
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄpython
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   ³   
@@ -757,6 +1412,70 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄrisk-to-reward
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄrule-based-trading
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄsell-limit
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄsell-stop
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄshareholding
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄshort-position
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄshort-selling
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄslippage
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄspot-market
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
@@ -773,6 +1492,22 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄspread
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄstock-exchange
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄstocks
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
@@ -781,7 +1516,23 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄstop-loss
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄsupply-and-demand
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtake-profit
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   ³   
@@ -805,6 +1556,14 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtimeframe
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄtradable-assets
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
@@ -814,6 +1573,30 @@ C:.
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄtrading-automation
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtrading-basics
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtrading-costs
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtrading-discipline
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   ³   
@@ -837,6 +1620,14 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtrading-psychology
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄtrading-strategy
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
@@ -845,7 +1636,63 @@ C:.
 ³   ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³   ³               index.html
 ³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtrading-venues
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtrading-volume
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtrading-vs-gambling
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄtrailing-stop
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
 ³   ³   ³   ÃÄÄÄtypes-of-financial-markets
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄvolatility
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄwhitepaper
+³   ³   ³   ³   ³   index.html
+³   ³   ³   ³   ³   index.xml
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄpage
+³   ³   ³   ³       ÀÄÄÄ1
+³   ³   ³   ³               index.html
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄwin-rate
 ³   ³   ³   ³   ³   index.html
 ³   ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   ³   
@@ -997,13 +1844,88 @@ C:.
 ³   ³       ³   ³   index.html
 ³   ³       ³   ³   index.xml
 ³   ³       ³   ³   
+³   ³       ³   ÃÄÄÄ0-10-perpetual-futures
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-11-long-short-positions
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-12-leverage
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-13-margin-and-margin-call
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-14-market-comparison
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-15-how-does-trading-on-stock-exchange-work
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-16-what-is-a-broker-and-how-does-it-work
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-17-how-does-a-crypto-exchange-work
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-18-comparing-stock-exchange-broker-crypto-exchange
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-19-is-trading-just-gambling
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
 ³   ³       ³   ÃÄÄÄ0-2-financial-market
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-20-what-is-market-liquidity
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-21-what-are-trading-costs-spread-commission-slippage
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-22-profit-loss-calculation
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-23-what-is-a-trading-strategy
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-24-price-chart-types
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-24-price-chart-types-explained
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-25-volume-volatility-and-trend-explained
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-25-volume-volatility-trend-explained
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-26-what-is-the-order-book
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-27-order-types-financial-markets
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-27-order-types-in-financial-markets
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-28-risk-and-money-management-basics
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-29-trading-psychology-in-algorithmic-systems
 ³   ³       ³   ³       index.html
 ³   ³       ³   ³       
 ³   ³       ³   ÃÄÄÄ0-3-tradable-assets
 ³   ³       ³   ³       index.html
 ³   ³       ³   ³       
 ³   ³       ³   ÃÄÄÄ0-3-§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-30-what-is-fundamental-analysis
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ0-31-backtest-forward-test-and-live-test-explained
 ³   ³       ³   ³       index.html
 ³   ³       ³   ³       
 ³   ³       ³   ÃÄÄÄ0-4-market-participants
@@ -1024,10 +1946,73 @@ C:.
 ³   ³       ³   ÃÄÄÄ1-what-is-trade
 ³   ³       ³   ³       index.html
 ³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ11-long-short
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ12-leverage
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ13-margin
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ14-market-comparison
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ15-stock-trade
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ16-broker-fx-co-trade
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ17-crypto-trade
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ18-compar-st-fx-cr
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ19-tradevsgamble
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
 ³   ³       ³   ÃÄÄÄ2-what-is-financaial-market
 ³   ³       ³   ³       index.html
 ³   ³       ³   ³       
 ³   ³       ³   ÃÄÄÄ2-what-is-financial-market
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ20-equity
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ21-costs
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ22-pnl-calculation
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ23-trading-strategy
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ24-price-chart-types
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ25-volume-volatility-trend
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ26-oreder-book
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ27-order-type
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ28-risk-management
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ29-
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ30-fundamental
+³   ³       ³   ³       index.html
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄ31-back-forward-live
 ³   ³       ³   ³       index.html
 ³   ³       ³   ³       
 ³   ³       ³   ÃÄÄÄ5-0-prices-change
@@ -1197,11 +2182,14 @@ C:.
 ³   ³   ³       Screenshot1_hu_6eec958426fdc31a.jpg
 ³   ³   ³       Screenshot1_hu_c7ac687041f6748a.jpg
 ³   ³   ³       
-³   ³   ÀÄÄÄtickvol
+³   ³   ÃÄÄÄtickvol
+³   ³   ³       index.html
+³   ³   ³       Screenshot1.jpg
+³   ³   ³       Screenshot1_hu_6eec958426fdc31a.jpg
+³   ³   ³       Screenshot1_hu_c7ac687041f6748a.jpg
+³   ³   ³       
+³   ³   ÀÄÄÄ?Ÿ??éŸ?ë-« ?-§Ÿ§ì- ©Ÿ?-êãŸêéŸ¢-ªë§ì-í-?Ÿ§??©?-êŸ¬?ë-ãê?ç
 ³   ³           index.html
-³   ³           Screenshot1.jpg
-³   ³           Screenshot1_hu_6eec958426fdc31a.jpg
-³   ³           Screenshot1_hu_c7ac687041f6748a.jpg
 ³   ³           
 ³   ÃÄÄÄpublications
 ³   ³   ³   index.html
@@ -1261,7 +2249,31 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄŸ ªŸ©-ê¬¢çì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸ¦ Ÿ©-Ÿç¢­Ÿ§?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄŸ©ª-§?¤?¢Ÿé
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸ©ª¬-???
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
@@ -1301,7 +2313,39 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄŸ«é???¤
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸ«?©§
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄŸç¢­Ÿ§-¦©§
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸç¢­Ÿ§-©å¢Ÿ©?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸç¢­Ÿ§-?éŸë
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
@@ -1325,6 +2369,14 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄŸê?§©?Ÿà?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄŸë§??Ÿ¢í©
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
@@ -1341,7 +2393,63 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄŸëà Ÿá-Ÿ¥«Ÿ«?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄŸëíŸã- ŸªŸ©-ìŸ?-êŸé?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸëíŸã-«åŸ©¬
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸëíŸã-ëêí§Ÿ©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸì©ê-êŸé?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄŸ?í??¢?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ŸªŸ©-™¢?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ŸªŸ©-Ÿ¦¢?Ÿ©-êãŸêéì
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
@@ -1381,6 +2489,14 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄ ŸªŸ©-?Ÿí?-í-¦©«?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄ ŸªŸ©ìŸ?-êŸé?
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
@@ -1390,6 +2506,54 @@ C:.
 ³   ³   ³               index.html
 ³   ³   ³               
 ³   ³   ÃÄÄÄ ŸªŸ©ìŸ?-êŸé?---§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì---ê§?©?¢-©?«?--- ŸªŸ©-ê¬¢çì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ Ÿ?-Ÿ«¢Ÿ?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ Ÿ?-é?ê?¢
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ Ÿ?ë©?-™?¬ë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ©í?©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ©í?©-åŸ©?«
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ éŸ???ë
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
@@ -1421,7 +2585,47 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄ í©«-«ìŸê
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ?¢«¢
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ ?¬ ©Ÿª¬
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¢Ÿ?êå©?ê
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄ¢¥é?é- ŸªŸ©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¢¥é?é-åŸë§Ÿêë¢Ÿé
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
@@ -1453,6 +2657,14 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄ¢á ?ç-«åŸ©¬
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄ¢ä??©-ç?ê¢
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
@@ -1477,6 +2689,70 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄ¥¤ê-¢??
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¥¤ê-êãŸêéŸ¢
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¥¤ê-êãŸêéŸ¢-åŸ©?«
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¥¤ê-?íª?¬ë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¥§-«í§
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¥§-à©©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ¥§-à©©-ê¢¥©?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ§Ÿ©Ÿ??-§?¤?¢Ÿé
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄ§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
@@ -1493,6 +2769,22 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄ§å¢©-«åŸ©¬Ÿ¢
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ©íŸë¬ëŸ«?-êãŸêéì?©?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄ©í¬ìŸ?-™êŸ©?
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
@@ -1501,7 +2793,71 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄ©íë§- ŸªŸ©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ©?«?- ì-©?íŸ©§
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ©?«?-ëç§?ë??
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ«Ÿ¦¢Ÿ©-¦©§- ŸªŸ©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ«é-Ÿ«¢Ÿ?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ«é-é?ê?¢
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄ«ìŸê
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ«ìŸê§Ÿ©?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ«í§-í-ª?Ÿë
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
@@ -1541,6 +2897,14 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄ­©Ÿå?-Ÿ©ª-§?¤?¢Ÿé
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄã©àì-í-¢çŸàŸ
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
@@ -1550,6 +2914,30 @@ C:.
 ³   ³   ³               index.html
 ³   ³   ³               
 ³   ³   ÃÄÄÄå©­¢ìŸ?-êãŸêéŸ¢?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄå©à?ì- ŸªŸ©-?Ÿ©Ÿ
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄå©í¬-Ÿ«¢ç©Ÿà?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄåí©íŸ©§¢«¢
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
@@ -1573,7 +2961,39 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄç©Ÿ©§Ÿ§ìŸ?-§Ÿê?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄç?ê¢-?¨Ÿ©?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄéŸ?í-¢«¢
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêŸ©¤?ë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêŸé??¢-«ìŸê
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
@@ -1589,7 +3009,31 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄê Ÿë?-êãŸêéì?©?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄê¢Ÿ¢©?§©-5
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄê¥Ÿ« ì?-«í§-í-ª?Ÿë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄê¥éìŸ?-êãŸêéì
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
@@ -1621,7 +3065,23 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄê§?©?¢-«©êŸ?ì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄê§?©?¢-?©¢åí?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêãŸêéŸ¢-Ÿ©ª-§?¤?¢Ÿé
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
@@ -1645,6 +3105,38 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄêãŸêéŸ¢-«?Ÿå§?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêãŸêéŸ¢-å©?Ÿë«- ŸéŸ
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêãŸêéŸ¢-çŸëíëê¥í©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêãŸêéŸ¢-êŸ©¤?ë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄêãŸêéŸ¢-ëç§?
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
@@ -1661,7 +3153,199 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
+³   ³   ÃÄÄÄêãŸêéì?©?-§©-êçŸ é-çêŸ©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄêçŸ?«ì- ŸªŸ©ìŸ
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄë©¦- ©§
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄë©¦- ì©ì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄë©¦-åŸë§?ë?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄëçŸá-í©í§-í-¦©í¤
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄëç§?ë??
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄëç§?ë??- ŸªŸ©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄëêí§Ÿ©-¦á?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄëêí§Ÿ©-¬êã?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄëêí§Ÿ©-ç?ê¢
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄëêí§Ÿ©-ê?éìŸ?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄëí«Ÿë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄìª?ëììŸ?-êãŸêéì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
 ³   ³   ÃÄÄÄìí¬-ê­ëíã?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄíŸ?¢???©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ?Ÿ?¢íë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ?Ÿ??éŸ?ë-§Ÿ§ì
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ?©Ÿ?«-Ÿ?¬ë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ?íª?¬ë-¬í©¢
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ?íª?¬ë-éŸë?
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ?Ÿ©êª§- ©í?©
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ?Ÿé-êŸ©¤?ë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ?Ÿé-í-?í¢-™?¬ë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÃÄÄÄ?ê?«?íë
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
@@ -1685,7 +3369,15 @@ C:.
 ³   ³   ³       ÀÄÄÄ1
 ³   ³   ³               index.html
 ³   ³   ³               
-³   ³   ÀÄÄÄ?Ÿ§??©?-êŸ¬?ë
+³   ³   ÃÄÄÄ?Ÿ§??©?-êŸ¬?ë
+³   ³   ³   ³   index.html
+³   ³   ³   ³   index.xml
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄpage
+³   ³   ³       ÀÄÄÄ1
+³   ³   ³               index.html
+³   ³   ³               
+³   ³   ÀÄÄÄ?Ÿ§??©?-êŸ¬?ë-êŸé?
 ³   ³       ³   index.html
 ³   ³       ³   index.xml
 ³   ³       ³   
@@ -1696,12 +3388,89 @@ C:.
 ³   ÃÄÄÄtutorials
 ³   ³   ³   index.html
 ³   ³   ³   index.xml
+³   ³   ³   structure.txt
+³   ³   ³   update_structur.py
 ³   ³   ³   
+³   ³   ÃÄÄÄ2026-08-02-test
+³   ³   ³       index.html
+³   ³   ³       
 ³   ³   ÃÄÄÄlevel0-trade
 ³   ³   ³   ³   index.html
 ³   ³   ³   ³   index.xml
 ³   ³   ³   ³   
+³   ³   ³   ÃÄÄÄ0-10-ç©Ÿ©§Ÿ§ìŸ?-§Ÿê?
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-11-éŸë?-í-¬í©¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-12-Ÿì©ê-êŸé?
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-13-êŸ©¤?ë-í-?Ÿé-êŸ©¤?ë
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-14-êçŸ?«ì- ŸªŸ©ìŸ
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-15-how-does-trading-on-stock-exchange-work
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-16-what-is-a-broker-and-how-does-it-work
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-17-how-does-a-crypto-exchange-work
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-18-comparing-stock-exchange-broker-crypto-exchange
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-19-is-trading-just-gambling
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-20-what-is-market-liquidity
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-21-what-are-trading-costs-spread-commission-slippage
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-22-ê¥Ÿ« ì-«í§-í-ª?Ÿë
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-23-what-is-a-trading-strategy
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-24-price-chart-types
+³   ³   ³   ³       all.jpg
+³   ³   ³   ³       all_hu_5f86649f877f5423.jpg
+³   ³   ³   ³       bar.jpg
+³   ³   ³   ³       candle.jpg
+³   ³   ³   ³       index.html
+³   ³   ³   ³       line.jpg
+³   ³   ³   ³       step.jpg
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-25-¥¤ê-ëí«Ÿë-í-©íë§-ç?ê¢-??«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-26-§å¢©-«åŸ©¬Ÿ¢-order-book-??«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-27-ŸëíŸã-«åŸ©¬ìŸ-§©- ŸªŸ©ìŸ?-êŸé?-??«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-28-êåŸì?ê-Ÿíé?ì-ê§?©?¢-©?«?-í-«©êŸ?ì-??«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-29-©íŸë¬ëŸ«?-êãŸêéì?©?-§©-êãŸêéŸ¢-Ÿé?í©?¢ê?-??«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
 ³   ³   ³   ÃÄÄÄ0-3-§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-30-¢¥é?é-åŸë§Ÿêë¢Ÿé-??«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ0-31- ?-¢«¢-åí©íŸ©§¢«¢-í-éŸ?í-¢«¢-??«¢
 ³   ³   ³   ³       index.html
 ³   ³   ³   ³       
 ³   ³   ³   ÃÄÄÄ1-0-¢©?§-?ãë?-??
@@ -1709,6 +3478,58 @@ C:.
 ³   ³   ³   ³       
 ³   ³   ³   ÃÄÄÄ1-what-is-trade
 ³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ11-long-short
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ12-Leverage
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ13-margin
+³   ³   ³   ³       index.fa.txt
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ14-Market-Comparison
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ15-0-êãŸêéì-§©- í©«-??íëì-Ÿë¤Ÿê-ê?¬í§
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ15-stock-trade
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ16-0- ©í?©-??«¢-í-??íëì-?Ÿ©-ê??ë§
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ16-broker-fx-co-trade
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ17-0-­©Ÿå?-Ÿ©ª-§?¤?¢Ÿé-??íëì-?Ÿ©-ê??ë§
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ17-crypto-trade
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ18-0-êçŸ?«ì- í©«- ©í?©-í-­©Ÿå?-Ÿ©ª-§?¤?¢Ÿé
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ18-compar-st-fx-cr
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ19-0-™?Ÿ-êãŸêéì?©?-ìêŸë-çêŸ©-Ÿ«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ19-tradevsgamble
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
 ³   ³   ³   ³       
 ³   ³   ³   ÃÄÄÄ2-0- ŸªŸ©-êŸé?-??«¢
 ³   ³   ³   ³       index.html
@@ -1719,10 +3540,81 @@ C:.
 ³   ³   ³   ³   ÀÄÄÄ2026-07-03-2-0-- ŸªŸ©-êŸé?-??«¢
 ³   ³   ³   ³           index.html
 ³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄ20-0-ëç§?ë??- ŸªŸ©-??«¢-í-?ì-Ÿìê?¢?-§Ÿ©§
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ20-equity
+³   ³   ³   ³       index - Copy.famd
+³   ³   ³   ³       index.fa.txt
+³   ³   ³   ³       index.famd
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ21-0-ìª?ëììŸ?-êãŸêéì-Ÿ«?©§-?ê?«?íë-í-Ÿ«é???¤-??«¢ë§
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ21-costs
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ22-pnl-calculation
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ23-0-Ÿ«¢©Ÿ¢??-êãŸêéŸ¢?-??«¢
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ23-trading-strategy
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ24-0-ŸëíŸã-ëêí§Ÿ©-ç?ê¢-??«¢
+³   ³   ³   ³       all.jpg
+³   ³   ³   ³       all_hu_5f86649f877f5423.jpg
+³   ³   ³   ³       bar.jpg
+³   ³   ³   ³       candle.jpg
+³   ³   ³   ³       index.html
+³   ³   ³   ³       line.jpg
+³   ³   ³   ³       step.jpg
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ24-price-chart-types
+³   ³   ³   ³       all.jpg
+³   ³   ³   ³       all_hu_5f86649f877f5423.jpg
+³   ³   ³   ³       bar.jpg
+³   ³   ³   ³       candle.jpg
+³   ³   ³   ³       index.html
+³   ³   ³   ³       line.jpg
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       step.jpg
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ25-volume-volatility-trend
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ26-oreder-book
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ27-order-type
+³   ³   ³   ³       index.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ28-risk-management
+³   ³   ³   ³       index.fa.md.txt
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ29-
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
 ³   ³   ³   ÃÄÄÄ3-tradable-assets
 ³   ³   ³   ³   ÀÄÄÄ0-3-§Ÿ©Ÿ??-ìŸ?-çŸ é-êãŸêéì
 ³   ³   ³   ³           index.html
 ³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄ30-fundamental
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄ31-back-forward-live
+³   ³   ³   ³       index.html
+³   ³   ³   ³       New Text Document.txt
+³   ³   ³   ³       
 ³   ³   ³   ÃÄÄÄ4-market-players
 ³   ³   ³   ³   ÀÄÄÄ¬©?¢?ëë§?Ÿë- ŸªŸ©
 ³   ³   ³   ³           index.html
@@ -1772,6 +3664,15 @@ C:.
 ³   ³   ³   ³   ÀÄÄÄ1
 ³   ³   ³   ³           index.html
 ³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄŸëíŸã-ëêí§Ÿ©-ç?ê¢
+³   ³   ³   ³       all.jpg
+³   ³   ³   ³       all_hu_5f86649f877f5423.jpg
+³   ³   ³   ³       bar.jpg
+³   ³   ³   ³       candle.jpg
+³   ³   ³   ³       index.html
+³   ³   ³   ³       line.jpg
+³   ³   ³   ³       step.jpg
+³   ³   ³   ³       
 ³   ³   ³   ÃÄÄÄ ŸªŸ©-ê¬¢çì
 ³   ³   ³   ³       index.html
 ³   ³   ³   ³       
@@ -1857,15 +3758,29 @@ C:.
 ³           ³           Screenshot6_hu_2fc8868fbfa7275b.jpg
 ³           ³           Screenshot6_hu_c64b072e9ae7a750.jpg
 ³           ³           
-³           ÀÄÄÄprojects
-³               ÃÄÄÄrisk-aware-portfolio-management-tehran-stock-exchange
-³               ³       Screenshot1_hu_6eec958426fdc31a.jpg
-³               ³       Screenshot1_hu_c7ac687041f6748a.jpg
-³               ³       
-³               ÀÄÄÄtickvol
-³                       Screenshot1_hu_6eec958426fdc31a.jpg
-³                       Screenshot1_hu_c7ac687041f6748a.jpg
-³                       
+³           ÃÄÄÄprojects
+³           ³   ÃÄÄÄrisk-aware-portfolio-management-tehran-stock-exchange
+³           ³   ³       Screenshot1_hu_6eec958426fdc31a.jpg
+³           ³   ³       Screenshot1_hu_c7ac687041f6748a.jpg
+³           ³   ³       
+³           ³   ÀÄÄÄtickvol
+³           ³           Screenshot1_hu_6eec958426fdc31a.jpg
+³           ³           Screenshot1_hu_c7ac687041f6748a.jpg
+³           ³           
+³           ÀÄÄÄtutorials
+³               ÀÄÄÄlevel0-trade
+³                   ÃÄÄÄ0-24-price-chart-types
+³                   ³       all_hu_5f86649f877f5423.jpg
+³                   ³       
+³                   ÃÄÄÄ24-0-ŸëíŸã-ëêí§Ÿ©-ç?ê¢-??«¢
+³                   ³       all_hu_5f86649f877f5423.jpg
+³                   ³       
+³                   ÃÄÄÄ24-price-chart-types
+³                   ³       all_hu_5f86649f877f5423.jpg
+³                   ³       
+³                   ÀÄÄÄŸëíŸã-ëêí§Ÿ©-ç?ê¢
+³                           all_hu_5f86649f877f5423.jpg
+³                           
 ÃÄÄÄstatic
 ³   ³   baner_dark_en.png
 ³   ³   baner_dark_fa.png
