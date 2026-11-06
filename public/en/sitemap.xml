@@ -546,6 +546,22 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/en/publications/multicriteria-decision-making-tehran-stock-portfolios/</loc>
+    <lastmod>2026-07-03T10:44:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/publications/%D8%AA%D8%B5%D9%85%DB%8C%D9%85%DA%AF%DB%8C%D8%B1%DB%8C-%DA%86%D9%86%D8%AF%D9%85%D8%B9%DB%8C%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%A8%D8%AF-%D8%B3%D9%87%D8%A7%D9%85-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/publications/multicriteria-decision-making-tehran-stock-portfolios/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/en/publications/</loc>
     <lastmod>2026-07-03T10:44:05+00:00</lastmod>
     <changefreq>daily</changefreq>

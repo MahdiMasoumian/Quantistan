@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XAUUSD on Quantistan</title>
+    <link>http://localhost:1313/en/tags/xauusd/</link>
+    <description>Recent content in XAUUSD on Quantistan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
+    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/xauusd/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hybrid Machine Learning and Rule-Based Decision Support System for Short-Term Gold Trading</title>
+      <link>http://localhost:1313/en/publications/hybrid-ml-rule-based-decision-support-xauusd-trading/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/publications/hybrid-ml-rule-based-decision-support-xauusd-trading/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

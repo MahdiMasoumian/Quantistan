@@ -5,7 +5,7 @@
 
 [[main]]
   name = "مستندات پژوهی"
-  pageRef = "Publications"
+  pageRef = "publications"
   weight = 20
 
 [[main]]
