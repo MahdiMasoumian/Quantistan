@@ -7,7 +7,137 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 13:25:33 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Aug 2026 14:23:46 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Algorithmic Trading</title>
+      <link>http://localhost:1313/en/tags/algorithmic-trading/</link>
+      <pubDate>Sun, 02 Aug 2026 14:23:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/algorithmic-trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Backtest</title>
+      <link>http://localhost:1313/en/tags/backtest/</link>
+      <pubDate>Sun, 02 Aug 2026 14:23:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/backtest/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Forward Test</title>
+      <link>http://localhost:1313/en/tags/forward-test/</link>
+      <pubDate>Sun, 02 Aug 2026 14:23:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/forward-test/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Live Test</title>
+      <link>http://localhost:1313/en/tags/live-test/</link>
+      <pubDate>Sun, 02 Aug 2026 14:23:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/live-test/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Overfitting</title>
+      <link>http://localhost:1313/en/tags/overfitting/</link>
+      <pubDate>Sun, 02 Aug 2026 14:23:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/overfitting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Economic News</title>
+      <link>http://localhost:1313/en/tags/economic-news/</link>
+      <pubDate>Sun, 02 Aug 2026 14:01:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/economic-news/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Efficient Market Hypothesis</title>
+      <link>http://localhost:1313/en/tags/efficient-market-hypothesis/</link>
+      <pubDate>Sun, 02 Aug 2026 14:01:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/efficient-market-hypothesis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fundamental Analysis</title>
+      <link>http://localhost:1313/en/tags/fundamental-analysis/</link>
+      <pubDate>Sun, 02 Aug 2026 14:01:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/fundamental-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Interest Rates</title>
+      <link>http://localhost:1313/en/tags/interest-rates/</link>
+      <pubDate>Sun, 02 Aug 2026 14:01:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/interest-rates/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Macroeconomics</title>
+      <link>http://localhost:1313/en/tags/macroeconomics/</link>
+      <pubDate>Sun, 02 Aug 2026 14:01:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/macroeconomics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Behavioral Finance</title>
+      <link>http://localhost:1313/en/tags/behavioral-finance/</link>
+      <pubDate>Sun, 02 Aug 2026 13:50:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/behavioral-finance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading Discipline</title>
+      <link>http://localhost:1313/en/tags/trading-discipline/</link>
+      <pubDate>Sun, 02 Aug 2026 13:50:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/trading-discipline/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading Psychology</title>
+      <link>http://localhost:1313/en/tags/trading-psychology/</link>
+      <pubDate>Sun, 02 Aug 2026 13:50:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/trading-psychology/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Money Management</title>
@@ -275,16 +405,6 @@
       <pubDate>Sun, 02 Aug 2026 12:19:22 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/timeframe/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Algorithmic Trading</title>
-      <link>http://localhost:1313/en/tags/algorithmic-trading/</link>
-      <pubDate>Sun, 02 Aug 2026 11:29:06 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/algorithmic-trading/</guid>
       <description></description>
       
     </item>
@@ -1195,46 +1315,6 @@
       <pubDate>Sat, 27 Jun 2026 07:37:55 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/genetic-algorithm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Behavioral Finance</title>
-      <link>http://localhost:1313/en/tags/behavioral-finance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/behavioral-finance/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Overfitting</title>
-      <link>http://localhost:1313/en/tags/overfitting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/overfitting/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Trading Discipline</title>
-      <link>http://localhost:1313/en/tags/trading-discipline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/trading-discipline/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Trading Psychology</title>
-      <link>http://localhost:1313/en/tags/trading-psychology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/trading-psychology/</guid>
       <description></description>
       
     </item>

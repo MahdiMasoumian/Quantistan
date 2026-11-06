@@ -7,22 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 06:35:22 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>PythonLib</title>
-      <link>http://localhost:1313/en/categories/pythonlib/</link>
-      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/categories/pythonlib/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 14:23:46 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Intermediate</title>
       <link>http://localhost:1313/en/categories/intermediate/</link>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:23:46 +0000</pubDate>
       
       <guid>http://localhost:1313/en/categories/intermediate/</guid>
       <description></description>
@@ -32,9 +22,19 @@
     <item>
       <title>Basic</title>
       <link>http://localhost:1313/en/categories/basic/</link>
-      <pubDate>Fri, 03 Jul 2026 14:30:50 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:01:38 +0000</pubDate>
       
       <guid>http://localhost:1313/en/categories/basic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PythonLib</title>
+      <link>http://localhost:1313/en/categories/pythonlib/</link>
+      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/categories/pythonlib/</guid>
       <description></description>
       
     </item>

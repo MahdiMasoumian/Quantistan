@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 06:35:22 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/algorithmic-trading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Aug 2026 14:23:46 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/algorithmic-trading/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>0-31- Backtest, Forward Test, and Live Test Explained</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-31-backtest-forward-test-and-live-test-explained/</link>
+      <pubDate>Sun, 02 Aug 2026 14:23:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-31-backtest-forward-test-and-live-test-explained/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-29- Trading Psychology in Algorithmic Systems</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-29-trading-psychology-in-algorithmic-systems/</link>
+      <pubDate>Sun, 02 Aug 2026 13:50:58 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-29-trading-psychology-in-algorithmic-systems/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>0-23- What Is a Trading Strategy?</title>
+      <link>http://localhost:1313/en/tutorials/level0-trade/0-23-what-is-a-trading-strategy/</link>
+      <pubDate>Sun, 02 Aug 2026 11:29:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tutorials/level0-trade/0-23-what-is-a-trading-strategy/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Lightweight Data Pipeline for Live Trading and ML/DL</title>
