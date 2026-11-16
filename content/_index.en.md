@@ -16,7 +16,7 @@ homepage:
   <a href="/en/ourteam/quantistan/">
     <div class="cta-btn text-slate-900 dark:text-white" style="font-size: 1.1rem; font-weight: bold;">What is Quantistan?</div>
   </a>
-  <a href="en/tutorials/level1-basic/1-1-algorithmic-trading/">
+  <a href="/tutorials/level1-basic/1-1-algorithmic-trading/">
     <div class="cta-btn text-slate-900 dark:text-white" style="font-size: 1.1rem; font-weight: bold;">Start First Level</div>
   </a>
 </div>
