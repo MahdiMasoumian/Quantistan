@@ -7,7 +7,87 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <copyright>© 2026    محمد مهدی معصومیان</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 14:23:39 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Access</title>
+      <link>http://localhost:1313/categories/open-access/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/open-access/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Preprint</title>
+      <link>http://localhost:1313/categories/preprint/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/preprint/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quantum Finance</title>
+      <link>http://localhost:1313/categories/quantum-finance/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/quantum-finance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Risk Management</title>
+      <link>http://localhost:1313/categories/risk-management/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/risk-management/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gold Trading</title>
+      <link>http://localhost:1313/categories/gold-trading/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/gold-trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>دسترسی آزاد</title>
+      <link>http://localhost:1313/categories/%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF/</link>
+      <pubDate>Mon, 03 Aug 2026 10:44:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مقاله پیش‌نشر</title>
+      <link>http://localhost:1313/categories/%D9%85%D9%82%D8%A7%D9%84%D9%87-%D9%BE%DB%8C%D8%B4%D9%86%D8%B4%D8%B1/</link>
+      <pubDate>Mon, 03 Aug 2026 10:44:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%D9%85%D9%82%D8%A7%D9%84%D9%87-%D9%BE%DB%8C%D8%B4%D9%86%D8%B4%D8%B1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مهندسی داده‌های مالی</title>
+      <link>http://localhost:1313/categories/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%AF%D8%A7%D8%AF%D9%87%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C/</link>
+      <pubDate>Mon, 03 Aug 2026 10:44:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%AF%D8%A7%D8%AF%D9%87%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Intermediate</title>
@@ -45,26 +125,6 @@
       <pubDate>Tue, 30 Jun 2026 23:20:43 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/indicator/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Open Access</title>
-      <link>http://localhost:1313/categories/open-access/</link>
-      <pubDate>Tue, 30 Jun 2026 22:21:43 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/open-access/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Preprint</title>
-      <link>http://localhost:1313/categories/preprint/</link>
-      <pubDate>Tue, 30 Jun 2026 22:21:43 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/preprint/</guid>
       <description></description>
       
     </item>

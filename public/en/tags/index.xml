@@ -7,14 +7,214 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 14:23:46 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Algorithmic Trading</title>
       <link>http://localhost:1313/en/tags/algorithmic-trading/</link>
-      <pubDate>Sun, 02 Aug 2026 14:23:46 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/algorithmic-trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Maximum Drawdown</title>
+      <link>http://localhost:1313/en/tags/maximum-drawdown/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/maximum-drawdown/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Monte Carlo Simulation</title>
+      <link>http://localhost:1313/en/tags/monte-carlo-simulation/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/monte-carlo-simulation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quantum Amplitude Estimation</title>
+      <link>http://localhost:1313/en/tags/quantum-amplitude-estimation/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/quantum-amplitude-estimation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quantum Computing</title>
+      <link>http://localhost:1313/en/tags/quantum-computing/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/quantum-computing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Risk Management</title>
+      <link>http://localhost:1313/en/tags/risk-management/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/risk-management/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kelly Criterion</title>
+      <link>http://localhost:1313/en/tags/kelly-criterion/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/kelly-criterion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Position Sizing</title>
+      <link>http://localhost:1313/en/tags/position-sizing/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/position-sizing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quantitative Finance</title>
+      <link>http://localhost:1313/en/tags/quantitative-finance/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/quantitative-finance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Classification</title>
+      <link>http://localhost:1313/en/tags/classification/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/classification/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Financial Machine Learning</title>
+      <link>http://localhost:1313/en/tags/financial-machine-learning/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/financial-machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Supply &amp; Demand</title>
+      <link>http://localhost:1313/en/tags/supply--demand/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/supply--demand/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>XAUUSD</title>
+      <link>http://localhost:1313/en/tags/xauusd/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/xauusd/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Decision Support Systems</title>
+      <link>http://localhost:1313/en/tags/decision-support-systems/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/decision-support-systems/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Financial Markets</title>
+      <link>http://localhost:1313/en/tags/financial-markets/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/financial-markets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/en/tags/machine-learning/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Price Prediction</title>
+      <link>http://localhost:1313/en/tags/price-prediction/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/price-prediction/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Pipeline</title>
+      <link>http://localhost:1313/en/tags/data-pipeline/</link>
+      <pubDate>Mon, 03 Aug 2026 10:44:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/data-pipeline/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Look-Ahead Bias</title>
+      <link>http://localhost:1313/en/tags/look-ahead-bias/</link>
+      <pubDate>Mon, 03 Aug 2026 10:44:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/look-ahead-bias/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MetaTrader 5</title>
+      <link>http://localhost:1313/en/tags/metatrader-5/</link>
+      <pubDate>Mon, 03 Aug 2026 10:44:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/metatrader-5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Time-Series Preprocessing</title>
+      <link>http://localhost:1313/en/tags/time-series-preprocessing/</link>
+      <pubDate>Mon, 03 Aug 2026 10:44:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/time-series-preprocessing/</guid>
       <description></description>
       
     </item>
@@ -145,16 +345,6 @@
       <pubDate>Sun, 02 Aug 2026 13:25:33 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/money-management/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Risk Management</title>
-      <link>http://localhost:1313/en/tags/risk-management/</link>
-      <pubDate>Sun, 02 Aug 2026 13:25:33 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/risk-management/</guid>
       <description></description>
       
     </item>
@@ -415,16 +605,6 @@
       <pubDate>Sun, 02 Aug 2026 11:29:06 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/entry-and-exit-rules/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Position Sizing</title>
-      <link>http://localhost:1313/en/tags/position-sizing/</link>
-      <pubDate>Sun, 02 Aug 2026 11:29:06 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/position-sizing/</guid>
       <description></description>
       
     </item>
@@ -800,16 +980,6 @@
     </item>
     
     <item>
-      <title>Financial Markets</title>
-      <link>http://localhost:1313/en/tags/financial-markets/</link>
-      <pubDate>Sun, 02 Aug 2026 07:44:36 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/financial-markets/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Futures Market</title>
       <link>http://localhost:1313/en/tags/futures-market/</link>
       <pubDate>Sun, 02 Aug 2026 07:44:36 +0000</pubDate>
@@ -940,36 +1110,6 @@
     </item>
     
     <item>
-      <title>Data Pipeline</title>
-      <link>http://localhost:1313/en/tags/data-pipeline/</link>
-      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/data-pipeline/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Financial Machine Learning</title>
-      <link>http://localhost:1313/en/tags/financial-machine-learning/</link>
-      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/financial-machine-learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>MetaTrader 5</title>
-      <link>http://localhost:1313/en/tags/metatrader-5/</link>
-      <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/metatrader-5/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Python</title>
       <link>http://localhost:1313/en/tags/python/</link>
       <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
@@ -1075,26 +1215,6 @@
       <pubDate>Fri, 03 Jul 2026 13:50:19 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/spot-transactions/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Decision Support Systems</title>
-      <link>http://localhost:1313/en/tags/decision-support-systems/</link>
-      <pubDate>Fri, 03 Jul 2026 10:44:05 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/decision-support-systems/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>http://localhost:1313/en/tags/machine-learning/</link>
-      <pubDate>Fri, 03 Jul 2026 10:44:05 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/machine-learning/</guid>
       <description></description>
       
     </item>
@@ -1295,16 +1415,6 @@
       <pubDate>Sat, 27 Jun 2026 17:26:21 +0000</pubDate>
       
       <guid>http://localhost:1313/en/tags/human-supervision/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Quantitative Finance</title>
-      <link>http://localhost:1313/en/tags/quantitative-finance/</link>
-      <pubDate>Sat, 27 Jun 2026 09:25:15 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/tags/quantitative-finance/</guid>
       <description></description>
       
     </item>

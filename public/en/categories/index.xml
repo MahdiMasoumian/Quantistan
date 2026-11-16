@@ -7,7 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026    Mohammad Mahdi Masoumian</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 14:23:46 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Access</title>
+      <link>http://localhost:1313/en/categories/open-access/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/categories/open-access/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Preprint</title>
+      <link>http://localhost:1313/en/categories/preprint/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/categories/preprint/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quantum Finance</title>
+      <link>http://localhost:1313/en/categories/quantum-finance/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/categories/quantum-finance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Risk Management</title>
+      <link>http://localhost:1313/en/categories/risk-management/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/categories/risk-management/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gold Trading</title>
+      <link>http://localhost:1313/en/categories/gold-trading/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/categories/gold-trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Financial Data Engineering</title>
+      <link>http://localhost:1313/en/categories/financial-data-engineering/</link>
+      <pubDate>Mon, 03 Aug 2026 10:44:05 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/categories/financial-data-engineering/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Intermediate</title>
@@ -35,26 +95,6 @@
       <pubDate>Sun, 02 Aug 2026 06:35:22 +0000</pubDate>
       
       <guid>http://localhost:1313/en/categories/pythonlib/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Open Access</title>
-      <link>http://localhost:1313/en/categories/open-access/</link>
-      <pubDate>Fri, 03 Jul 2026 10:44:05 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/categories/open-access/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Preprint</title>
-      <link>http://localhost:1313/en/categories/preprint/</link>
-      <pubDate>Fri, 03 Jul 2026 10:44:05 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en/categories/preprint/</guid>
       <description></description>
       
     </item>

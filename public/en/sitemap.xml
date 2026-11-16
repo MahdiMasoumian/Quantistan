@@ -50,6 +50,118 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/en/publications/quantum-amplitude-estimation-maximum-drawdown-trading-risk/</loc>
+    <lastmod>2026-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/publications/%D8%AA%D8%AE%D9%85%DB%8C%D9%86-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%DA%A9%D9%88%D8%A7%D9%86%D8%AA%D9%88%D9%85%DB%8C-%D8%A8%DB%8C%D8%B4%DB%8C%D9%86%D9%87-%D8%A7%D9%81%D8%AA-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%B1%DB%8C%D8%B3%DA%A9-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%DB%8C/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/publications/quantum-amplitude-estimation-maximum-drawdown-trading-risk/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/publications/</loc>
+    <lastmod>2026-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/publications/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/publications/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2026-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/publications/position-sizing-policies-monte-carlo-algorithmic-trading/</loc>
+    <lastmod>2026-09-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/publications/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AD%D8%AC%D9%85-%D8%AF%D9%87%DB%8C-%D8%B4%D8%A8%DB%8C%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%85%D9%88%D9%86%D8%AA-%DA%A9%D8%A7%D8%B1%D9%84%D9%88-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%DB%8C/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/publications/position-sizing-policies-monte-carlo-algorithmic-trading/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/publications/bias-aware-signal-classification-supply-demand-xauusd/</loc>
+    <lastmod>2026-08-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/publications/%D8%B7%D8%A8%D9%82%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D8%B3%D9%88%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A2%DA%AF%D8%A7%D9%87-%D8%B9%D8%B1%D8%B6%D9%87-%D9%88-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7-%D8%B7%D9%84%D8%A7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/publications/bias-aware-signal-classification-supply-demand-xauusd/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/publications/hybrid-ml-rule-based-decision-support-xauusd-trading/</loc>
+    <lastmod>2026-08-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/publications/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%87%DB%8C%D8%A8%D8%B1%DB%8C%D8%AF%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%88-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA%DB%8C-%D8%B7%D9%84%D8%A7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/publications/hybrid-ml-rule-based-decision-support-xauusd-trading/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/publications/design-implementation-resource-constrained-bias-aware-data-pipeline/</loc>
+    <lastmod>2026-08-03T10:44:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="http://localhost:1313/publications/design-implementation-resource-constrained-bias-aware-data-pipeline/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/publications/design-implementation-resource-constrained-bias-aware-data-pipeline/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/en/tutorials/level0-trade/0-31-backtest-forward-test-and-live-test-explained/</loc>
     <lastmod>2026-08-02T14:23:46+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -63,22 +175,6 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/tutorials/level0-trade/0-31-backtest-forward-test-and-live-test-explained/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-08-02T14:23:46+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fa"
-      href="http://localhost:1313/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/"
     />
   </url>
   <url>
@@ -543,38 +639,6 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/publications/multicriteria-decision-making-tehran-stock-portfolios/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/publications/multicriteria-decision-making-tehran-stock-portfolios/</loc>
-    <lastmod>2026-07-03T10:44:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fa"
-      href="http://localhost:1313/publications/%D8%AA%D8%B5%D9%85%DB%8C%D9%85%DA%AF%DB%8C%D8%B1%DB%8C-%DA%86%D9%86%D8%AF%D9%85%D8%B9%DB%8C%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%A8%D8%AF-%D8%B3%D9%87%D8%A7%D9%85-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/publications/multicriteria-decision-making-tehran-stock-portfolios/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/publications/</loc>
-    <lastmod>2026-07-03T10:44:05+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fa"
-      href="http://localhost:1313/publications/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/publications/"
     />
   </url>
   <url>
